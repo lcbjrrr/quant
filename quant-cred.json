@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quant-277721",
+  "private_key_id": "67236c5f27a366954bbd26758143c32165f80158",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAFz2bHE8ctQOY\nXRHlBwlHdaahPL4s7bpOJz051PtCiF76oI9yqFqIyL9M36EeH052UfYOAnzCkDRt\nSeQEzxgXEUywzyln/OARmblugV5376nq0/GOuh3BeGncI/Z1iZKDUl3uWMA0y0wS\nLUfB1uv4kABEuNWATW4m6VcKRXzEmAtOMcGxW61wxejr5ixF9XnMn9WeiclCrj+z\nsH00lXoslJ5DjNI+m+cdWUCCKwQwdxosTHPlPB0LdLw6h56TRx3bjZm0KPfzC21m\nXJsxNE/1GxM2PAyxjjy9Ba3YJ2fHljh+t3MaWpsudQNaHBXWRmcU82jLJUf2Nlwp\nKPnz0MupAgMBAAECggEAPfdhVsfPl5WnRsADVUwrSKOh8NKtEMZRuwN6g0z7Dw/5\n/8TK8bRwnD6SQ8TCb3qu74lqJEPWJlepqfXTul9qSIq6oDD8DQEs8VCTWpweMveb\n61aazq2oirCDCdKKH4mVO4rXJVv5CS7p59U2mEfyUHl3tLOhoCWaWrAcdYJMCQjq\nHzImsgGWnqiEP/k26PGsZ2xXjSqabXCNg5I7hL5bQiqtQhnNsKncHP3REujUfCfW\nLJcgE/ZkOjlRQTGhEEzycBrICXV51n0kiKULIwMo5ym5N99YRNi1a1JMM2BGKVQ3\neCUy/HLLx51Bz+sOfdnahkoijQO6yFyyr3hEhN3EDwKBgQDpPkIHTclG1x566Cvk\noSKfOrIMvFH0JUI0hqKkj+h/SfAHgPMRKI3pXjir6ZKDAbORZ9o2cL+NgcZBrKtf\n+LULtVl58Ub8myAm+xGMtCdBKgyK0TY6THZZ9BkvpNlLno/VE8mKuGLWjaeXWaZI\nQsjMswer5yDmlw0gGGNbOE6L9wKBgQDS1R09muAy54ZNCsy3kHlBhMN1WbTqh2rb\niDZ9GCXFrbjJlXbHvxaJZnFQzsvXbapi2vcUG7FGQOHksDoMiM6FiL/GLUPkApHe\nbK3Asbuxcqwn1MZenQx54RD4gQzu9/ksh6AWoXtJNZuq2EQtBP01P1LmxHhWZmPr\nde+rFPc9XwKBgBzxALhvSn5jywBtNqUT6XvgiJ9T7sdgqCpkWmIZCTxiLEqCEacb\nZSCD9HxAa1GeMG3meQkwTFR+ud8EUe+CqNRfGE8tRSWrCf5MQQ04fXZ0hUHkW9o4\nCqd2xnlG9z+O2UITRnrUDk+ZHCaHlT56KvhbbqRB9a8nJxXIcOusvPJZAoGAalQI\ntzUQtRuG4/v6WumF/cETQm/HijBZd/YuZNB03ElM1H2IthxtJUaBB5wDudYZBFoi\nGgYNVb0LL+agoAmu/jGFZlEV2DxjjKWKy4/XdRq8MCpjEPxrelxDztBm0W5GQGr2\nFfPC1Z0vsO35FCtb+CrDiJa1if2BjxKfmMyuFEkCgYEA0tUc0v7fgoSrATLRu7FF\nWVmCnxXyI8/VOSOUosalqj6C6068nPHvuhjjL0ATuWi95Je2e/Jjs4x9hM/8rNiB\n+6yV+3eZvsZjfBP7TnFx+e0gmTT2XXt0VxR9GRksCfUvCm4LRPmRuzV6UQk2jRXk\naAt9hoaY4oB4WkYuMMtHI2E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "quant-cred@quant-277721.iam.gserviceaccount.com",
+  "client_id": "102251434085104790916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quant-cred%40quant-277721.iam.gserviceaccount.com"
+}
