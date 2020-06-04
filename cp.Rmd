@@ -1,0 +1,247 @@
+---
+title: "Estimando uma Curva de Phillips"
+date: "`r format(Sys.time(), '%d de %B, %Y')`"
+abstract: "Começamos nesse exercício a estimar as quatro equações que compõem um modelo semiestrutural de pequeno porte para a economia brasileira. Com efeito, começaremos estimando uma Curva de Phillips para a inflação de preços livres com restrição de verticalidade de longo prazo."
+output: 
+  pdf_document:
+    toc: true
+    number_sections: true
+    includes:
+      in_header: header.tex
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 11pt
+bibliography: 'references.bib'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+def.chunk.hook  <- knitr::knit_hooks$get("chunk")
+knitr::knit_hooks$set(chunk = function(x, options) {
+  x <- def.chunk.hook(x, options)
+  ifelse(options$size != "normalsize", paste0("\\", options$size,"\n\n", x, "\n\n \\normalsize"), x)
+})
+
+```
+
+
+\newpage
+# Introdução
+
+O objetivo do exercício será estimar uma forma reduzida da Curva de Phillips do Modelo Semiestrutural de Pequeno Porte do BCB (ver \href{https://www.bcb.gov.br/?RI201809B9P}{aqui}), conforme descrito abaixo:
+
+\begin{align}
+\pi_t^{livres} = \sum_{i>0} \beta_{1i} E_t \pi^{total}_{t+i} +\sum_{j>0} \beta_{2j} \pi^{total}_{t-j} +\sum_{k \geq 0} \beta_{3k} \pi^{importada}_{t-k} + \sum_{l>0} \beta_{4l} hiato_{t-l} + \sum_{m = 1}^4 D_m + \epsilon_t \label{cp}
+\end{align} 
+
+com a imposição da restrição de verticalidade de longo prazo:
+
+\begin{align}
+\sum_{i>0} \beta_{1i} +\sum_{j>0} \beta_{2j} +\sum_{k \geq 0} \beta_{3k} = 1
+\end{align}
+
+Basicamente, a inflação dos preços livres é uma função linear da **inflação passada**, das **expectativas de inflação**, do **hiato do produto** e da **inflação importada**. 
+
+# Pacotes
+
+Abaixo, carregamos os pacotes necessários para o exercício.^[O pacote `rbcb` não está mais disponível no CRAN, sendo necessário instalá-lo via `github` através do pacote `devtools`. Maiores detalhes, ver [aqui](https://github.com/wilsonfreitas/rbcb).]
+
+\bigskip
+
+```{r, echo=T, eval=T, results='markup', fig.cap='', fig.width=8, fig.height=4, fig.align='center', out.width=".7\\linewidth", warning=FALSE, message=FALSE, size='small'}
+
+library(devtools)
+library(tidyverse)
+library(lubridate)
+library(readxl)
+library(restriktor)
+library(RcppRoll)
+library(broom)
+library(scales)
+library(rbcb)
+
+```
+
+
+# Importar expectativas de inflação
+
+O modelo representado por \ref{cp} será estimado em bases trimestrais. Desse modo, vamos precisar fazer algum tratamento dos dados. Para começar, importamos as expectativas de inflação em bases diárias e depois obtemos as expectativas diárias para os trimestres seguintes e, por fim, retiramos a média trimestral dessas expectativas. 
+
+\bigskip
+
+```{r, echo=T, eval=T, results='markup', fig.cap='', fig.width=8, fig.height=4, fig.align='center', out.width=".7\\linewidth", warning=FALSE, message=FALSE, size='small'}
+
+## Importar e Tratar Expectativas de Inflação
+exp_ipca <- get_monthly_market_expectations("IPCA", 
+                                            end_date = "2018-09-31")
+
+diff_quarter <- function(end_date, start_date){
+  
+  year_to_quarters <- (floor(end_date)*4 + (end_date %% 1)*10) - 
+    
+                      (floor(start_date)*4 + (start_date %% 1)*10)
+  
+  return(year_to_quarters)
+  
+}
+
+exp_ipca_aux <- exp_ipca %>%
+  
+  dplyr::select(date, reference_month, median) %>%
+  
+  dplyr::mutate(reference_month = lubridate::ymd(paste(reference_month, 
+                                                       "01", 
+                                                       sep = "-"))) %>%
+  
+  dplyr::mutate(date_year = lubridate::year(date),
+                date_month = lubridate::month(date)) %>%
+  
+  dplyr::group_by(date_year, date_month, reference_month) %>%
+  
+  dplyr::summarise(median_month = mean(median)) %>%
+  
+  dplyr::ungroup() %>%
+  
+  dplyr::mutate(date = lubridate::make_date(year = date_year, 
+                                            month = date_month)) %>%
+  
+  dplyr::select(date, reference_month, median_month) %>%
+  
+  dplyr::filter(date > "2001-12-01") %>%
+  
+  dplyr::mutate(ref_quarter = lubridate::quarter(reference_month, 
+                                                 with_year = T)) %>%
+  
+  dplyr::group_by(date, ref_quarter) %>%
+  
+  dplyr::summarise(median_quarter = last(((cumprod(1+(median_month/100)))-1)*100)) %>%
+  
+  dplyr::mutate(date_quarter = lubridate::quarter(date, with_year = T)) %>%
+  
+  dplyr::group_by(date_quarter, ref_quarter, add = F) %>%
+  
+  dplyr::summarise(median_quarter = mean(median_quarter)) %>%
+  
+  dplyr::filter(ref_quarter > date_quarter) %>%
+  
+  dplyr::mutate(diff = round(diff_quarter(ref_quarter, date_quarter)),1) %>%
+  
+  dplyr::select(-ref_quarter) %>%
+  
+  tidyr::spread(key = diff, value = median_quarter)
+
+colnames(exp_ipca_aux)[-1] <- paste("EInf_t+",
+                                    colnames(exp_ipca_aux)[-1], 
+                                    sep = "")
+
+
+```
+
+# Importar e tratar inflação total e de preços livres
+
+```{r, echo=T, eval=T, results='markup', fig.cap='', fig.width=8, fig.height=4, fig.align='center', out.width=".7\\linewidth", warning=FALSE, message=FALSE, size='small'}
+
+acum_quarter <- function(x){
+  
+  x_fac <- 1+(x/100)
+  
+  x_cum <- RcppRoll::roll_prodr(x_fac, n = 3)
+  
+  x_qr <- last((x_cum-1)*100)
+  
+  return(x_qr)
+  
+}
+
+dados_ipca <- read_csv2('series1.csv',
+                        col_types = 
+                          list(col_date(format='%d/%m/%Y'),
+                               col_double(),
+                               col_double())) %>% 
+  
+  dplyr::mutate(date_quarter = lubridate::quarter(date, with_year = TRUE)) %>%
+  
+  dplyr::group_by(date_quarter) %>%
+  
+  dplyr::summarise_at(vars(ipca_total, ipca_livres), funs(acum_quarter))
+
+
+```
+
+# Importar e tratar IC-Br
+
+```{r, echo=T, eval=T, results='markup', fig.cap='', fig.width=8, fig.height=4, fig.align='center', out.width=".7\\linewidth", warning=FALSE, message=FALSE, size='small'}
+
+acum_ic <- function(x){
+  
+  x_diff <- log(x/first(x))*100
+  
+  x_acum <- last(x_diff)
+  
+  return(x_acum)
+  
+}
+
+dados_ic <- read_csv2('series2.csv',
+                        col_types = 
+                          list(col_date(format='%d/%m/%Y'),
+                               col_double())) %>% 
+  
+  dplyr::mutate(date_quarter = lubridate::quarter(date, with_year = TRUE)) %>%
+  
+  dplyr::group_by(date_quarter) %>%
+  
+  dplyr::summarise_at(vars(ic_br), funs(acum_ic))
+
+
+```
+
+# Importar o hiato do produto
+
+O hiato do produto é divulgado pelo IPEA em frequência trimestral e, logo, não necessita de transformações.
+
+```{r}
+
+hiato <- read_excel("hiato.xlsx") %>%
+  
+  dplyr::mutate(date_quarter = as.numeric(gsub(" T", ".", date_qr)),
+                hiato = hiato*100) %>%
+  
+  dplyr::select(date_quarter, hiato)
+
+```
+
+# Reunir os dados 
+
+```{r, message=FALSE, warning=FALSE}
+
+dados_reg <- dplyr::inner_join(dados_ipca, dados_ic) %>% 
+  
+  dplyr::inner_join(hiato) %>% 
+  
+  dplyr::inner_join(exp_ipca_aux) %>%
+  
+  dplyr::mutate(quarter = sub('.*\\.', '', date_quarter)) %>%
+  
+  dplyr::filter(date_quarter >= 2002.1) %>%
+  
+  dplyr::mutate(ipca_l1 = lag(ipca_total, 1),
+                ipca_l2 = lag(ipca_total, 2),
+                hiato_l3 = lag(hiato, 3),
+                ic_l1 = lag(ic_br,1),
+                Einf_1 = `EInf_t+1`)
+```
+
+
+# Estimar o modelo com e sem restrição
+
+```{r}
+
+modelo_unr <- lm(ipca_livres ~ -1 + ipca_l1 + ipca_l2 + Einf_1 + hiato_l3 + ic_l1 + quarter, data = dados_reg)
+
+modelo_res <- restriktor(modelo_unr, constraints = ' ipca_l1 + ipca_l2 + Einf_1 + ic_l1 == 1 ')
+
+summary(modelo_res)
+
+```
+
