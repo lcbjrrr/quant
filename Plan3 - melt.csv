@@ -1,0 +1,61 @@
+Categoria,Meses,Valores
+Água,Janeiro,  50.00 
+Água,Fevereiro,  55.00 
+Água,Março,  60.00 
+Água,Abril,  65.00 
+Água,Maio,  70.00 
+Água,Junho,  75.00 
+Água,Julho,  80.00 
+Água,Agosto,  85.00 
+Água,Setembro,  90.00 
+Água,Outubro,  95.00 
+Água,Novembro,  100.00 
+Água,Dezembro,  105.00 
+Energia,Janeiro,  450.00 
+Energia,Fevereiro,  425.00 
+Energia,Março,  400.00 
+Energia,Abril,  375.00 
+Energia,Maio,  350.00 
+Energia,Junho,  325.00 
+Energia,Julho,  300.00 
+Energia,Agosto,  275.00 
+Energia,Setembro,  250.00 
+Energia,Outubro,  225.00 
+Energia,Novembro,  200.00 
+Energia,Dezembro,  175.00 
+Telefonia,Janeiro,  154.50 
+Telefonia,Fevereiro,  138.00 
+Telefonia,Março,  120.00 
+Telefonia,Abril,  43.00 
+Telefonia,Maio,  154.50 
+Telefonia,Junho,  138.00 
+Telefonia,Julho,  120.00 
+Telefonia,Agosto,  43.00 
+Telefonia,Setembro,  154.50 
+Telefonia,Outubro,  138.00 
+Telefonia,Novembro,  120.00 
+Telefonia,Dezembro,  43.00 
+Condominio,Janeiro,  980.00 
+Condominio,Fevereiro,  980.00 
+Condominio,Março,  980.00 
+Condominio,Abril,  980.00 
+Condominio,Maio,  980.00 
+Condominio,Junho,  980.00 
+Condominio,Julho,  980.00 
+Condominio,Agosto,  980.00 
+Condominio,Setembro,  980.00 
+Condominio,Outubro,  980.00 
+Condominio,Novembro,  980.00 
+Condominio,Dezembro,  980.00 
+Suprimentos,Janeiro,"  1,340.00 "
+Suprimentos,Fevereiro,"  2,450.00 "
+Suprimentos,Março,"  1,789.75 "
+Suprimentos,Abril,"  2,133.33 "
+Suprimentos,Maio,"  1,340.00 "
+Suprimentos,Junho,"  2,450.00 "
+Suprimentos,Julho,"  1,789.75 "
+Suprimentos,Agosto,"  2,133.33 "
+Suprimentos,Setembro,"  1,340.00 "
+Suprimentos,Outubro,"  2,450.00 "
+Suprimentos,Novembro,"  1,789.75 "
+Suprimentos,Dezembro,"  2,133.33 "
