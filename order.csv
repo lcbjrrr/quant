@@ -1,0 +1,22 @@
+Product,Dept,Quantity
+A4 paper,ADM,3
+Staple,ADM,2
+Pencil,SALES,3
+Blue Pen,HR,10
+Cartridge HP,RH,1
+Staple,RH,4
+Glue stick,ADM,2
+Pencil,SALES,3
+HP Cartridge,ADM,2
+Black Pen,SALES,4
+Glue Stick,SALES,3
+A4 paper,SALES,12
+Black Pen,HR,1
+Clips,ADM,2
+Pencil,HR,10
+Black Pen,ADM,8
+Blue Pen,ADM,6
+Clips,SALES,2
+Black Pen,HR,9
+Pencil,HR,4
+Clips,ADM,3
