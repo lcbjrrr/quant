@@ -1,0 +1,2129 @@
+age,gender,marriage_status,studies,dependents,last_usage_time,working,wage,type_housing,own_home,home_value,credit_cards_qty,cars_qty,score
+50,M,solteiro,ensino medio,0,32,1,66.40032702,3,0,0,1,0,317.7
+36,M,casado,mestrado,1,23,1,110.0274207,5,0,0,1,0,773
+51,M,casado,ensino fundam,3,32,1,132.4626904,5,0,0,1,0,464
+48,M,divorciado,ensino medio,2,31,1,94.58566991,4,0,0,1,0,337
+49,F,solteiro,ensino medio,0,29,1,71.12225222,1,1,464,1,1,482.4
+41,F,solteiro,ensino medio,1,21,1,22.31161681,3,0,0,1,1,368.1
+35,F,casado,ensino medio,1,17,1,17.28496554,5,0,0,1,0,264
+46,M,casado,ensino fundam,4,26,1,97.7379292,6,0,0,1,1,475
+52,M,casado,graduacao,2,35,1,189.9349682,5,0,0,1,0,272
+46,M,divorciado,ensino fundam,2,27,1,126.6331762,3,1,292,1,1,460
+45,F,casado,graduacao,3,28,1,62.67814958,5,0,0,1,1,325
+42,M,solteiro,ensino medio,0,23,1,96.49923783,4,0,0,1,1,463.5
+49,F,solteiro,ensino fundam,1,31,1,22.35673505,4,0,0,1,0,396.9
+51,M,casado,ensino medio,1,32,1,101.6004654,3,1,397,1,1,518
+43,M,casado,ensino medio,2,25,1,95.95581791,6,0,0,1,1,557
+47,F,solteiro,ensino fundam,0,31,1,22.14608033,6,0,0,1,0,347.4
+44,M,divorciado,ensino fundam,4,27,1,90.74890558,4,0,0,1,1,298
+48,M,casado,ensino fundam,4,31,1,95.57480046,2,1,285,3,1,526
+45,F,casado,ensino medio,2,30,1,28.51291239,2,1,842,1,0,464
+44,M,solteiro,ensino medio,0,31,1,66.2893903,3,0,0,1,0,379.8
+52,M,solteiro,ensino medio,0,38,1,191.8510984,6,0,0,1,1,368.1
+43,M,solteiro,ensino fundam,0,30,1,64.83526684,6,0,0,1,0,347.4
+47,F,divorciado,mestrado,3,33,1,71.17096701,2,1,505,1,1,537
+50,F,casado,ensino fundam,3,33,1,17.91249311,6,0,0,1,0,299
+38,F,solteiro,graduacao,0,24,1,71.33315443,2,1,787,3,0,585.9
+45,M,casado,ensino medio,2,33,1,64.26166037,5,0,0,1,0,412
+43,M,casado,graduacao,3,30,1,120.6387991,6,0,0,1,1,342
+47,F,solteiro,doutorado,1,33,1,70.82088853,6,0,0,1,1,503.1
+41,F,solteiro,graduacao,0,30,1,21.38242585,2,1,1385,1,0,730.8
+53,F,solteiro,ensino medio,0,40,1,66.51683747,6,0,0,1,0,302.4
+42,M,casado,ensino medio,3,30,1,72.35804575,1,1,822,2,0,568
+48,F,solteiro,ensino medio,0,39,1,41.0799457,2,1,1553,1,0,658.8
+44,F,solteiro,graduacao,0,32,1,35.34176501,2,1,1274,1,0,581.4
+35,F,casado,mestrado,3,24,1,16.29705105,4,0,0,1,0,219
+40,F,divorciado,ensino medio,2,21,0,0,6,0,0,1,1,356
+53,F,casado,graduacao,2,35,1,74.65817062,1,1,501,1,2,628
+47,F,solteiro,doutorado,0,29,1,101.1163812,3,0,0,1,0,433.8
+55,F,casado,doutorado,1,36,1,103.1622133,1,1,224,1,1,484
+43,F,casado,ensino fundam,1,24,1,18.31467294,4,0,0,1,1,345
+37,F,solteiro,ensino medio,0,19,1,17.68234496,4,0,0,1,0,247.5
+48,M,casado,doutorado,2,32,1,194.5543205,3,1,309,2,0,679.35
+38,M,solteiro,doutorado,0,21,1,119.0135533,4,0,0,1,0,344.7
+34,F,na,ensino medio,2,17,1,20.50617011,4,0,0,1,0,325
+54,F,casado,graduacao,3,36,1,20.18794608,2,1,240,1,0,366
+49,M,solteiro,doutorado,0,32,1,123.4511881,4,0,0,1,0,217.8
+37,M,casado,ensino medio,1,19,1,114.4419345,6,0,0,1,1,227
+40,F,casado,mestrado,5,23,1,19.8575456,6,0,0,1,0,290
+45,F,solteiro,graduacao,1,27,1,66.9255729,3,0,0,1,0,343.8
+51,F,casado,graduacao,0,32,1,21.98880439,5,0,0,1,0,492
+53,F,na,ensino fundam,2,34,1,23.6838813,2,1,443,1,1,518
+53,F,solteiro,ensino fundam,0,34,1,71.02435315,5,0,0,1,1,495
+40,F,casado,ensino medio,4,21,1,17.10831502,3,1,160,1,1,331
+51,M,casado,ensino fundam,0,36,1,200.1854149,5,0,0,2,0,641
+56,M,casado,mestrado,1,39,1,131.8010234,6,0,0,1,0,376
+51,F,divorciado,graduacao,2,35,1,23.73733405,2,1,487,1,0,367
+39,M,solteiro,ensino fundam,0,22,1,116.1750167,6,0,0,1,0,228.6
+32,M,solteiro,ensino fundam,0,15,1,105.514945,2,1,1495,1,1,665.1
+54,F,na,ensino medio,4,36,1,69.26232962,2,1,266,1,1,336
+40,M,solteiro,doutorado,1,22,1,92.25818201,3,0,0,1,0,436.5
+49,F,solteiro,ensino medio,0,30,1,64.79343632,5,0,0,1,1,354.6
+34,M,casado,mestrado,1,18,1,106.9624936,3,1,1472,1,1,683
+39,F,solteiro,ensino medio,1,20,0,0,1,1,493,1,1,303.12
+54,F,casado,graduacao,1,45,1,42.59991513,2,1,1520,1,1,762
+52,F,casado,graduacao,1,34,1,23.96407191,2,1,476,1,1,473
+38,F,casado,ensino medio,4,19,1,62.67183254,4,0,0,1,0,401
+50,F,casado,graduacao,2,34,1,23.49747265,6,0,0,1,1,449
+52,M,solteiro,graduacao,0,35,1,196.6317605,6,0,0,1,1,585
+42,F,solteiro,ensino medio,0,26,1,21.69564569,6,0,0,1,0,342.9
+50,F,casado,ensino medio,1,33,1,22.09702257,5,0,0,1,1,459
+56,M,divorciado,ensino medio,2,42,1,204.0167712,3,1,433,1,1,519
+54,F,casado,graduacao,3,36,0,0,4,0,0,1,0,317.6
+56,M,solteiro,graduacao,1,39,1,141.2415217,4,0,0,1,1,687.6
+41,F,casado,doutorado,2,30,1,91.84827572,6,0,0,1,0,375
+58,F,solteiro,mestrado,0,39,1,25.23898138,4,0,0,1,1,542.7
+51,M,solteiro,ensino fundam,0,37,1,194.7265334,6,0,0,1,1,467.1
+45,F,casado,graduacao,3,32,0,0,4,0,0,1,1,358.4
+58,M,divorciado,graduacao,2,44,1,107.1545738,6,0,0,1,1,475
+38,F,casado,mestrado,2,25,1,16.71376946,3,1,298,1,1,347
+49,M,casado,graduacao,0,37,1,99.67200565,6,0,0,1,0,525
+33,M,casado,graduacao,3,21,1,60.95740269,1,1,407,1,1,400
+48,M,solteiro,mestrado,0,38,1,195.1208477,4,0,0,1,0,617.382
+59,M,solteiro,mestrado,0,47,1,71.86244379,3,0,0,2,0,484.2
+59,M,na,mestrado,0,44,1,106.3587532,2,1,260,1,2,686
+53,F,solteiro,ensino medio,0,40,1,24.03293846,6,0,0,1,1,506.7
+40,F,casado,ensino fundam,2,28,1,16.65088073,4,0,0,2,1,325
+44,M,casado,ensino medio,3,31,1,93.97394161,5,0,0,1,1,488
+48,F,casado,graduacao,3,36,1,70.65394862,3,1,460,1,1,493
+38,M,solteiro,ensino medio,0,23,1,20.12749001,4,0,0,1,1,471.6
+38,F,solteiro,graduacao,0,20,1,17.79865759,3,0,0,1,0,294.3
+40,F,casado,ensino fundam,4,21,1,61.98973238,5,0,0,1,1,336
+37,F,casado,mestrado,2,21,1,129.5217208,2,1,743,2,1,601
+42,F,solteiro,ensino medio,0,24,1,66.93755411,6,0,0,2,0,441.9
+37,M,solteiro,ensino fundam,0,20,1,120.4947812,4,0,0,1,0,485.1
+40,M,na,ensino medio,5,23,1,59.69852636,6,0,0,1,1,308
+43,F,solteiro,ensino fundam,0,27,1,21.75337354,3,0,0,1,0,297.9
+36,M,solteiro,ensino medio,0,16,1,89.51992725,3,0,0,1,1,510.3
+44,M,casado,ensino medio,1,30,1,134.9104309,2,1,767,3,0,687
+51,F,solteiro,mestrado,0,33,1,19.01383684,2,1,191,1,1,367.2
+53,M,solteiro,ensino medio,0,35,1,198.0754264,4,0,0,1,1,455.4
+58,F,casado,ensino fundam,2,41,1,19.37138761,6,0,0,1,1,346
+59,M,solteiro,graduacao,0,43,1,23.94759126,2,1,446,1,0,419.4
+42,F,casado,ensino fundam,1,24,1,21.99821062,5,0,0,1,1,461
+44,M,na,ensino fundam,1,28,1,125.7001539,6,0,0,1,0,381
+56,M,casado,ensino fundam,2,39,1,98.7083375,3,1,269,1,1,340
+43,M,divorciado,ensino medio,3,32,1,115.282199,2,1,1473,1,0,788
+43,M,na,doutorado,4,26,1,92.58027494,3,1,206,1,0,432
+36,M,solteiro,ensino fundam,0,19,1,93.03649087,4,0,0,1,0,422.1
+55,M,casado,doutorado,3,37,1,197.3667639,4,0,0,1,1,469.35
+43,M,divorciado,ensino fundam,3,28,1,89.54976882,3,1,255,1,1,257
+48,M,divorciado,doutorado,3,34,1,150.8464654,4,0,0,1,0,712
+46,M,casado,ensino medio,3,29,1,129.3335031,5,0,0,1,0,598
+65,F,solteiro,mestrado,0,46,1,22.66248678,3,0,0,1,1,520.2
+53,M,solteiro,graduacao,0,36,1,128.3425046,6,0,0,1,0,307.8
+52,M,casado,ensino medio,2,41,1,143.5487468,1,1,775,1,1,763
+50,M,casado,graduacao,1,36,1,36.08226151,2,1,1254,1,0,674
+27,M,solteiro,ensino medio,0,13,1,34.58323366,2,1,1566,1,0,613.8
+50,M,casado,ensino fundam,4,34,1,65.91403903,6,0,0,1,0,442
+43,F,casado,ensino medio,3,29,1,64.63462885,4,0,0,1,1,383
+40,F,casado,doutorado,2,23,1,61.23689373,2,1,163,1,0,300
+39,M,casado,ensino medio,4,26,1,181.8230484,3,1,345,1,1,596
+31,F,casado,ensino medio,0,19,1,19.84965083,5,0,0,1,0,318
+40,M,solteiro,ensino medio,1,29,1,92.38995786,4,0,0,1,0,360
+46,M,solteiro,ensino fundam,1,34,1,182.1038533,5,0,0,1,0,299.7
+33,M,solteiro,doutorado,0,22,1,172.2213614,5,0,0,1,0,402.57
+39,F,solteiro,ensino medio,0,27,1,103.1112464,2,1,878,1,0,574.2
+41,F,solteiro,ensino medio,0,28,1,62.86066801,4,0,0,1,1,360
+53,F,solteiro,ensino medio,0,40,1,21.06317895,3,0,0,1,1,516.6
+43,F,divorciado,doutorado,3,30,1,98.6216845,6,0,0,1,1,503
+49,M,casado,ensino medio,4,37,1,100.3133055,3,1,423,1,1,482
+61,F,casado,ensino medio,0,49,1,19.28953241,4,0,0,1,1,359
+49,F,na,ensino medio,5,33,1,23.11220837,1,1,444,1,1,528
+53,M,casado,ensino fundam,2,37,1,71.87596549,2,1,477,1,1,494
+63,F,casado,ensino fundam,1,48,1,71.58430694,3,1,154,1,0,365
+59,M,solteiro,graduacao,0,43,1,105.5991394,4,0,0,1,0,454.5
+32,M,casado,graduacao,1,17,1,57.58517706,4,0,0,1,0,290
+63,F,casado,ensino fundam,0,46,1,20.09967513,5,0,0,1,1,394
+56,F,solteiro,mestrado,0,40,1,24.0979271,4,0,0,1,0,468.9
+39,F,na,ensino medio,1,23,1,20.82734101,4,0,0,1,1,389
+53,M,casado,graduacao,2,37,1,193.7008726,3,1,295,1,1,424
+52,F,solteiro,ensino medio,0,36,1,23.54643331,2,1,450,1,0,471.6
+61,F,casado,graduacao,0,44,1,21.49733857,1,1,242,1,0,541
+55,M,solteiro,mestrado,0,37,1,197.8345168,3,0,0,1,1,549.711
+44,F,casado,ensino fundam,2,28,1,20.61930492,5,0,0,1,1,382
+52,F,casado,ensino fundam,3,36,1,23.43575437,1,1,443,1,1,474
+53,M,casado,doutorado,2,37,1,100.1925991,3,1,217,1,1,534
+55,F,solteiro,ensino medio,0,39,1,24.08814526,6,0,0,1,1,486.9
+50,F,casado,ensino medio,2,36,1,24.11469771,2,1,510,1,0,436
+36,M,casado,ensino fundam,2,29,1,80.92871859,1,1,1524,3,0,773
+33,F,casado,ensino medio,1,18,1,20.713882,2,1,470,1,1,388
+35,F,casado,ensino medio,2,22,0,0,2,1,473,1,1,391.2
+43,F,solteiro,graduacao,2,31,1,21.70894637,6,0,0,1,0,395.1
+39,F,solteiro,ensino fundam,1,26,1,22.14494473,5,0,0,1,1,423
+29,M,solteiro,ensino fundam,0,16,1,109.7479886,5,0,0,1,1,323.1
+57,M,casado,ensino medio,1,44,1,134.4692935,5,0,0,1,1,467
+43,M,na,ensino fundam,3,30,1,95.63078504,4,0,0,1,0,546
+42,F,solteiro,ensino fundam,1,29,1,20.88245669,6,0,0,2,1,467.1
+48,M,casado,ensino medio,3,37,1,99.55173176,6,0,0,1,0,399
+49,M,na,ensino fundam,4,37,1,133.1755147,2,1,548,1,1,456
+44,F,casado,ensino fundam,3,33,1,69.04005486,3,1,508,1,0,427
+38,M,casado,ensino fundam,2,24,1,17.28315244,4,0,0,1,0,291
+58,M,solteiro,ensino fundam,0,44,1,209.9460831,1,1,486,2,1,641.7
+44,M,solteiro,ensino fundam,0,26,1,126.9985343,5,0,0,1,1,495.9
+54,M,casado,doutorado,3,38,1,198.0514656,3,1,187,1,1,552.3
+37,F,casado,ensino medio,3,22,0,0,3,1,157,1,1,241.6
+56,F,solteiro,ensino fundam,0,41,1,19.95923547,3,0,0,1,0,347.4
+41,M,divorciado,graduacao,3,27,1,132.6116254,1,1,800,1,1,688
+47,M,solteiro,ensino medio,0,31,1,74.11097029,4,0,0,1,1,531.9
+43,F,solteiro,ensino fundam,0,27,1,22.9872559,3,0,0,1,1,438.3
+49,M,solteiro,ensino medio,0,33,1,137.0137648,2,1,733,1,1,529.2
+54,F,casado,graduacao,1,49,1,38.30296191,1,1,1259,2,1,793
+63,F,casado,mestrado,0,51,0,0,5,0,0,1,1,424
+47,F,divorciado,ensino medio,3,37,1,21.73188308,5,0,0,1,0,418
+58,F,solteiro,doutorado,0,45,1,69.83598025,5,0,0,2,0,464.4
+33,F,na,mestrado,2,20,1,58.81173562,4,0,0,1,1,303
+53,F,casado,ensino medio,5,47,1,91.66342606,1,1,1457,1,1,764
+35,M,solteiro,doutorado,0,20,1,58.78563662,4,0,0,1,1,326.7
+42,M,solteiro,mestrado,0,28,1,93.31304346,4,0,0,1,0,394.2
+49,M,solteiro,graduacao,0,37,1,122.2621918,1,1,1642,1,0,737.1
+53,M,casado,ensino fundam,1,40,1,64.82451324,5,0,0,1,0,291
+58,F,solteiro,ensino medio,0,43,1,73.21505662,3,0,0,1,1,462.6
+47,M,solteiro,graduacao,2,34,1,42.78851732,4,0,0,1,1,743.4
+49,F,solteiro,mestrado,0,36,1,75.71701987,2,1,738,1,0,514.8
+58,F,casado,ensino medio,0,45,1,76.23611736,2,1,496,1,1,521
+42,F,divorciado,ensino medio,2,29,1,67.08457923,6,0,0,1,1,412
+47,F,casado,ensino fundam,3,32,1,21.69937989,5,0,0,1,2,499
+48,M,casado,mestrado,2,34,1,130.1376048,4,0,0,1,1,528
+43,F,divorciado,graduacao,4,29,1,19.17090603,2,1,261,1,1,420
+39,M,casado,mestrado,2,25,1,88.76574006,6,0,0,1,0,378
+56,F,casado,mestrado,2,43,1,74.51634528,6,0,0,1,0,516
+39,F,na,ensino fundam,2,26,1,62.50152869,1,1,260,1,1,349
+49,M,na,graduacao,3,37,1,69.80539916,4,0,0,1,0,437
+41,M,casado,ensino fundam,3,29,1,92.76291573,3,1,380,1,0,312
+35,M,na,ensino medio,1,22,1,118.1285783,4,0,0,1,1,475
+65,M,solteiro,mestrado,0,54,1,143.4338432,3,0,0,1,0,504
+34,M,na,doutorado,3,20,1,90.50621591,4,0,0,2,1,551
+41,M,casado,ensino medio,1,29,1,131.53084,3,1,683,1,1,743
+53,M,solteiro,ensino fundam,0,40,1,134.5148189,4,0,0,1,0,436.5
+46,M,casado,graduacao,3,32,1,97.99904322,4,0,0,1,1,572
+41,M,solteiro,doutorado,0,29,1,93.20179598,4,0,0,1,0,396
+51,F,casado,graduacao,3,37,1,23.97434533,6,0,0,1,1,549
+45,M,divorciado,graduacao,4,32,1,19.05033157,4,0,0,1,1,358
+51,F,solteiro,graduacao,0,37,1,23.68251243,1,1,453,1,1,585
+51,M,solteiro,ensino fundam,0,36,1,214.8714314,2,1,1363,1,0,648.9
+43,F,casado,ensino medio,5,33,0,0,5,0,0,1,0,316
+49,F,solteiro,ensino medio,1,26,1,76.09881527,1,1,769,1,1,500.4
+46,F,casado,ensino fundam,3,36,1,68.69149539,6,0,0,1,1,491
+57,F,na,graduacao,3,35,1,24.71423361,6,0,0,1,2,587
+46,M,casado,graduacao,2,29,1,66.78365502,4,0,0,1,1,435
+40,M,casado,mestrado,4,20,1,124.3487702,6,0,0,1,1,506
+35,M,solteiro,ensino medio,0,14,1,59.79145536,6,0,0,2,1,408.6
+38,F,solteiro,graduacao,0,17,1,20.11552076,4,0,0,1,1,378
+43,M,solteiro,ensino fundam,0,32,1,90.77021942,6,0,0,1,0,319.5
+49,M,casado,graduacao,4,31,0,0,2,1,355,1,0,304
+46,M,divorciado,ensino medio,1,28,1,187.5017683,6,0,0,1,1,376
+65,F,divorciado,ensino medio,0,49,1,78.6571549,3,1,407,1,1,605
+43,M,casado,ensino medio,3,30,1,123.3516013,3,1,198,1,2,522
+57,F,casado,ensino fundam,3,46,1,68.79125315,4,0,0,1,1,390
+50,M,casado,ensino medio,2,40,1,198.4775676,1,1,479,1,1,603
+30,M,divorciado,ensino medio,0,22,1,111.5225562,6,0,0,1,0,399
+39,F,solteiro,graduacao,0,20,1,22.18773587,5,0,0,1,1,399.6
+50,M,casado,doutorado,1,33,1,195.2803589,6,0,0,1,1,599.55
+55,M,casado,graduacao,2,46,1,132.93011,3,1,217,1,0,437
+40,M,na,graduacao,3,30,1,18.19622495,1,1,248,1,0,416
+43,F,solteiro,graduacao,0,33,1,22.94251827,5,0,0,1,1,481.5
+45,M,solteiro,ensino medio,0,35,1,76.06109313,1,1,950,1,1,597.6
+44,F,solteiro,graduacao,0,24,1,20.86861432,2,1,381,1,0,291.6
+58,M,divorciado,graduacao,2,52,1,107.1658647,6,0,0,1,1,677
+58,M,solteiro,mestrado,0,50,1,134.9583025,1,1,184,1,0,436.5
+47,M,divorciado,ensino medio,2,39,1,126.3043815,3,1,253,1,1,411
+31,M,divorciado,ensino medio,0,24,1,84.4212336,6,0,0,1,0,318
+50,F,casado,ensino medio,1,43,1,24.94856167,3,1,553,1,0,498
+55,M,solteiro,mestrado,0,46,1,67.67652686,6,0,0,1,1,397.8
+59,F,casado,ensino medio,0,50,1,25.51735384,4,0,0,1,2,699
+35,M,na,doutorado,3,28,1,112.3657454,2,1,222,1,0,312
+53,F,casado,ensino fundam,1,44,1,69.58668191,3,1,231,1,0,539
+48,M,casado,mestrado,2,39,1,70.06777855,1,1,468,1,1,597
+47,F,casado,graduacao,2,36,1,22.9302556,6,0,0,1,0,391
+47,M,casado,ensino medio,4,40,1,67.14653928,5,0,0,1,0,630
+50,M,solteiro,doutorado,0,43,1,199.4241809,5,0,0,1,1,635.04
+41,F,casado,ensino fundam,3,33,0,0,6,0,0,1,0,409.6
+42,F,divorciado,graduacao,5,34,1,23.85649056,5,0,0,1,1,512
+35,F,casado,ensino fundam,1,27,1,20.79947269,4,0,0,1,1,466
+45,F,casado,ensino fundam,4,37,1,18.60820095,3,1,211,1,1,391
+39,M,casado,mestrado,3,29,1,121.294156,6,0,0,1,2,663
+34,F,solteiro,ensino medio,1,26,1,63.17162163,5,0,0,1,0,407.7
+55,F,solteiro,ensino medio,0,49,1,30.83771277,1,1,829,2,0,666.9
+41,M,casado,graduacao,3,39,1,114.9960315,1,1,1495,2,1,881
+59,M,casado,ensino medio,0,51,1,69.57603828,3,1,180,1,1,469
+44,F,casado,mestrado,3,35,1,129.2853072,4,0,0,1,1,574
+43,M,casado,mestrado,4,36,1,94.41911893,4,0,0,1,0,396
+55,M,divorciado,mestrado,2,46,1,101.7071795,4,0,0,1,2,644
+46,M,na,ensino medio,3,33,1,130.076201,6,0,0,1,2,574
+62,M,na,ensino medio,0,57,1,148.5266585,4,0,0,1,1,781
+53,F,casado,ensino medio,3,41,1,19.99340215,5,0,0,1,2,594
+58,M,solteiro,ensino medio,1,51,1,200.5130014,6,0,0,1,0,456.3
+57,M,casado,doutorado,4,51,1,203.1694132,4,0,0,1,1,614.25
+42,F,solteiro,ensino fundam,1,35,1,68.17403205,3,0,0,1,0,397.8
+51,M,solteiro,doutorado,0,43,1,197.2701236,4,0,0,1,0,583.065
+37,F,casado,ensino fundam,0,29,1,17.36050921,5,0,0,1,1,351
+43,M,solteiro,mestrado,0,34,1,95.61521448,4,0,0,2,1,582.3
+45,M,divorciado,mestrado,1,37,1,97.62341466,4,0,0,1,1,530
+54,F,casado,mestrado,2,42,1,67.49313735,5,0,0,1,0,302
+41,M,casado,graduacao,3,31,1,59.19021322,4,0,0,1,1,256
+56,F,divorciado,ensino medio,2,48,1,107.0501744,5,0,0,1,1,502
+40,M,casado,ensino fundam,2,31,1,93.54741687,6,0,0,1,1,446
+31,F,divorciado,graduacao,1,24,1,20.48744097,2,1,479,1,0,364
+38,M,casado,graduacao,2,30,1,59.73336267,3,1,200,1,1,306
+54,F,solteiro,ensino medio,0,47,0,0,1,1,785,1,0,450
+39,F,solteiro,graduacao,0,30,1,20.75357717,6,0,0,1,1,423
+56,F,casado,graduacao,1,54,1,24.07330893,1,1,1394,1,1,853
+34,F,solteiro,ensino medio,1,25,1,62.28933876,2,1,378,1,1,410.4
+55,M,casado,ensino medio,1,48,1,134.312415,4,0,0,1,1,632
+49,F,casado,ensino medio,1,40,1,20.48411612,5,0,0,1,1,472
+36,M,casado,graduacao,2,31,1,137.0398408,2,1,1446,1,0,667
+26,F,casado,ensino fundam,0,18,1,19.65332665,2,1,475,1,1,370
+33,M,casado,graduacao,3,19,1,117.2095587,5,0,0,1,1,466
+36,F,divorciado,mestrado,0,27,1,59.56102482,1,1,291,1,0,368
+53,F,solteiro,graduacao,0,45,1,23.72092134,6,0,0,1,0,508.5
+43,F,casado,ensino medio,0,43,1,42.67795139,2,1,1712,1,0,789
+52,M,solteiro,ensino medio,0,44,1,102.0758483,4,0,0,1,0,511.2
+37,F,casado,graduacao,2,28,1,17.92764354,5,0,0,1,1,393
+51,F,solteiro,ensino fundam,0,43,0,0,2,1,451,1,0,395.28
+46,M,solteiro,doutorado,0,38,1,62.70314721,4,0,0,2,0,369
+40,M,divorciado,ensino fundam,3,31,1,93.754114,3,1,339,1,1,564
+41,M,na,ensino fundam,2,22,1,124.5479572,3,1,408,1,0,506
+44,M,casado,ensino medio,2,37,1,66.66217408,4,0,0,1,0,442
+50,M,solteiro,mestrado,0,42,1,101.8094378,1,1,491,1,0,457.2
+45,M,casado,ensino fundam,5,36,1,94.70211004,2,1,266,1,1,423
+46,M,na,mestrado,5,36,1,64.79898389,5,0,0,1,2,511
+49,F,solteiro,ensino medio,0,40,1,20.03822887,6,0,0,1,1,445.5
+54,F,solteiro,ensino medio,0,47,1,21.90104245,6,0,0,1,0,460.8
+37,F,casado,ensino medio,4,29,1,17.33095047,5,0,0,1,1,324
+61,F,na,ensino medio,1,54,1,77.78747276,4,0,0,1,1,640
+47,F,solteiro,graduacao,0,38,1,64.8647861,4,0,0,1,1,400.5
+50,F,casado,graduacao,3,39,1,22.83909804,4,0,0,1,1,533
+42,F,casado,graduacao,4,33,1,16.56416172,2,1,247,3,1,428
+59,F,solteiro,ensino medio,0,51,1,77.36207333,2,1,535,1,0,518.4
+53,F,casado,ensino fundam,4,45,1,23.03273625,3,1,406,1,1,494
+43,F,casado,ensino fundam,2,36,1,29.38359481,3,1,895,1,1,632
+59,M,solteiro,ensino medio,0,53,1,210.9277918,6,0,0,1,0,669.6
+60,M,casado,ensino fundam,0,53,1,101.9358491,4,0,0,1,0,334
+48,M,casado,graduacao,2,41,1,76.85220678,2,1,858,1,1,690
+50,F,casado,mestrado,2,44,0,0,6,0,0,1,0,504.8
+42,F,solteiro,mestrado,1,33,1,20.25704231,4,0,0,2,1,477.9
+44,M,casado,ensino fundam,3,37,1,122.1955535,3,1,205,1,0,342
+51,M,casado,ensino fundam,2,44,1,135.2235969,3,1,393,1,1,670
+59,F,casado,ensino fundam,0,51,1,75.82963994,3,1,446,1,1,517
+44,F,casado,ensino fundam,1,36,1,17.40223039,5,0,0,1,0,371
+49,M,solteiro,mestrado,0,40,1,131.3689618,3,0,0,1,1,525.6
+47,M,solteiro,ensino fundam,0,40,1,105.271625,2,1,719,1,1,657.9
+34,M,solteiro,doutorado,2,25,1,116.5476225,3,0,0,2,1,552.6
+43,M,na,doutorado,1,34,1,97.32885841,4,0,0,1,0,561
+52,F,casado,ensino medio,1,45,1,72.43051651,5,0,0,1,0,490
+35,M,na,mestrado,2,28,1,168.3858872,5,0,0,1,0,245.14
+42,F,casado,ensino medio,5,34,1,21.91665309,5,0,0,1,0,516
+52,M,divorciado,mestrado,2,45,1,69.34100589,5,0,0,1,0,424
+56,M,casado,ensino medio,1,46,1,137.1055287,3,1,236,1,2,671
+70,M,casado,graduacao,0,54,1,19.851722,3,1,273,1,1,401
+50,M,divorciado,ensino fundam,4,42,1,98.21492189,4,0,0,1,1,526
+56,F,casado,graduacao,2,38,1,68.85196013,5,0,0,1,1,375
+43,M,solteiro,ensino fundam,0,21,1,61.016419,6,0,0,1,0,243.9
+52,F,casado,ensino medio,0,36,1,22.49550422,3,1,399,1,0,372
+57,M,solteiro,graduacao,0,42,1,107.7257545,3,0,0,1,1,603
+39,F,casado,graduacao,1,23,1,18.73570974,2,1,287,1,1,267
+40,M,divorciado,doutorado,2,24,1,182.6110532,3,1,478,1,1,453.6
+29,M,casado,graduacao,2,13,1,107.8304293,6,0,0,1,1,234
+51,F,casado,ensino medio,0,34,1,71.90706766,4,0,0,1,1,533
+49,F,casado,graduacao,4,32,1,23.65285691,5,0,0,1,1,527
+41,M,casado,mestrado,3,25,1,60.4894097,3,1,273,1,0,404
+26,M,solteiro,ensino medio,0,11,1,14.15692509,5,0,0,1,0,189
+53,M,solteiro,mestrado,0,38,1,97.22633751,5,0,0,1,0,386.1
+35,F,casado,ensino fundam,0,20,1,22.01658323,2,1,533,1,1,430
+43,M,casado,graduacao,1,29,1,126.9824193,1,1,408,2,0,561
+49,M,casado,ensino medio,2,34,1,132.2785659,4,0,0,1,1,579
+36,F,solteiro,doutorado,0,21,1,93.40814585,5,0,0,1,0,382.5
+57,F,casado,ensino fundam,2,43,1,19.12927415,4,0,0,1,1,337
+46,F,na,ensino fundam,1,31,1,23.44541957,1,1,501,1,1,491
+60,M,divorciado,graduacao,1,45,1,140.9592964,1,1,225,1,2,711
+48,F,casado,graduacao,1,32,0,0,6,0,0,1,2,458.4
+55,M,casado,doutorado,4,41,1,133.5505066,6,0,0,1,0,522
+41,M,divorciado,mestrado,3,29,1,125.0038656,5,0,0,1,1,623
+50,F,casado,mestrado,2,33,0,0,5,0,0,1,1,504
+48,F,na,ensino medio,4,34,1,19.39180444,5,0,0,1,1,362
+58,M,casado,graduacao,3,43,1,103.0820841,5,0,0,1,1,499
+47,F,casado,mestrado,2,34,0,0,2,1,772,1,0,432
+52,M,solteiro,doutorado,0,39,1,129.2984927,6,0,0,1,0,369.9
+51,F,solteiro,graduacao,0,37,1,22.72377126,5,0,0,1,0,398.7
+60,F,solteiro,doutorado,0,48,1,117.9526114,1,1,744,2,0,716.4
+36,F,casado,ensino fundam,0,21,1,16.82280995,4,0,0,1,1,316
+36,M,casado,ensino fundam,3,22,1,172.9824622,2,1,260,1,1,375
+50,M,solteiro,ensino medio,0,37,1,100.6741812,4,0,0,1,0,404.1
+49,F,na,mestrado,1,36,1,22.98955737,6,0,0,1,1,427
+26,M,solteiro,ensino fundam,0,10,0,0,6,0,0,1,1,216
+47,F,casado,mestrado,1,33,1,20.91471619,6,0,0,1,1,453
+34,F,casado,ensino fundam,3,20,1,21.52804902,3,1,508,1,1,448
+40,M,casado,mestrado,3,27,1,116.1808264,3,1,232,1,1,268
+56,F,casado,ensino medio,2,42,1,19.83276753,4,0,0,1,1,491
+49,M,casado,mestrado,3,37,1,205.6815766,2,1,919,1,1,684.95
+41,F,solteiro,ensino medio,0,28,1,22.01255036,3,0,0,1,0,392.4
+38,M,solteiro,ensino medio,0,25,1,119.152593,6,0,0,1,0,492.3
+41,F,casado,ensino fundam,5,28,1,63.47020794,5,0,0,1,1,369
+41,M,casado,doutorado,4,27,1,64.3651697,6,0,0,2,1,544
+44,F,solteiro,ensino fundam,0,31,1,22.60925237,6,0,0,1,0,423
+48,M,casado,ensino medio,4,37,1,106.7278228,1,1,797,1,1,609
+44,M,na,ensino medio,3,30,1,123.3320337,3,1,262,1,1,558
+37,M,solteiro,ensino medio,0,24,1,60.26432813,5,0,0,1,1,387
+48,F,solteiro,ensino fundam,0,35,1,18.71730622,3,0,0,1,1,460.8
+51,M,casado,ensino medio,2,39,1,64.64380034,5,0,0,1,0,335
+52,F,casado,ensino medio,4,39,0,0,5,0,0,1,1,440.8
+45,F,solteiro,doutorado,1,30,1,68.85506304,3,0,0,1,1,524.7
+50,F,casado,ensino medio,1,39,1,21.77919567,4,0,0,1,1,503
+53,M,casado,doutorado,2,41,1,129.7234455,4,0,0,1,0,404
+42,M,solteiro,ensino medio,0,32,1,95.35925261,3,0,0,1,0,408.6
+35,M,casado,mestrado,2,23,1,171.1601923,3,1,207,1,0,386.25
+41,M,casado,doutorado,3,32,1,94.47071841,4,0,0,1,1,438
+36,M,solteiro,graduacao,0,25,1,117.3438671,5,0,0,1,1,369.9
+46,M,na,doutorado,2,35,1,189.077641,3,1,361,1,0,476.7
+55,M,casado,ensino fundam,3,45,1,130.5903352,4,0,0,1,1,389
+42,F,solteiro,ensino medio,1,31,1,21.73324644,3,0,0,1,0,374.4
+42,M,divorciado,mestrado,3,33,1,95.95411594,2,1,496,1,0,403
+42,M,casado,ensino medio,3,31,1,123.7637647,6,0,0,1,1,408
+57,F,solteiro,ensino fundam,0,28,1,18.18284172,6,0,0,1,0,225
+50,M,casado,mestrado,1,21,1,195.2179618,5,0,0,1,1,432.6
+55,F,solteiro,ensino medio,0,28,1,18.08813876,6,0,0,1,0,237.6
+48,F,divorciado,ensino medio,3,29,1,21.3268913,6,0,0,1,1,473
+58,F,solteiro,mestrado,0,46,1,24.2826693,6,0,0,1,0,510.3
+33,M,casado,ensino fundam,2,22,1,86.07611717,6,0,0,1,1,407
+43,M,divorciado,mestrado,2,22,1,181.1942991,4,0,0,2,1,453.2
+47,F,solteiro,graduacao,0,36,0,0,5,0,0,1,1,465.12
+59,M,casado,ensino medio,0,52,1,102.1354991,6,0,0,1,0,458
+44,F,solteiro,mestrado,0,35,1,21.88369592,5,0,0,1,0,451.8
+58,F,casado,ensino fundam,1,46,1,24.02307972,4,0,0,1,1,480
+47,F,casado,ensino fundam,3,35,1,19.20004217,1,1,239,1,1,332
+51,M,solteiro,doutorado,0,40,1,134.2083927,3,0,0,1,1,652.5
+43,M,divorciado,graduacao,2,30,1,120.384896,4,0,0,1,1,336
+58,F,casado,ensino medio,3,49,1,93.63780209,2,1,1424,1,0,713
+49,F,na,mestrado,4,36,1,19.76646139,6,0,0,1,1,409
+43,M,solteiro,ensino medio,1,30,1,125.3274812,3,0,0,1,0,447.3
+55,M,casado,ensino fundam,2,44,1,131.2419422,5,0,0,1,0,338
+44,M,na,ensino fundam,3,34,1,120.9874421,6,0,0,1,0,300
+49,M,casado,graduacao,2,38,1,131.877126,4,0,0,1,1,511
+36,M,solteiro,graduacao,0,24,1,117.6904509,5,0,0,1,1,458.1
+40,F,divorciado,ensino medio,3,30,1,29.75921942,1,1,952,1,1,674
+32,F,casado,mestrado,0,21,1,19.73558959,5,0,0,1,0,391
+53,M,solteiro,graduacao,0,42,1,197.8616627,2,1,296,2,1,647.1
+58,M,casado,ensino medio,0,47,1,133.9124348,6,0,0,1,1,426
+37,F,solteiro,graduacao,0,25,1,60.76428463,4,0,0,1,0,261.9
+35,F,casado,mestrado,3,25,1,17.04674147,6,0,0,1,0,254
+52,M,solteiro,graduacao,0,42,1,196.3016761,4,0,0,1,0,449.1
+49,M,casado,ensino medio,3,41,1,151.1790719,4,0,0,1,0,735
+42,F,solteiro,mestrado,0,31,1,17.88238466,1,1,190,2,0,370.8
+33,F,casado,ensino medio,3,23,1,17.38456383,3,1,244,1,1,301
+52,M,casado,mestrado,3,41,1,132.0923965,3,1,262,1,1,518
+35,M,casado,graduacao,4,25,1,58.29597799,6,0,0,1,1,327
+56,F,casado,ensino medio,1,46,1,18.69592139,6,0,0,1,1,364
+53,F,casado,ensino medio,2,36,1,73.45922004,3,1,507,1,1,444
+46,M,solteiro,ensino fundam,0,37,1,131.5298366,3,0,0,2,1,636.3
+53,M,solteiro,graduacao,0,44,1,102.7807297,5,0,0,1,0,520.2
+34,M,casado,graduacao,3,23,1,85.65481485,4,0,0,1,1,336
+42,F,na,graduacao,3,31,0,0,1,1,576,1,1,420.8
+62,M,casado,ensino fundam,0,51,1,71.40604565,3,1,184,1,0,534
+29,M,casado,ensino medio,1,21,1,106.2567478,3,1,1672,2,0,737
+40,F,casado,ensino medio,5,25,0,0,2,1,845,2,0,514.4
+44,F,casado,ensino medio,2,35,0,0,3,1,438,1,0,356
+49,M,solteiro,graduacao,0,36,1,99.91464331,3,0,0,1,1,555.3
+59,M,casado,ensino fundam,0,48,1,19.01170717,5,0,0,1,0,461
+35,F,solteiro,ensino medio,0,24,0,0,4,0,0,1,1,280.08
+46,M,casado,ensino fundam,3,37,1,100.6435684,5,0,0,1,0,658
+43,M,solteiro,doutorado,0,31,1,67.48452497,2,1,444,1,1,620.1
+61,M,solteiro,ensino medio,0,55,1,14.45090183,1,1,844,1,0,633.6
+38,M,solteiro,ensino medio,0,30,1,62.20105207,3,0,0,1,0,350.1
+33,M,solteiro,ensino medio,0,25,1,112.2228558,4,0,0,1,0,220.5
+37,M,casado,ensino medio,4,27,1,88.06180025,5,0,0,1,1,396
+41,M,solteiro,doutorado,0,31,1,95.33190101,5,0,0,1,1,495
+48,M,na,ensino medio,3,39,1,126.6218414,3,1,266,4,1,542
+49,F,solteiro,ensino medio,1,39,0,0,5,0,0,1,1,457.2
+35,F,casado,ensino medio,2,25,1,64.75394303,5,0,0,1,1,450
+55,M,solteiro,mestrado,0,47,1,105.8892737,5,0,0,2,1,706.5
+42,F,solteiro,ensino fundam,0,32,1,64.93144476,2,1,303,1,1,418.5
+55,M,casado,ensino medio,3,46,1,134.0872333,5,0,0,1,0,570
+44,M,casado,ensino fundam,3,35,1,91.70211099,3,1,296,1,1,361
+58,M,solteiro,graduacao,0,49,1,140.1255179,2,1,443,1,0,504
+57,F,solteiro,ensino medio,0,45,1,25.10975763,6,0,0,1,1,583.2
+45,M,solteiro,ensino medio,1,37,1,195.6149594,1,1,836,1,0,510.3
+43,F,solteiro,graduacao,0,34,1,21.37430288,4,0,0,1,1,439.2
+46,F,casado,mestrado,4,27,1,22.71896962,3,1,456,1,1,476
+42,M,solteiro,ensino medio,0,35,1,64.07065173,1,1,350,1,0,372.6
+49,M,na,ensino fundam,4,41,1,21.67458039,5,0,0,1,0,570
+42,F,solteiro,ensino medio,2,27,1,73.77518094,2,1,820,1,1,567.9
+50,F,solteiro,ensino medio,0,39,1,23.32249003,2,1,456,1,0,467.1
+54,M,casado,ensino fundam,1,34,1,97.84415669,6,0,0,1,1,338
+44,M,solteiro,mestrado,0,27,1,64.45975448,3,0,0,1,0,346.5
+36,M,casado,ensino medio,3,17,1,111.9987158,3,0,0,2,1,799
+43,F,divorciado,ensino medio,2,28,1,21.75811859,4,0,0,1,0,447
+53,M,solteiro,ensino fundam,1,42,1,103.057974,5,0,0,1,1,546.3
+41,F,casado,ensino medio,3,26,1,21.3607917,6,0,0,1,1,404
+53,F,casado,ensino fundam,2,36,1,18.39668644,5,0,0,1,1,330
+47,F,casado,mestrado,3,28,1,23.45448295,4,0,0,1,2,600
+50,F,casado,graduacao,2,20,1,22.79915594,6,0,0,1,0,294
+45,F,solteiro,ensino fundam,1,30,1,86.03065187,1,1,1439,3,0,693.9
+57,F,casado,graduacao,2,44,1,68.23218457,2,1,275,1,0,328
+39,F,solteiro,ensino fundam,0,27,1,17.02116217,6,0,0,1,0,287.1
+44,M,casado,doutorado,4,30,1,186.3298594,4,0,0,1,0,641.55
+36,M,casado,mestrado,4,22,1,115.6481717,4,0,0,1,1,363
+42,M,casado,ensino medio,2,35,1,143.6118009,1,1,1368,1,1,796
+53,F,solteiro,mestrado,0,38,1,23.62866722,5,0,0,1,0,468
+38,F,solteiro,ensino fundam,1,13,0,0,4,0,0,1,0,184.5
+42,F,solteiro,ensino medio,1,24,1,16.71694756,5,0,0,1,0,249.3
+44,M,casado,graduacao,4,32,1,186.8293078,4,0,0,1,0,466
+41,F,casado,mestrado,2,25,1,146.7141376,1,1,1477,1,1,764
+44,F,solteiro,ensino medio,2,26,1,22.5950886,2,1,481,1,0,390.6
+53,M,solteiro,mestrado,0,36,1,101.1045253,3,0,0,1,0,417.6
+53,M,casado,doutorado,4,32,1,135.0822591,1,1,406,1,1,503
+36,M,solteiro,graduacao,0,19,1,59.01304715,5,0,0,1,0,272.7
+44,F,solteiro,ensino medio,0,15,1,28.33048183,1,1,839,1,0,489.6
+34,M,casado,graduacao,0,10,1,57.160856,3,1,159,1,1,257
+44,F,solteiro,mestrado,0,17,1,16.75521383,6,0,0,1,1,246.6
+42,M,casado,ensino medio,4,16,1,65.77050159,5,0,0,1,1,410
+34,F,casado,graduacao,2,11,1,20.57101292,6,0,0,1,1,343
+38,M,casado,doutorado,1,15,1,172.6717221,4,1,214,1,0,244.65
+53,F,casado,ensino medio,1,32,1,41.22556697,4,0,0,1,1,732
+48,F,casado,graduacao,2,26,0,0,3,1,451,1,0,304
+50,M,divorciado,graduacao,0,26,1,70.44909923,5,0,0,1,1,475
+52,F,divorciado,graduacao,2,29,1,22.5485984,6,0,0,1,0,495
+65,F,solteiro,ensino fundam,0,46,1,75.28558903,4,0,0,1,0,498.6
+49,M,casado,graduacao,3,26,1,97.83825072,4,0,0,1,1,420
+44,F,divorciado,ensino fundam,3,23,1,21.80852254,4,0,0,1,0,311
+53,M,divorciado,mestrado,3,31,1,101.8330625,4,0,0,1,1,481
+26,F,solteiro,graduacao,0,10,0,0,3,0,0,1,1,280.08
+46,M,casado,doutorado,2,30,1,148.9767906,1,1,1428,1,1,823
+43,M,solteiro,ensino fundam,2,23,1,95.10434833,3,0,0,1,0,347.4
+54,F,solteiro,ensino fundam,0,34,1,73.06399935,4,0,0,1,0,411.3
+42,F,divorciado,ensino fundam,4,22,1,22.05397082,6,0,0,1,0,353
+45,M,casado,ensino fundam,4,24,1,96.74983311,6,0,0,1,1,381
+49,M,solteiro,graduacao,1,27,1,99.93561508,5,0,0,1,1,422.1
+50,F,casado,ensino medio,2,30,0,0,5,0,0,1,0,355.2
+43,M,casado,ensino fundam,3,21,1,126.7885039,6,0,0,1,1,470
+47,M,na,ensino fundam,1,27,1,127.2141712,6,0,0,1,0,361
+39,F,solteiro,ensino fundam,0,20,1,39.07162128,1,1,1587,2,0,652.5
+57,M,casado,graduacao,2,37,1,98.63839187,3,1,271,1,0,264
+58,M,casado,doutorado,2,44,1,164.3470688,3,0,0,1,1,790
+46,M,na,mestrado,1,24,1,62.12069602,6,0,0,1,1,359
+49,F,casado,ensino medio,3,27,1,70.7440927,4,0,0,3,1,544
+58,F,casado,ensino fundam,0,36,1,19.54983167,5,0,0,1,1,413
+60,M,casado,graduacao,2,39,0,0,5,0,0,1,0,299.2
+44,F,na,ensino fundam,3,22,1,21.96301241,6,0,0,1,1,448
+46,F,casado,ensino fundam,2,24,0,0,6,0,0,1,1,440.8
+57,F,solteiro,ensino fundam,0,38,0,0,4,0,0,1,0,253.44
+40,M,na,ensino fundam,5,21,1,116.9689628,6,0,0,1,0,255
+39,F,casado,graduacao,3,19,1,65.90356236,1,1,485,1,1,364
+44,F,solteiro,ensino fundam,0,23,1,67.82155183,4,0,0,1,1,386.1
+46,M,solteiro,ensino medio,1,26,1,63.22816395,2,1,206,1,0,296.1
+42,F,casado,mestrado,3,23,0,0,5,0,0,1,0,322.4
+47,F,na,mestrado,3,27,1,23.18118226,2,1,477,1,1,470
+47,M,solteiro,graduacao,0,27,1,99.60515528,5,0,0,1,1,544.5
+49,M,divorciado,ensino fundam,3,28,1,70.36567548,2,1,500,1,1,495
+43,M,casado,ensino medio,3,23,1,119.8858385,5,0,0,1,1,294
+37,F,solteiro,ensino fundam,0,18,0,0,3,0,0,1,0,305.28
+52,F,casado,graduacao,1,32,1,29.20302072,1,1,785,1,1,554
+56,F,solteiro,mestrado,0,37,1,30.33117496,1,1,807,1,0,550.8
+62,F,solteiro,ensino medio,0,43,0,0,2,1,476,1,0,444.96
+39,M,solteiro,mestrado,0,19,1,89.03963314,4,0,0,1,1,361.8
+59,M,solteiro,ensino medio,0,40,1,106.1456341,3,0,0,1,0,511.2
+41,M,solteiro,mestrado,0,24,1,192.1777071,2,1,820,1,0,631.287
+33,M,casado,mestrado,1,15,1,167.8859914,6,0,0,1,0,310.03
+65,M,casado,ensino medio,1,48,1,20.3478392,6,0,0,1,0,457
+40,M,solteiro,ensino medio,0,23,1,116.1448293,5,0,0,1,0,171.9
+35,M,na,graduacao,2,16,1,60.48075591,4,0,0,1,1,415
+49,F,casado,ensino fundam,3,30,1,19.9889528,6,0,0,1,1,398
+45,M,solteiro,ensino fundam,0,27,1,94.17353603,3,0,0,1,0,336.6
+42,F,divorciado,ensino fundam,2,24,1,22.30239995,5,0,0,1,1,445
+50,F,casado,mestrado,3,32,1,24.36726275,2,1,517,1,1,496
+48,F,casado,mestrado,4,31,1,70.11879513,6,0,0,1,0,422
+40,F,casado,ensino fundam,5,23,1,66.61510699,1,1,509,1,0,346
+41,M,casado,mestrado,1,23,1,89.41280859,3,1,173,1,1,272
+50,F,casado,mestrado,5,29,0,0,5,0,0,1,2,472
+38,F,casado,mestrado,3,21,1,16.65833042,6,0,0,1,1,266
+52,F,solteiro,ensino fundam,0,35,1,24.24355848,4,0,0,1,0,426.6
+63,F,solteiro,ensino fundam,0,46,1,23.14513197,5,0,0,1,0,401.4
+54,M,casado,ensino medio,2,35,1,18.70875551,4,0,0,1,2,420
+56,F,casado,ensino medio,3,37,1,17.76550218,5,0,0,1,2,535
+55,M,na,doutorado,3,39,1,203.6511076,3,1,431,1,0,569.1
+42,F,solteiro,ensino medio,0,24,1,20.83527917,5,0,0,1,1,404.1
+57,F,na,ensino fundam,3,41,1,23.29590726,6,0,0,2,0,456
+54,M,casado,ensino fundam,2,45,1,156.6717065,2,0,0,2,0,851
+53,M,casado,ensino medio,2,35,1,98.03201041,6,0,0,1,1,412
+42,F,casado,ensino fundam,4,25,1,22.89156017,6,0,0,1,1,399
+51,F,casado,ensino medio,2,35,1,18.0345331,3,1,287,1,0,300
+40,M,na,graduacao,2,23,1,128.2775882,1,1,732,1,1,493
+46,M,solteiro,graduacao,0,31,1,84.55178845,2,1,1423,1,1,679.5
+40,F,casado,ensino fundam,4,25,1,20.38704305,3,1,384,1,0,315
+44,F,casado,ensino fundam,2,29,1,20.01914805,3,1,314,1,0,369
+43,F,solteiro,ensino fundam,0,28,1,16.80174164,5,0,0,1,0,217.8
+49,M,casado,ensino fundam,5,35,1,108.929712,1,1,810,3,1,736
+51,F,casado,graduacao,2,35,1,23.09898234,3,1,437,1,1,438
+26,F,na,graduacao,1,12,0,0,3,1,414,1,0,280
+42,F,solteiro,ensino fundam,1,26,1,65.94612831,2,1,389,1,0,373.5
+46,M,solteiro,graduacao,0,30,1,72.84279497,1,1,769,1,0,460.8
+39,F,divorciado,ensino medio,3,24,1,19.89949889,3,1,357,1,0,346
+47,M,na,graduacao,2,31,1,93.32206011,4,0,0,1,1,312
+41,F,casado,ensino medio,3,26,1,21.17850073,6,0,0,1,0,352
+36,F,solteiro,ensino medio,0,19,1,60.50482253,1,1,243,1,1,280.8
+51,M,casado,doutorado,3,37,1,136.2979109,6,0,0,2,1,643
+50,M,solteiro,doutorado,0,35,1,189.1597311,5,0,0,1,0,352.485
+36,M,na,ensino fundam,2,20,1,115.80703,2,1,278,1,1,476
+53,F,solteiro,ensino medio,0,36,1,72.36544472,3,0,0,1,1,485.1
+47,F,solteiro,mestrado,1,31,1,67.55566184,3,0,0,1,0,369
+42,F,casado,mestrado,2,26,1,22.20069928,1,1,465,1,1,463
+49,F,casado,mestrado,4,33,1,19.23121973,6,0,0,1,1,397
+47,F,casado,ensino medio,1,32,0,0,3,1,461,1,1,381.6
+62,F,casado,mestrado,1,45,1,20.49285794,5,0,0,1,2,502
+48,M,na,ensino medio,3,34,1,93.86252706,5,0,0,1,0,302
+61,M,casado,mestrado,0,47,1,136.2629225,2,1,188,1,0,337
+51,M,solteiro,mestrado,1,37,1,128.5649059,4,0,0,2,0,473.4
+55,M,solteiro,graduacao,0,45,1,154.4337568,1,1,1219,1,1,807.3
+57,F,solteiro,ensino fundam,0,43,1,74.36180829,3,0,0,1,0,426.6
+62,F,solteiro,ensino fundam,0,48,1,74.83425803,4,0,0,1,0,360
+48,F,solteiro,ensino medio,0,31,1,23.03269227,3,0,0,1,1,508.5
+47,F,casado,graduacao,2,32,1,21.71068628,4,0,0,1,0,461
+65,F,solteiro,ensino fundam,0,50,1,25.14325496,6,0,0,1,1,516.6
+44,M,casado,ensino fundam,4,32,1,144.0222586,2,1,1400,1,0,640
+30,F,solteiro,ensino medio,0,15,1,17.59015031,3,0,0,1,0,277.2
+50,M,casado,graduacao,2,35,1,193.1433471,5,0,0,2,1,544
+45,F,casado,graduacao,3,29,1,28.07517893,2,1,783,1,2,644
+50,F,solteiro,mestrado,0,32,1,23.28422126,6,0,0,1,1,526.5
+46,M,casado,mestrado,3,39,1,151.1822814,3,0,0,1,0,844
+40,M,na,ensino fundam,4,24,1,21.38693539,5,0,0,1,1,424
+55,F,divorciado,ensino fundam,2,41,1,20.08105871,4,0,0,1,0,533
+57,F,solteiro,graduacao,0,44,1,25.07269208,4,0,0,1,0,449.1
+32,F,casado,ensino fundam,1,18,1,16.81613747,5,0,0,1,1,309
+33,F,solteiro,doutorado,0,18,1,88.15744977,4,0,0,1,1,371.7
+40,M,na,ensino medio,3,26,1,61.26226233,6,0,0,1,1,308
+43,M,solteiro,doutorado,0,29,1,94.96608755,4,0,0,1,0,426.6
+42,M,casado,graduacao,4,30,1,187.110274,6,0,0,3,0,663
+51,F,divorciado,ensino medio,3,35,1,23.37613841,5,0,0,1,2,584
+46,M,solteiro,graduacao,0,34,1,120.0972653,2,1,1686,1,0,702.9
+50,F,solteiro,graduacao,0,35,1,23.4392273,6,0,0,1,1,486.9
+44,M,na,doutorado,4,30,1,185.2962393,3,1,153,1,1,588
+44,F,solteiro,mestrado,1,29,1,19.07731448,6,0,0,1,1,368.1
+40,F,casado,graduacao,2,25,1,22.51267671,1,1,498,1,1,523
+60,F,casado,ensino medio,0,46,1,76.41610127,4,0,0,1,1,501
+57,M,solteiro,graduacao,0,45,1,106.480147,5,0,0,2,0,653.4
+50,M,solteiro,ensino fundam,0,35,1,97.6193918,4,0,0,1,1,413.1
+39,F,solteiro,graduacao,0,24,1,21.11829043,4,0,0,1,1,467.1
+43,F,casado,ensino fundam,2,28,1,21.56739309,6,0,0,1,1,474
+32,M,solteiro,doutorado,0,18,1,168.0045328,6,0,0,1,0,370.44
+54,M,solteiro,doutorado,0,43,1,137.9914401,3,0,0,2,0,616.5
+40,F,divorciado,graduacao,3,27,1,65.15323913,4,0,0,1,0,400
+46,M,na,ensino medio,3,33,1,130.7006929,5,0,0,1,0,625
+50,F,solteiro,doutorado,0,37,1,71.40947939,3,0,0,1,0,442.8
+44,M,solteiro,graduacao,1,29,1,90.80509464,5,0,0,1,1,294.3
+53,F,solteiro,ensino fundam,0,40,1,23.74576806,5,0,0,1,0,414.9
+41,F,casado,ensino fundam,4,27,1,63.85039738,5,0,0,1,1,347
+54,M,casado,ensino fundam,2,40,1,129.8184515,4,0,0,1,1,393
+38,F,casado,ensino fundam,4,24,1,17.66137307,4,0,0,1,0,357
+49,M,divorciado,graduacao,4,37,1,131.8158569,5,0,0,1,1,657
+44,M,solteiro,ensino fundam,2,29,1,121.0001163,5,0,0,1,1,354.6
+45,F,solteiro,graduacao,0,31,1,22.91555362,2,1,480,1,1,468.9
+53,M,solteiro,ensino medio,0,38,1,128.8897438,5,0,0,1,1,363.6
+41,F,solteiro,mestrado,0,28,0,0,4,0,0,1,0,340.56
+45,M,casado,ensino medio,1,32,1,123.1591732,3,1,200,1,1,358
+50,F,casado,ensino medio,3,35,1,21.91755821,6,0,0,1,1,466
+43,F,na,ensino medio,4,28,1,69.61021697,2,1,524,1,1,548
+56,M,solteiro,graduacao,0,42,1,137.9285454,5,0,0,1,0,508.5
+49,F,na,graduacao,2,37,1,67.47837503,4,0,0,1,0,344
+30,F,casado,ensino medio,0,18,1,17.24948292,3,1,267,1,0,270
+55,F,casado,mestrado,0,43,1,24.46493707,1,1,473,1,0,508
+34,M,casado,ensino fundam,3,20,1,84.94620108,5,0,0,1,1,302
+53,M,na,ensino medio,1,39,1,135.3438539,5,0,0,1,2,647
+56,M,casado,doutorado,2,43,1,99.34111782,6,0,0,1,1,314
+45,F,casado,ensino medio,2,33,1,21.94750076,4,0,0,1,0,389
+49,F,casado,ensino fundam,2,37,1,29.66079758,2,1,835,2,1,634
+47,F,casado,ensino medio,2,33,1,18.83173689,6,0,0,1,1,376
+28,F,divorciado,ensino fundam,1,14,0,0,5,0,0,1,1,394.4
+37,F,solteiro,graduacao,0,25,1,20.91821518,3,0,0,1,0,306
+56,M,solteiro,mestrado,0,44,1,137.629865,3,0,0,1,0,504
+49,M,casado,graduacao,2,36,1,99.49596235,5,0,0,1,1,447
+52,M,casado,ensino medio,2,43,1,144.8341385,1,1,780,1,2,853
+56,M,casado,mestrado,2,43,1,132.4336495,4,0,0,1,1,423
+55,M,solteiro,ensino medio,1,41,1,136.7029578,2,1,404,1,1,495
+65,M,solteiro,mestrado,0,53,1,23.35995534,3,0,0,1,0,490.5
+55,M,casado,ensino medio,1,42,1,98.87632144,6,0,0,1,0,375
+54,M,casado,graduacao,3,40,1,98.89802414,6,0,0,1,0,439
+58,M,casado,ensino medio,3,46,1,200.2932207,3,1,264,1,0,465
+40,F,casado,mestrado,4,28,1,20.79942862,2,1,1358,1,1,723
+65,M,solteiro,mestrado,0,53,1,25.34907733,3,0,0,1,0,586.8
+48,F,solteiro,graduacao,0,34,1,22.91267711,5,0,0,1,1,454.5
+30,F,divorciado,mestrado,1,18,1,16.99455889,6,0,0,1,0,226
+33,F,casado,ensino fundam,3,19,1,63.07066209,2,1,453,1,1,441
+56,M,casado,graduacao,3,43,1,131.5843215,5,0,0,1,1,359
+44,M,casado,ensino fundam,1,31,1,96.40882616,6,0,0,1,1,481
+56,F,solteiro,ensino medio,1,43,0,0,2,1,438,1,0,430.56
+59,M,casado,graduacao,1,47,1,109.9329125,5,0,0,1,1,608
+38,F,casado,ensino medio,3,25,0,0,6,0,0,1,1,322.4
+38,M,casado,ensino fundam,4,25,1,117.8922915,5,0,0,1,0,403
+47,M,divorciado,doutorado,4,41,1,119.4884029,3,0,0,1,0,832
+53,M,divorciado,mestrado,2,42,1,203.614812,4,0,0,1,1,681.86
+50,F,solteiro,mestrado,0,32,1,71.80781459,4,0,0,1,1,451.8
+54,F,na,ensino fundam,2,36,1,19.86656976,4,0,0,1,1,413
+56,M,solteiro,ensino fundam,1,40,1,137.504443,6,0,0,1,0,495
+32,M,solteiro,ensino medio,0,19,1,57.63655423,6,0,0,1,0,281.7
+37,F,casado,graduacao,2,24,1,66.19929839,3,1,526,1,1,467
+58,M,casado,graduacao,1,46,1,100.5026982,3,1,289,1,0,362
+60,M,divorciado,ensino fundam,1,46,1,68.78838849,4,0,0,1,1,406
+56,M,casado,graduacao,2,43,1,131.9376155,3,1,291,1,1,389
+54,F,casado,ensino fundam,2,41,1,24.01431533,3,1,440,1,2,613
+48,M,solteiro,ensino medio,0,35,1,125.4744773,3,0,0,2,0,450.9
+51,F,solteiro,ensino fundam,0,37,1,23.62733816,5,0,0,1,1,468.9
+56,M,solteiro,ensino medio,0,45,1,224.3949875,2,1,1396,1,0,738
+62,F,casado,ensino medio,0,48,0,0,3,1,286,1,1,414.4
+42,M,solteiro,ensino medio,0,36,1,144.5041387,1,1,1463,2,0,754.2
+62,M,casado,ensino medio,0,49,1,103.67032,3,1,153,1,1,401
+46,F,casado,ensino medio,3,32,1,24.18825574,3,1,533,1,0,596
+35,F,solteiro,doutorado,0,23,1,92.2060566,1,1,460,1,0,365.4
+36,M,solteiro,mestrado,0,22,1,172.6592619,6,0,0,1,1,355.041
+51,M,divorciado,mestrado,2,40,1,141.8990621,1,1,756,1,1,733
+41,M,casado,graduacao,4,28,1,21.03791128,3,1,429,1,1,439
+41,F,casado,graduacao,4,28,0,0,5,0,0,1,1,382.4
+44,M,casado,ensino medio,0,35,1,105.5293186,2,1,875,2,0,659
+44,M,na,ensino fundam,4,31,1,183.6221417,5,0,0,1,1,465
+31,M,casado,ensino fundam,2,19,1,16.99786075,6,0,0,1,0,322
+44,F,divorciado,ensino fundam,3,32,1,66.34254689,5,0,0,1,0,464
+48,F,solteiro,ensino fundam,1,35,1,23.53735305,3,0,0,1,1,449.1
+37,M,casado,graduacao,1,24,1,88.04660644,6,0,0,1,1,407
+54,M,casado,ensino fundam,2,41,1,131.7269259,4,0,0,1,1,534
+48,M,solteiro,mestrado,2,36,1,100.1773916,6,0,0,1,0,540
+48,F,casado,graduacao,5,35,1,16.7171617,1,1,217,1,1,375
+49,M,solteiro,ensino fundam,0,35,1,21.30942517,5,0,0,1,1,480.6
+26,M,solteiro,ensino fundam,0,14,1,79.58183212,5,0,0,1,0,200.7
+42,F,casado,graduacao,4,29,1,19.31178998,6,0,0,1,1,395
+40,F,na,graduacao,3,28,1,22.90823409,5,0,0,1,1,456
+43,F,na,ensino medio,3,34,0,0,3,1,420,2,0,488
+63,M,casado,ensino medio,1,47,1,71.26340786,6,0,0,1,2,580
+42,M,casado,doutorado,2,30,1,121.6516418,4,0,0,1,1,449
+51,M,divorciado,mestrado,2,41,1,199.1398887,4,0,0,1,1,658.17
+57,F,casado,ensino fundam,1,46,1,19.15995695,4,0,0,1,0,371
+39,F,casado,ensino fundam,2,26,1,66.42369771,5,0,0,1,1,415
+38,F,casado,doutorado,2,27,1,65.23354694,2,1,469,1,0,370
+40,F,casado,ensino medio,5,28,1,21.66264704,3,1,452,1,1,449
+45,F,solteiro,ensino fundam,0,29,1,22.00713011,5,0,0,1,1,414.9
+53,F,casado,ensino fundam,3,41,1,20.35215143,3,1,256,1,1,381
+52,M,casado,mestrado,4,40,1,101.5557647,3,1,400,1,1,439
+44,M,casado,graduacao,3,35,1,196.0646332,3,1,743,2,0,685
+49,M,divorciado,graduacao,2,36,1,64.72449573,2,1,295,1,0,479
+41,F,solteiro,mestrado,0,28,1,20.62922764,5,0,0,1,1,410.4
+57,M,casado,ensino medio,2,45,1,132.765369,6,0,0,1,1,380
+42,M,casado,graduacao,1,30,1,60.35072327,4,0,0,1,1,279
+45,F,casado,ensino medio,3,33,1,23.12736264,1,1,498,1,1,441
+54,M,solteiro,ensino medio,0,41,1,67.62480984,6,0,0,1,1,442.8
+38,F,na,ensino fundam,3,28,1,21.28771443,4,0,0,1,0,323
+47,M,divorciado,mestrado,2,42,1,147.9119387,1,1,1327,1,1,788
+30,F,solteiro,graduacao,0,17,1,20.33984448,3,0,0,1,1,414
+56,M,casado,ensino medio,3,50,1,229.7536286,2,1,1618,1,1,815
+42,M,casado,ensino medio,1,31,1,95.73627465,6,0,0,1,1,524
+44,M,casado,doutorado,2,33,1,99.3489994,6,0,0,1,0,629
+53,M,solteiro,ensino medio,0,41,1,130.838478,4,0,0,1,0,436.5
+36,M,casado,ensino medio,3,24,1,87.51804861,4,0,0,1,1,398
+44,F,casado,mestrado,2,33,1,69.16567963,3,1,499,1,1,467
+47,F,casado,ensino fundam,4,36,0,0,3,1,450,1,1,378.4
+39,F,casado,mestrado,2,29,1,20.87398182,3,1,413,1,0,419
+41,F,solteiro,graduacao,2,31,1,66.77766731,6,0,0,1,0,441
+32,F,casado,ensino medio,1,21,1,25.10192492,1,1,784,1,1,448
+36,M,casado,ensino fundam,0,24,1,115.0001594,3,1,172,1,1,348
+39,F,casado,ensino medio,1,29,1,60.27422707,6,0,0,1,0,236
+41,F,casado,mestrado,2,34,1,23.47706435,1,1,1511,1,2,806
+45,F,solteiro,graduacao,0,34,1,69.45453729,4,0,0,1,0,424.8
+47,M,casado,ensino medio,5,37,1,99.83467658,5,0,0,1,0,682
+65,F,casado,ensino medio,0,53,1,74.08163846,5,0,0,1,1,496
+55,M,solteiro,mestrado,0,45,1,143.2962779,2,1,786,1,0,522.9
+42,F,divorciado,ensino fundam,2,30,1,21.73644821,3,1,438,1,1,438
+40,F,solteiro,ensino fundam,2,28,0,0,6,0,0,1,1,330.48
+45,F,divorciado,ensino fundam,4,34,1,69.05726167,5,0,0,1,1,502
+39,M,casado,graduacao,2,27,1,62.0294723,5,0,0,1,1,412
+41,M,casado,mestrado,2,31,1,59.70393853,5,0,0,1,0,263
+42,M,casado,ensino fundam,4,34,1,123.1704959,3,1,170,1,1,617
+48,M,solteiro,doutorado,0,37,1,99.37814608,3,0,0,1,0,474.3
+43,F,casado,ensino medio,4,31,1,22.2806186,2,1,457,1,1,484
+49,F,casado,ensino fundam,2,38,1,23.77605915,1,1,493,1,1,481
+30,M,casado,graduacao,0,17,1,16.81652888,5,0,0,1,2,397
+50,M,solteiro,graduacao,0,41,1,204.292816,1,1,757,1,1,675.9
+57,F,solteiro,ensino fundam,0,46,1,20.76757197,1,1,238,1,1,476.1
+37,M,solteiro,ensino medio,1,25,1,177.7815763,3,0,0,1,1,586.8
+48,F,na,ensino fundam,3,36,0,0,2,1,520,1,2,552
+54,F,solteiro,ensino fundam,0,44,1,22.46367811,3,0,0,1,0,461.7
+43,M,casado,ensino fundam,3,33,1,60.22369942,2,1,239,1,1,299
+51,M,casado,ensino medio,3,42,1,102.3055299,6,0,0,1,0,458
+52,M,solteiro,mestrado,0,43,1,201.3741873,6,0,0,1,1,636.849
+51,F,solteiro,ensino medio,0,42,1,71.18870527,3,0,0,1,0,422.1
+50,F,casado,mestrado,0,40,1,29.41400619,3,1,799,1,2,686
+44,M,casado,ensino fundam,3,34,1,65.76063879,4,0,0,1,1,387
+39,F,casado,ensino medio,2,29,0,0,4,0,0,1,1,275.2
+44,M,solteiro,graduacao,1,35,1,103.4882912,1,1,855,1,0,483.3
+54,F,casado,ensino medio,2,44,1,18.94264791,6,0,0,1,1,378
+53,F,solteiro,ensino medio,1,45,1,24.86524283,4,0,0,1,0,469.8
+45,M,casado,graduacao,3,36,1,97.52811692,5,0,0,1,0,446
+52,M,solteiro,ensino medio,0,45,1,149.601113,2,1,1160,2,0,744.3
+28,M,solteiro,mestrado,0,21,1,36.72783214,1,1,1706,1,0,602.1
+29,F,casado,mestrado,1,20,1,20.10537121,2,1,476,1,0,351
+35,F,casado,graduacao,1,28,1,21.13052698,6,0,0,1,0,340
+59,M,solteiro,graduacao,0,52,1,92.61383797,1,1,1423,2,0,740.7
+52,F,solteiro,ensino medio,0,46,1,89.99466914,1,1,1443,1,0,665.1
+52,M,casado,ensino medio,4,45,1,143.7070979,2,1,807,1,1,735
+49,M,solteiro,doutorado,0,38,1,102.6092064,2,1,515,1,1,570.6
+38,F,na,graduacao,1,27,1,16.26636206,2,1,276,1,1,263
+64,M,solteiro,ensino fundam,0,54,1,25.54808287,5,0,0,2,1,656.1
+43,F,na,mestrado,2,35,0,0,5,0,0,1,0,300
+56,M,casado,ensino medio,2,48,1,196.2425322,4,0,0,1,0,399
+43,M,na,ensino medio,3,33,1,68.06342944,2,1,502,1,1,572
+44,F,solteiro,graduacao,0,35,1,21.59314053,3,0,0,1,0,459
+60,M,divorciado,graduacao,1,56,1,82.14943576,1,1,770,1,1,764
+45,F,casado,doutorado,3,36,1,99.14938094,5,0,0,1,1,466
+44,M,casado,ensino medio,2,36,1,95.61472101,1,1,391,1,0,389
+46,M,casado,ensino fundam,5,39,1,98.36921228,3,1,331,1,1,642
+47,M,solteiro,ensino fundam,2,42,1,146.9161942,1,1,1411,1,0,620.1
+39,F,solteiro,doutorado,0,30,1,66.62883856,5,0,0,2,0,510.3
+44,F,divorciado,ensino fundam,3,35,0,0,5,0,0,1,1,370.4
+58,M,casado,doutorado,3,54,1,212.4389528,3,0,0,1,2,823.2
+48,M,na,graduacao,4,40,1,98.63429643,4,0,0,1,0,453
+42,F,casado,doutorado,1,32,1,61.46604247,4,0,0,1,1,334
+38,M,casado,graduacao,3,26,1,60.72087825,6,0,0,1,2,537
+44,M,casado,ensino medio,4,36,1,61.63004446,5,0,0,1,1,351
+47,M,divorciado,mestrado,3,38,1,101.2128531,2,1,511,1,1,575
+33,M,divorciado,ensino fundam,3,26,0,0,6,0,0,1,0,368.8
+48,M,casado,mestrado,3,39,1,130.6055586,4,0,0,1,1,563
+31,M,solteiro,ensino medio,0,22,1,57.60643848,5,0,0,1,1,347.4
+51,M,solteiro,graduacao,1,44,1,101.9996772,3,0,0,1,0,441.9
+59,M,casado,ensino medio,1,52,1,75.35843659,5,0,0,1,0,553
+45,F,divorciado,ensino fundam,2,36,1,65.95595486,4,0,0,1,0,473
+49,M,casado,mestrado,2,32,1,99.79576132,3,1,358,1,1,535
+49,M,casado,mestrado,4,32,1,66.95119641,5,0,0,1,0,378
+49,F,casado,ensino medio,5,33,1,69.99884967,5,0,0,1,1,478
+50,F,casado,graduacao,3,30,1,20.62620238,3,1,292,1,0,438
+39,M,solteiro,ensino medio,0,23,1,112.7452207,2,1,1558,1,1,731.7
+41,F,casado,graduacao,2,25,1,65.79575487,5,0,0,1,0,327
+50,F,casado,graduacao,2,34,1,23.95118833,1,1,477,2,1,596
+46,M,casado,mestrado,3,34,1,105.8391594,3,1,775,3,0,700
+57,M,solteiro,doutorado,0,42,1,147.6314347,2,1,784,2,1,704.7
+39,M,casado,graduacao,4,23,1,119.5800199,6,0,0,1,1,348
+47,F,solteiro,ensino fundam,2,31,1,22.96082819,4,0,0,1,1,449.1
+40,F,casado,mestrado,4,24,1,21.55372079,5,0,0,1,1,454
+26,M,solteiro,ensino fundam,0,11,1,54.17612818,5,0,0,1,0,193.5
+50,M,casado,ensino fundam,2,36,1,99.16664533,4,0,0,1,0,372
+41,F,solteiro,graduacao,1,26,0,0,4,0,0,1,0,282.24
+62,F,solteiro,ensino fundam,0,47,1,21.93810594,6,0,0,1,1,459.9
+49,F,casado,ensino medio,1,35,1,102.6431215,5,0,0,1,0,523
+26,F,solteiro,ensino fundam,0,11,1,16.5839564,4,0,0,1,0,239.4
+39,F,casado,graduacao,2,25,0,0,6,0,0,1,1,324
+50,M,solteiro,ensino medio,0,37,1,130.2097242,4,0,0,1,0,435.6
+33,F,casado,ensino medio,1,18,1,20.85806017,5,0,0,1,1,438
+29,M,divorciado,ensino fundam,0,11,1,109.9788712,6,0,0,1,1,342
+49,M,na,ensino fundam,3,35,1,131.040339,3,1,380,1,1,495
+54,F,divorciado,ensino fundam,2,42,1,24.4827901,6,0,0,1,0,474
+26,F,solteiro,ensino fundam,0,13,1,14.58055881,4,0,0,1,0,189
+33,M,casado,ensino fundam,3,27,1,135.4999591,5,0,0,2,1,815
+39,M,casado,graduacao,2,26,1,119.5892868,3,1,212,1,0,477
+43,M,casado,graduacao,4,32,1,84.05684621,2,1,1480,1,1,726
+45,F,casado,graduacao,3,33,1,22.72049119,6,0,0,1,0,429
+29,F,solteiro,mestrado,0,17,0,0,4,0,0,1,0,286.56
+44,F,na,ensino fundam,5,30,1,26.0002438,3,1,679,1,1,541
+50,F,casado,ensino medio,3,38,1,22.15585691,3,1,391,1,1,408
+44,F,solteiro,ensino fundam,0,31,1,22.40555644,3,0,0,1,1,496.8
+41,F,casado,ensino medio,5,28,1,27.06230529,2,1,777,1,1,590
+44,M,solteiro,ensino fundam,1,33,1,121.2438042,4,0,0,1,0,345.6
+57,F,casado,graduacao,4,45,1,69.29006516,5,0,0,1,0,432
+54,M,casado,ensino medio,2,39,1,96.86254422,3,1,221,1,1,361
+35,M,solteiro,ensino medio,0,24,1,86.80944403,6,0,0,1,0,323.1
+54,M,casado,graduacao,3,43,1,65.23341697,2,1,254,1,0,322
+41,M,na,ensino fundam,4,29,1,21.07495106,6,0,0,1,1,388
+54,F,casado,ensino medio,2,42,1,19.08372389,3,1,170,1,1,382
+45,F,na,ensino medio,3,34,1,84.00908093,2,1,1287,1,1,744
+49,M,casado,graduacao,3,36,1,132.2268198,5,0,0,1,1,525
+41,F,solteiro,mestrado,1,30,1,16.77926051,5,0,0,1,0,242.1
+39,M,casado,ensino medio,3,29,1,79.67493066,2,1,1367,1,1,680
+46,F,solteiro,ensino medio,1,33,1,65.68893156,5,0,0,1,1,402.3
+54,F,casado,graduacao,1,41,1,18.14139925,3,1,261,1,1,395
+53,F,divorciado,graduacao,4,49,1,94.56344668,2,1,1623,1,0,776
+52,M,divorciado,ensino medio,3,42,1,196.8209124,6,0,0,2,1,605
+49,F,casado,graduacao,2,37,1,70.78250525,5,0,0,1,1,516
+45,F,solteiro,mestrado,0,32,1,67.88017551,6,0,0,1,1,438.3
+49,M,casado,ensino medio,3,38,1,129.267176,4,0,0,1,1,440
+37,M,casado,mestrado,3,26,1,116.7027373,6,0,0,1,1,327
+40,F,casado,graduacao,4,28,1,22.5982584,2,1,509,1,1,489
+45,F,solteiro,ensino medio,0,33,0,0,3,0,0,1,1,387.36
+53,F,casado,graduacao,1,41,1,69.32204696,3,1,247,1,1,458
+50,F,casado,graduacao,2,40,0,0,3,1,440,1,0,344
+37,M,casado,doutorado,3,29,1,81.23218812,4,0,0,1,0,672
+54,F,casado,ensino fundam,2,44,0,0,5,0,0,1,1,488
+43,M,solteiro,ensino medio,1,31,1,92.63561384,5,0,0,1,1,408.6
+61,F,solteiro,ensino medio,0,49,1,23.34201373,3,0,0,1,1,481.5
+55,M,solteiro,ensino medio,0,47,1,140.721958,3,0,0,1,0,653.4
+34,F,casado,doutorado,1,22,1,88.98260163,4,0,0,1,1,385
+46,F,casado,ensino medio,3,36,1,22.57527374,5,0,0,1,0,441
+39,M,solteiro,ensino fundam,0,21,1,116.673369,4,0,0,1,1,286.2
+39,F,na,ensino medio,1,28,1,26.52895521,1,1,770,2,1,570
+54,F,solteiro,ensino medio,0,40,1,19.16126655,3,0,0,1,1,513
+45,M,divorciado,ensino medio,2,34,1,62.93902801,2,1,172,1,0,403
+51,M,solteiro,doutorado,0,40,1,189.2353391,6,0,0,1,0,345.87
+54,F,casado,graduacao,2,44,1,18.51967302,6,0,0,1,0,293
+44,M,solteiro,ensino fundam,0,32,1,92.2674062,3,0,0,1,1,445.5
+31,M,na,ensino medio,2,26,1,133.512934,1,1,1419,2,1,821
+53,M,casado,ensino fundam,2,43,1,132.4718466,4,0,0,1,2,635
+43,F,solteiro,ensino medio,1,33,1,67.54905097,5,0,0,1,0,414
+50,F,na,ensino fundam,1,41,1,23.88294978,1,1,494,1,0,450
+36,F,na,mestrado,3,25,0,0,5,0,0,1,1,436.8
+64,F,solteiro,ensino medio,0,55,1,24.19957301,4,0,0,1,0,453.6
+38,F,solteiro,ensino medio,0,29,0,0,4,0,0,1,0,361.44
+55,M,casado,graduacao,1,44,1,131.5190203,3,1,285,1,1,430
+45,M,casado,mestrado,0,34,1,128.678471,4,0,0,1,1,537
+47,F,na,doutorado,3,35,1,69.56631299,6,0,0,1,0,403
+52,F,solteiro,mestrado,0,41,1,23.28105478,3,0,0,1,1,510.3
+47,F,solteiro,ensino fundam,0,37,1,21.93223333,6,0,0,1,0,420.3
+46,F,casado,ensino fundam,4,35,1,19.74995417,3,1,263,1,1,498
+50,M,solteiro,ensino medio,0,41,1,197.3437294,2,1,480,1,0,541.8
+45,F,divorciado,graduacao,3,36,1,21.98111233,2,1,429,1,0,401
+42,M,solteiro,graduacao,1,33,1,184.3246636,5,0,0,1,0,558.9
+55,M,casado,ensino fundam,2,45,1,99.66425289,4,0,0,1,1,453
+40,M,casado,graduacao,3,30,1,59.26424433,4,0,0,1,1,331
+37,M,solteiro,doutorado,0,29,1,89.90569948,6,0,0,1,0,366.3
+44,M,casado,doutorado,2,36,1,127.8609516,5,0,0,1,0,565
+47,F,solteiro,doutorado,0,37,1,69.82742383,5,0,0,1,1,491.4
+39,F,solteiro,ensino fundam,0,31,1,21.43687444,2,1,459,1,0,364.5
+48,F,casado,mestrado,3,38,1,19.61159313,5,0,0,1,1,451
+50,F,solteiro,graduacao,0,41,1,22.87290729,4,0,0,1,0,456.3
+54,M,solteiro,graduacao,0,46,1,129.9610243,3,0,0,1,0,379.8
+38,F,casado,graduacao,1,32,1,36.94166478,1,1,1423,1,2,831
+46,M,solteiro,ensino medio,1,37,1,92.46216335,6,0,0,1,0,334.8
+39,F,divorciado,ensino medio,0,30,1,21.17218423,2,1,439,1,1,380
+44,M,casado,ensino fundam,2,34,1,128.1427601,5,0,0,1,1,539
+40,M,solteiro,ensino fundam,0,30,1,119.4346454,1,1,261,2,1,517.5
+42,M,solteiro,mestrado,0,32,1,66.07938563,2,1,420,1,1,529.2
+59,F,casado,ensino medio,1,51,1,77.33154556,6,0,0,1,1,627
+51,M,na,graduacao,0,49,1,143.784833,1,1,844,1,1,767
+37,M,solteiro,doutorado,0,27,1,118.7684963,6,0,0,1,1,487.8
+45,M,solteiro,mestrado,0,38,1,121.9353244,3,0,0,1,0,306.9
+60,F,casado,mestrado,1,57,1,41.74331602,1,1,1361,2,1,834
+46,F,casado,ensino medio,2,37,0,0,4,0,0,1,2,546.4
+44,F,solteiro,ensino medio,1,35,1,68.81196405,3,0,0,1,1,497.7
+41,M,solteiro,ensino fundam,0,32,1,120.3113905,6,0,0,1,1,372.6
+38,F,na,ensino fundam,2,30,1,22.27603369,2,1,507,1,0,501
+49,F,casado,ensino medio,5,40,0,0,4,0,0,1,1,431.2
+47,F,solteiro,graduacao,0,40,0,0,5,0,0,1,0,360.72
+42,F,divorciado,ensino fundam,4,33,0,0,5,0,0,1,1,355.2
+45,M,divorciado,ensino fundam,2,37,1,125.2071842,3,1,254,1,2,655
+37,M,solteiro,doutorado,0,30,1,175.87035,2,1,370,1,0,378
+48,F,solteiro,ensino medio,0,42,1,86.16855388,1,1,1335,1,0,700.2
+54,M,casado,ensino medio,3,52,1,223.7467526,1,1,1438,1,1,812
+40,M,solteiro,ensino medio,0,31,1,124.1193205,3,0,0,1,1,585
+44,F,divorciado,ensino medio,3,36,1,67.97213412,3,1,418,1,1,475
+46,F,divorciado,mestrado,2,40,0,0,5,0,0,1,1,489.6
+46,M,solteiro,ensino medio,1,38,1,98.14858027,5,0,0,1,0,460.8
+55,M,solteiro,graduacao,0,50,1,146.0341285,2,1,792,3,0,716.4
+36,F,solteiro,mestrado,0,28,1,17.66879567,6,0,0,1,0,315.9
+41,M,casado,graduacao,4,33,1,187.8264361,5,0,0,1,2,676
+39,F,solteiro,ensino medio,0,24,1,20.65800636,5,0,0,1,1,522
+47,M,na,ensino fundam,4,34,1,18.95376656,6,0,0,1,1,473
+45,M,casado,ensino medio,5,38,1,65.90293058,3,1,318,2,0,525
+57,F,solteiro,doutorado,0,49,1,73.93109173,5,0,0,1,1,619.2
+46,F,casado,ensino medio,4,37,0,0,5,0,0,1,0,458.4
+50,F,casado,ensino medio,2,42,1,64.68191636,6,0,0,1,1,338
+32,M,casado,graduacao,0,24,1,84.68291071,5,0,0,1,1,338
+46,M,na,ensino medio,3,39,1,100.9005211,6,0,0,2,1,708
+47,F,casado,graduacao,1,40,1,23.75334673,3,1,492,1,0,621
+44,F,solteiro,mestrado,0,37,1,21.8159553,4,0,0,1,0,396
+32,M,solteiro,ensino medio,0,23,1,17.3900627,6,0,0,1,1,408.6
+48,F,solteiro,ensino medio,0,40,1,23.78992811,2,1,508,1,0,447.3
+59,F,solteiro,graduacao,0,50,1,24.30076215,4,0,0,1,1,545.4
+44,M,casado,ensino fundam,4,37,1,97.03967088,3,1,438,1,0,467
+50,F,casado,mestrado,3,42,1,24.45908006,2,1,524,1,1,493
+54,M,divorciado,ensino medio,2,52,1,159.8460823,1,1,1519,1,1,904
+43,M,solteiro,doutorado,0,37,1,81.96890572,1,1,1375,1,0,665.1
+37,M,solteiro,graduacao,0,29,1,117.7542824,4,0,0,1,0,376.2
+51,M,solteiro,ensino medio,0,43,1,95.81351239,3,0,0,1,0,342.9
+47,M,solteiro,ensino medio,0,39,1,192.8744206,3,0,0,1,0,530.1
+47,F,casado,ensino medio,2,38,1,17.98856109,5,0,0,1,0,431
+47,F,solteiro,mestrado,0,38,1,26.50877859,1,1,1637,2,0,800.1
+50,M,solteiro,graduacao,0,41,1,66.3057505,4,0,0,2,1,555.3
+49,F,solteiro,ensino fundam,0,40,1,22.99669555,1,1,447,1,1,459.9
+54,F,solteiro,ensino medio,0,45,1,24.87202363,1,1,491,2,1,620.1
+39,F,solteiro,ensino medio,2,31,1,22.43319034,5,0,0,1,0,405.9
+48,F,solteiro,graduacao,0,41,1,69.97148391,6,0,0,1,0,375.3
+39,M,solteiro,graduacao,0,30,1,175.0837908,1,1,180,1,1,341.1
+49,M,solteiro,mestrado,0,41,1,124.8762363,2,1,269,1,0,322.2
+35,F,casado,mestrado,3,26,0,0,3,1,510,1,1,364
+46,M,solteiro,ensino medio,1,39,1,128.9835149,5,0,0,2,0,571.5
+52,M,casado,ensino medio,3,44,1,130.375018,4,0,0,1,1,483
+39,M,solteiro,doutorado,0,31,1,91.94963406,6,0,0,1,0,402.3
+46,M,solteiro,mestrado,2,38,1,66.20890874,6,0,0,1,0,392.4
+49,M,solteiro,graduacao,0,41,1,195.9324409,1,1,441,1,0,569.7
+39,F,casado,ensino fundam,3,29,1,21.63711673,6,0,0,1,2,518
+48,F,casado,ensino medio,2,39,1,64.8828461,4,0,0,1,1,423
+32,F,casado,graduacao,0,24,1,16.1749448,6,0,0,1,1,285
+50,F,solteiro,ensino medio,0,43,1,22.19269369,1,1,401,1,0,352.8
+45,M,na,ensino medio,4,38,1,98.25999803,5,0,0,3,0,565
+60,M,casado,graduacao,0,53,1,103.5428737,6,0,0,1,0,468
+47,M,na,ensino medio,2,41,1,136.2476842,2,1,705,1,1,647
+60,M,casado,mestrado,0,57,1,94.8040443,1,1,1459,1,1,855
+46,F,casado,ensino medio,3,39,0,0,1,1,475,1,0,332.8
+58,F,divorciado,ensino fundam,1,51,1,20.7128076,4,0,0,1,0,409
+46,M,casado,ensino fundam,2,45,1,200.3977911,1,1,755,1,1,761
+43,M,solteiro,ensino fundam,0,34,1,185.4796104,6,0,0,1,1,486
+56,M,casado,ensino fundam,2,49,1,139.3624165,1,1,449,1,0,573
+52,M,solteiro,ensino medio,1,43,1,70.43352949,3,0,0,1,1,567
+51,M,solteiro,mestrado,0,42,1,132.1632247,3,0,0,1,1,582.3
+36,F,solteiro,ensino fundam,0,28,0,0,3,0,0,1,0,313.92
+34,F,casado,mestrado,3,27,1,58.68860367,5,0,0,1,0,268
+55,F,solteiro,ensino medio,0,34,1,67.85348256,5,0,0,1,0,279.9
+44,M,casado,mestrado,4,26,1,129.6916042,4,0,0,2,1,639
+46,M,solteiro,ensino fundam,0,33,1,135.5656575,2,1,759,2,0,600.3
+38,M,casado,ensino fundam,2,17,1,116.3598629,6,0,0,1,0,227
+48,F,casado,graduacao,1,27,1,70.47977643,3,1,478,2,0,427
+42,M,casado,mestrado,3,26,1,206.8365061,1,1,1378,4,2,887.86
+57,M,solteiro,ensino fundam,0,37,1,132.6306216,6,0,0,1,0,390.6
+40,M,solteiro,doutorado,0,17,1,178.2353292,6,0,0,1,1,462.105
+39,M,casado,ensino fundam,1,21,1,88.14734502,6,0,0,1,1,301
+37,F,solteiro,doutorado,0,17,1,61.24855191,4,0,0,1,0,221.4
+41,M,casado,ensino medio,3,25,1,125.9702683,6,0,0,1,1,667
+50,F,casado,ensino fundam,2,29,0,0,4,0,0,1,1,323.2
+43,F,casado,graduacao,3,22,1,22.46858098,2,1,484,1,1,381
+36,F,solteiro,ensino medio,0,15,1,63.27466063,4,0,0,1,1,364.5
+44,M,casado,ensino fundam,4,26,1,94.68571721,4,0,0,1,1,374
+52,M,solteiro,mestrado,0,39,1,152.4156534,1,1,1326,1,0,751.5
+56,F,casado,doutorado,1,36,1,74.72453612,1,1,478,1,1,488
+53,M,divorciado,ensino medio,1,33,1,132.3853055,5,0,0,1,2,605
+57,M,casado,ensino medio,2,38,1,133.1433677,3,1,291,1,1,417
+50,F,solteiro,ensino fundam,0,29,1,23.31201125,5,0,0,1,1,482.4
+41,F,casado,ensino medio,4,24,1,19.17543729,4,0,0,1,1,315
+43,F,solteiro,ensino fundam,0,24,0,0,1,1,524,1,1,357.12
+49,F,casado,ensino medio,4,33,1,23.47435339,3,1,478,1,0,448
+47,F,casado,ensino medio,3,28,1,65.57311124,6,0,0,1,0,434
+28,F,solteiro,ensino fundam,0,10,0,0,5,0,0,1,1,297.36
+52,F,solteiro,graduacao,0,33,1,24.06021779,5,0,0,1,0,416.7
+39,M,divorciado,ensino medio,2,21,1,65.12751518,5,0,0,2,1,484
+32,M,solteiro,ensino medio,0,15,1,106.0149368,3,0,0,2,1,665.1
+42,M,casado,ensino medio,3,24,1,124.8000561,1,1,407,1,1,454
+47,M,casado,graduacao,3,30,1,129.6403092,3,1,354,1,1,557
+52,M,solteiro,ensino fundam,0,34,1,101.9599072,4,0,0,1,1,500.4
+43,M,casado,graduacao,1,20,1,91.79149826,4,0,0,1,1,364
+40,M,casado,ensino medio,4,22,1,90.2138492,5,0,0,2,1,477
+44,F,divorciado,ensino medio,2,23,1,21.32663315,2,1,388,2,1,460
+58,F,casado,mestrado,1,36,1,18.90730607,3,1,279,1,1,394
+44,F,casado,ensino medio,3,26,1,23.31953657,3,1,525,1,0,414
+38,M,casado,mestrado,0,18,1,86.88356631,4,1,150,1,0,237
+48,F,solteiro,ensino medio,0,31,1,69.88428949,4,0,0,1,0,400.5
+36,M,casado,ensino medio,3,18,1,115.8790463,5,0,0,1,1,329
+43,F,na,ensino fundam,3,20,1,19.88492453,5,0,0,1,1,410
+43,F,na,graduacao,3,25,1,86.64657263,1,1,1537,2,1,729
+50,M,solteiro,ensino fundam,0,42,1,127.9424654,5,0,0,1,0,385.2
+44,F,na,graduacao,4,36,1,19.17272492,2,1,258,1,1,379
+45,F,casado,ensino medio,3,44,1,38.25556741,1,1,1402,2,1,767
+52,M,solteiro,ensino fundam,0,45,1,132.2321746,5,0,0,1,0,390.6
+61,F,solteiro,mestrado,0,54,1,76.47476986,6,0,0,1,0,469.8
+36,F,solteiro,mestrado,0,29,1,18.08108509,6,0,0,1,0,294.3
+45,F,casado,ensino medio,5,36,1,17.37762269,4,0,0,1,1,356
+41,M,casado,graduacao,3,34,1,120.1116452,6,0,0,1,0,471
+38,M,casado,doutorado,3,30,1,121.8465128,3,1,431,1,1,473
+51,F,casado,doutorado,1,43,1,103.1194405,6,0,0,1,1,492
+35,F,solteiro,ensino medio,1,26,1,20.72264319,6,0,0,1,1,349.2
+47,F,divorciado,ensino medio,3,47,1,39.62542208,1,1,1458,1,0,753
+51,F,casado,ensino medio,1,42,1,19.35051217,6,0,0,2,1,533
+53,M,casado,doutorado,3,45,1,135.150897,5,0,0,1,1,533
+62,M,casado,graduacao,0,53,1,103.1871082,3,1,241,1,1,458
+63,F,solteiro,mestrado,0,52,1,77.44394007,3,0,0,1,1,675.9
+45,M,casado,ensino fundam,3,35,1,123.2098079,6,0,0,1,1,418
+47,M,casado,graduacao,3,45,1,119.7760275,1,1,1531,1,1,819
+53,F,casado,ensino fundam,1,45,1,18.51445478,4,0,0,1,1,371
+51,F,casado,ensino medio,2,43,1,67.53011244,3,1,204,1,0,429
+39,M,solteiro,ensino fundam,0,28,1,180.1327616,4,0,0,1,0,409.5
+40,F,solteiro,graduacao,0,33,1,20.62286218,5,0,0,1,0,363.6
+35,F,solteiro,mestrado,0,28,0,0,3,0,0,1,0,244.8
+41,M,casado,graduacao,3,33,1,123.9439387,6,0,0,1,1,447
+57,F,casado,mestrado,2,47,0,0,3,1,251,1,2,512.8
+48,F,casado,ensino medio,2,40,0,0,4,0,0,1,1,414.4
+48,M,solteiro,graduacao,1,38,1,97.88580905,5,0,0,1,1,473.4
+45,M,casado,doutorado,3,38,1,67.03747465,3,1,429,1,0,438
+44,F,casado,ensino medio,3,36,1,17.83457278,4,0,0,1,1,362
+53,M,casado,mestrado,2,46,1,66.03203607,3,1,151,1,0,396
+65,M,casado,mestrado,0,53,0,0,3,1,273,1,1,397.6
+43,F,solteiro,ensino medio,1,36,1,20.98028159,5,0,0,1,0,356.4
+45,F,casado,graduacao,3,35,1,68.31103012,6,0,0,1,2,517
+48,F,solteiro,ensino fundam,1,39,1,23.85463272,2,1,505,1,1,503.1
+53,F,casado,mestrado,3,51,1,42.54812932,1,1,1520,1,1,819
+38,F,solteiro,ensino fundam,0,31,0,0,5,0,0,1,0,275.04
+33,F,casado,graduacao,2,25,1,17.8151279,3,1,268,1,1,357
+53,F,casado,graduacao,1,46,1,17.83964679,6,0,0,1,0,322
+47,F,casado,ensino medio,3,38,1,101.4903257,5,0,0,1,1,563
+36,M,casado,graduacao,2,27,1,119.0243285,6,0,0,1,1,517
+49,F,casado,ensino medio,3,40,1,22.24855694,2,1,389,1,1,539
+55,F,solteiro,ensino fundam,0,49,0,0,1,1,228,1,0,307.44
+46,F,casado,mestrado,2,38,0,0,3,1,453,1,1,424.8
+57,M,solteiro,mestrado,0,51,1,139.8399689,6,0,0,1,0,654.3
+52,M,solteiro,graduacao,0,45,1,142.9753503,2,1,772,1,1,722.7
+52,F,solteiro,ensino medio,0,44,1,104.8341769,4,0,0,1,0,501.3
+48,F,solteiro,graduacao,2,41,1,69.21996908,5,0,0,1,0,414
+42,M,casado,graduacao,3,32,1,128.5689911,5,0,0,1,2,600
+41,F,solteiro,ensino medio,1,34,1,22.15986734,3,0,0,1,0,421.2
+51,M,casado,doutorado,3,45,1,133.4636012,5,0,0,1,0,698
+49,F,solteiro,graduacao,0,42,1,17.61246876,4,0,0,1,0,287.1
+59,F,casado,ensino medio,0,50,1,71.60820153,4,0,0,1,1,519
+54,M,solteiro,ensino fundam,0,45,1,201.6014282,1,1,447,1,1,517.5
+50,M,casado,mestrado,1,42,1,196.374217,5,0,0,1,0,557.23
+47,F,casado,doutorado,1,33,1,66.3224899,2,1,258,1,1,387
+42,M,na,graduacao,4,33,1,92.82014325,4,0,0,1,0,443
+35,M,solteiro,doutorado,0,26,1,117.1212977,5,0,0,2,1,550.8
+43,M,casado,ensino medio,4,35,1,96.36628897,3,1,397,1,1,535
+44,M,solteiro,ensino fundam,0,36,1,61.93400065,5,0,0,1,0,300.6
+47,M,solteiro,ensino fundam,0,39,1,127.2170213,6,0,0,1,0,465.3
+41,M,solteiro,ensino medio,1,32,1,183.8903037,5,0,0,1,1,592.2
+51,F,solteiro,ensino fundam,0,44,1,23.28367225,5,0,0,1,0,389.7
+46,M,casado,graduacao,2,39,1,85.27171994,3,1,1434,1,1,748
+42,F,casado,ensino fundam,4,35,1,22.62518178,2,1,502,1,0,400
+51,M,solteiro,graduacao,0,43,1,97.5584962,3,0,0,2,0,508.5
+49,F,divorciado,ensino fundam,4,42,1,22.08178706,5,0,0,1,0,441
+47,M,casado,ensino medio,1,40,1,194.308196,5,0,0,1,1,617
+42,F,casado,ensino medio,2,34,1,67.50715875,6,0,0,2,1,537
+45,F,casado,graduacao,3,37,0,0,1,1,502,1,1,396
+37,F,solteiro,ensino medio,0,28,1,18.07395733,3,0,0,1,1,397.8
+32,M,casado,graduacao,1,24,1,58.73680899,3,1,288,1,1,377
+53,M,casado,graduacao,3,46,1,194.3551675,5,0,0,1,0,452
+52,M,casado,graduacao,2,43,1,97.45545791,5,0,0,1,1,457
+45,M,casado,mestrado,5,39,1,126.5734251,2,1,223,2,1,615
+42,F,na,ensino fundam,3,34,1,67.12692831,3,1,428,1,1,467
+49,F,casado,graduacao,4,40,1,21.7234448,4,0,0,1,1,540
+40,M,casado,mestrado,3,38,1,145.8357071,3,0,0,1,1,822
+47,M,casado,graduacao,1,40,1,188.9223287,3,1,177,1,0,554
+46,F,na,mestrado,4,37,1,69.35608959,6,0,0,1,1,477
+42,F,casado,ensino medio,4,34,1,21.718937,6,0,0,1,1,416
+44,F,casado,ensino fundam,3,37,1,16.50237616,6,0,0,1,0,288
+45,M,na,mestrado,3,37,1,98.49085409,3,1,454,1,1,524
+44,M,solteiro,ensino fundam,1,35,1,128.5158001,5,0,0,1,1,499.5
+34,F,casado,graduacao,1,25,1,16.88540057,4,0,0,1,0,358
+43,M,casado,doutorado,3,38,1,97.72351368,6,0,0,3,0,653
+40,F,solteiro,mestrado,0,32,1,25.84708661,1,1,729,1,0,469.8
+52,M,solteiro,mestrado,0,45,1,132.2354399,4,0,0,1,0,400.5
+57,F,casado,graduacao,3,50,0,0,6,0,0,1,0,288
+53,F,casado,ensino medio,3,46,1,23.83909564,4,0,0,1,0,481
+43,M,casado,ensino medio,1,35,1,124.2994226,4,0,0,1,1,535
+47,M,solteiro,ensino fundam,1,39,1,100.3237162,5,0,0,1,0,540.9
+46,F,solteiro,graduacao,1,38,1,17.23986492,3,0,0,1,0,316.8
+50,F,solteiro,ensino medio,1,41,1,18.88467202,2,1,188,1,1,388.8
+42,F,casado,ensino medio,5,35,1,66.67472043,2,1,418,1,0,419
+45,F,casado,mestrado,4,36,0,0,6,0,0,1,1,389.6
+64,F,casado,graduacao,1,54,1,72.4486663,4,0,0,1,0,457
+46,M,casado,ensino medio,2,38,1,97.10603347,4,0,0,1,0,498
+37,M,casado,mestrado,3,29,1,116.8792608,4,0,0,1,1,334
+57,M,casado,ensino medio,4,48,1,199.0431242,4,0,0,1,1,462
+53,F,solteiro,ensino fundam,0,44,1,68.44596719,5,0,0,1,1,438.3
+36,F,casado,mestrado,2,29,1,21.16248543,2,1,464,1,0,417
+37,M,solteiro,doutorado,0,28,1,121.7199003,6,0,0,1,1,487.8
+48,M,casado,graduacao,4,40,1,102.5772581,5,0,0,1,2,637
+39,M,solteiro,ensino medio,0,32,1,63.96654284,6,0,0,1,0,361.8
+36,F,casado,ensino medio,2,29,1,33.3339168,1,1,1240,1,1,726
+46,F,casado,ensino medio,3,39,0,0,5,0,0,1,0,360.8
+48,M,casado,ensino fundam,3,39,1,124.6205504,3,1,266,1,1,375
+40,F,casado,mestrado,3,33,1,18.64118507,5,0,0,1,0,291
+59,F,divorciado,mestrado,1,52,0,0,1,1,556,1,1,500.8
+61,F,solteiro,ensino fundam,0,54,1,30.78559977,2,1,755,1,1,679.5
+62,F,solteiro,ensino medio,0,54,1,26.87285398,1,1,547,1,0,512.1
+47,M,casado,ensino medio,3,40,1,21.16991719,6,0,0,1,0,487
+40,M,casado,ensino medio,4,33,1,20.50649922,3,1,413,1,0,363
+52,F,solteiro,ensino medio,0,43,0,0,3,0,0,1,1,457.92
+51,F,solteiro,ensino medio,0,41,1,73.28270806,3,0,0,1,1,631.8
+29,F,solteiro,graduacao,0,22,1,17.63529686,3,0,0,1,0,300.6
+46,F,divorciado,mestrado,4,40,1,132.72212,5,0,0,1,1,649
+54,F,solteiro,graduacao,1,44,1,75.01822984,2,1,524,1,1,557.1
+48,F,na,ensino medio,3,43,1,117.6837686,2,1,1308,1,0,667
+46,F,casado,ensino medio,2,36,1,21.00811919,6,0,0,1,2,528
+32,M,solteiro,graduacao,0,25,1,132.4579575,2,1,1447,1,1,621.9
+48,M,casado,graduacao,3,41,1,123.5984308,1,1,231,1,0,335
+37,F,casado,graduacao,3,28,1,60.2117671,5,0,0,1,1,327
+42,F,solteiro,ensino fundam,1,33,1,22.16912362,2,1,462,1,1,468.9
+36,F,casado,ensino medio,5,27,1,17.04955779,3,1,184,1,1,384
+49,F,solteiro,ensino fundam,0,40,1,67.05316096,1,1,252,1,1,376.2
+43,M,solteiro,ensino medio,0,34,1,122.7941867,4,0,0,2,1,526.5
+51,F,casado,mestrado,2,42,1,22.08424155,6,0,0,1,1,579
+61,F,casado,ensino medio,0,53,1,76.63298961,4,0,0,1,1,589
+57,M,divorciado,doutorado,2,50,1,200.207797,4,0,0,1,0,517.65
+43,M,casado,mestrado,3,42,1,210.7029136,1,1,1574,1,1,854.9
+44,M,divorciado,mestrado,2,37,1,98.34652238,2,1,480,1,0,540
+56,M,casado,mestrado,1,49,1,204.0163584,4,0,0,1,0,675.68
+49,M,na,mestrado,2,41,1,132.7372606,5,0,0,1,1,590
+46,F,solteiro,ensino medio,1,39,1,17.97708362,5,0,0,1,0,304.2
+53,F,solteiro,graduacao,0,44,1,68.92676424,1,1,228,1,1,446.4
+45,M,casado,doutorado,4,36,1,129.3166045,2,1,460,1,1,542
+34,M,solteiro,ensino medio,0,27,1,17.8156683,5,0,0,1,0,339.3
+42,M,casado,graduacao,3,41,1,144.8806419,3,0,0,2,1,872
+51,M,casado,ensino medio,2,50,1,88.4582315,1,1,1437,1,1,774
+45,M,solteiro,mestrado,0,37,1,181.6470101,4,0,0,1,0,316.107
+51,F,casado,mestrado,3,42,1,23.65305288,3,1,451,1,1,585
+39,F,casado,ensino medio,1,27,1,21.01122168,4,0,0,1,0,420
+31,M,casado,doutorado,1,21,1,82.64166639,5,0,0,1,0,234
+38,M,solteiro,ensino medio,0,31,1,91.98837135,5,0,0,2,0,459
+50,F,casado,graduacao,1,41,1,21.65316375,6,0,0,1,0,418
+50,F,casado,ensino fundam,3,45,0,0,2,1,791,1,0,579.2
+42,F,casado,ensino medio,3,33,1,67.04347923,2,1,403,1,1,514
+50,M,solteiro,ensino medio,0,41,1,133.8037436,3,0,0,1,1,528.3
+46,M,casado,graduacao,3,37,1,124.4474605,4,0,0,1,1,495
+34,F,solteiro,ensino fundam,0,25,1,18.56762286,3,0,0,1,1,414
+42,M,divorciado,graduacao,4,35,1,89.3857398,5,0,0,1,0,277
+53,M,na,mestrado,1,47,1,201.8543456,4,0,0,1,1,655.08
+30,M,solteiro,ensino fundam,0,22,1,93.08226299,6,0,0,1,0,431.1
+49,M,casado,ensino fundam,3,42,1,130.3663543,6,0,0,1,0,420
+31,M,solteiro,graduacao,0,25,1,80.56778549,3,0,0,1,0,650.7
+38,M,solteiro,mestrado,0,30,1,121.2791793,6,0,0,1,0,432.9
+34,M,divorciado,mestrado,3,25,1,171.6246203,4,0,0,1,1,442.9
+39,F,casado,graduacao,3,30,1,21.09385805,3,1,420,1,1,478
+51,M,solteiro,graduacao,0,44,1,132.8262841,6,0,0,1,0,490.5
+42,M,casado,ensino medio,3,37,1,133.5142747,1,1,793,1,0,693
+57,F,solteiro,mestrado,1,48,1,23.09205892,5,0,0,1,1,531.9
+60,F,casado,ensino medio,2,52,0,0,1,1,520,1,1,475.2
+51,F,solteiro,ensino fundam,0,42,1,23.22611108,3,0,0,1,1,523.8
+47,F,casado,doutorado,5,39,1,65.19151051,6,0,0,1,1,412
+49,M,divorciado,ensino fundam,4,41,1,66.62476615,3,1,292,1,1,418
+44,M,casado,doutorado,2,36,1,128.9973213,1,1,485,1,1,558
+50,M,solteiro,ensino medio,0,42,1,95.83751842,4,0,0,1,0,440.1
+52,M,casado,mestrado,1,46,1,200.1571148,5,0,0,1,0,618
+56,F,casado,ensino medio,1,47,1,23.88815435,4,0,0,1,1,570
+43,F,casado,ensino medio,4,34,1,16.98538522,4,0,0,1,1,367
+37,M,casado,ensino medio,1,32,1,109.2647117,5,0,0,1,0,736
+48,M,casado,ensino medio,2,41,1,133.962211,6,0,0,1,1,712
+52,F,solteiro,ensino medio,1,43,1,23.92220715,3,0,0,1,1,560.7
+56,F,casado,ensino medio,1,49,0,0,2,1,414,1,1,484
+36,M,solteiro,ensino medio,0,25,1,173.4398338,4,0,0,1,1,356.4
+44,F,casado,mestrado,4,37,0,0,6,0,0,1,0,318.4
+45,M,casado,ensino medio,4,36,1,94.69717656,6,0,0,1,1,497
+34,M,casado,ensino medio,2,25,1,170.0422374,4,0,0,1,1,410
+53,M,solteiro,ensino medio,0,44,1,98.52886507,6,0,0,1,1,424.8
+46,M,casado,ensino fundam,3,37,1,191.9711725,6,0,0,1,1,533
+51,M,solteiro,graduacao,0,43,1,135.4581695,3,0,0,1,0,562.5
+40,F,solteiro,graduacao,0,32,1,21.53622232,4,0,0,1,0,414
+55,M,solteiro,mestrado,0,45,1,104.4363724,6,0,0,1,1,541.8
+58,M,solteiro,ensino fundam,0,50,1,71.46393094,3,0,0,1,0,478.8
+62,F,casado,graduacao,1,55,0,0,2,1,225,1,0,299.2
+56,M,casado,ensino fundam,3,48,1,195.8306645,3,1,266,1,1,361
+53,M,solteiro,mestrado,0,46,1,134.9709949,6,0,0,1,0,538.2
+32,M,casado,doutorado,0,24,1,85.39401069,6,0,0,1,1,358
+40,F,casado,ensino medio,2,31,1,66.3984425,3,1,422,1,1,515
+48,M,solteiro,doutorado,0,39,1,64.01233439,6,0,0,1,1,357.3
+59,M,solteiro,mestrado,0,48,1,71.57940405,4,0,0,1,1,567.9
+56,M,casado,ensino medio,3,47,1,133.9027495,3,1,179,1,1,494
+29,M,casado,mestrado,1,22,1,75.91559387,1,1,1491,1,1,717
+56,F,solteiro,ensino medio,0,46,1,74.44206114,4,0,0,1,1,543.6
+57,F,casado,graduacao,3,46,0,0,2,1,261,1,2,447.2
+65,F,casado,ensino medio,0,53,1,21.04718832,6,0,0,1,1,529
+51,F,solteiro,ensino medio,0,44,1,70.59109232,5,0,0,1,0,387
+44,F,solteiro,mestrado,1,33,1,85.84707648,1,1,1480,1,1,665.1
+55,F,divorciado,ensino medio,2,48,1,22.38335516,5,0,0,1,0,491
+48,F,na,mestrado,2,40,1,21.53280057,3,1,366,1,1,445
+49,M,solteiro,ensino medio,0,40,1,129.9098866,2,1,351,1,1,440.1
+57,M,solteiro,ensino medio,0,46,1,203.1649101,3,0,0,1,1,567
+42,F,casado,ensino medio,3,30,1,27.3102881,2,1,787,1,1,550
+54,F,solteiro,graduacao,0,45,1,24.78826446,1,1,498,1,1,533.7
+38,F,casado,graduacao,3,30,0,0,4,0,0,1,1,305.6
+51,M,na,mestrado,3,45,1,134.5381672,5,0,0,1,1,629
+42,M,casado,ensino fundam,4,34,1,90.93658567,3,1,193,1,1,340
+42,M,solteiro,ensino medio,0,33,1,126.8043061,6,0,0,1,1,585
+53,F,solteiro,graduacao,0,45,1,72.19125512,5,0,0,1,0,481.5
+51,M,solteiro,graduacao,0,42,1,100.2473422,3,0,0,1,1,475.2
+53,F,casado,ensino medio,1,45,1,72.60727279,6,0,0,1,1,546
+61,M,casado,ensino medio,1,53,1,103.6704686,6,0,0,1,1,442
+59,M,casado,mestrado,1,52,1,68.75657972,5,0,0,1,0,380
+53,M,casado,ensino medio,1,44,1,136.5071554,3,1,448,1,1,561
+48,M,casado,mestrado,3,38,1,131.7651629,3,1,346,1,2,667
+38,F,solteiro,ensino medio,0,29,1,17.51030779,2,1,203,1,1,339.3
+44,F,divorciado,mestrado,3,37,1,17.52870075,4,0,0,2,0,336
+41,M,casado,ensino medio,2,34,1,127.4505771,3,1,509,1,0,623
+55,F,solteiro,mestrado,0,45,1,20.3042651,3,0,0,1,1,507.6
+62,M,na,ensino fundam,0,52,1,72.62508564,2,1,211,1,2,645
+41,F,casado,mestrado,3,32,1,124.001144,2,1,193,1,0,524
+54,F,casado,ensino medio,1,45,1,18.60044027,4,0,0,1,1,443
+54,M,casado,ensino fundam,1,47,1,131.5318318,6,0,0,1,0,467
+49,F,divorciado,doutorado,1,41,1,70.41284647,6,0,0,1,2,617
+51,F,solteiro,ensino medio,0,42,0,0,4,0,0,1,1,444.96
+33,F,solteiro,graduacao,0,26,0,0,6,0,0,1,0,240.48
+43,F,casado,ensino medio,5,30,1,22.75571546,6,0,0,2,1,538
+53,M,solteiro,graduacao,0,46,1,22.72481825,5,0,0,1,0,390.6
+51,F,casado,graduacao,2,42,1,22.76633612,4,0,0,1,1,567
+48,F,divorciado,ensino medio,2,47,1,22.74427743,1,1,1395,1,1,804
+49,F,casado,ensino fundam,2,42,1,24.03782352,4,0,0,1,2,616
+55,M,casado,ensino medio,3,48,1,102.9786365,3,1,338,1,0,482
+34,F,solteiro,ensino medio,0,25,1,17.59020497,4,0,0,3,1,440.1
+50,M,casado,graduacao,2,41,1,102.4701277,5,0,0,1,1,540
+38,M,solteiro,ensino fundam,0,27,1,86.98465482,5,0,0,1,0,282.6
+46,F,divorciado,ensino medio,5,37,1,23.02286002,3,1,462,1,1,578
+35,F,divorciado,ensino fundam,3,27,1,21.24936588,4,0,0,1,1,410
+30,F,solteiro,mestrado,0,19,0,0,3,0,0,1,1,449.28
+32,M,divorciado,graduacao,2,25,1,85.11848851,6,0,0,1,0,323
+44,M,solteiro,mestrado,0,37,1,129.6526693,3,0,0,2,1,640.8
+40,M,casado,ensino medio,4,33,1,96.06680988,5,0,0,1,2,609
+49,M,solteiro,ensino medio,1,43,1,151.1347455,1,1,1437,1,0,747.9
+33,M,solteiro,mestrado,0,25,1,88.02009938,6,0,0,1,1,451.8
+56,F,casado,graduacao,3,49,1,66.60915254,5,0,0,1,1,312
+57,F,solteiro,ensino medio,0,47,1,23.62255556,5,0,0,1,1,576.9
+43,M,na,graduacao,4,35,1,121.8100094,4,0,0,1,1,433
+47,F,solteiro,mestrado,0,39,1,23.66399016,4,0,0,1,0,434.7
+53,M,solteiro,doutorado,0,51,1,118.8579787,1,1,1203,2,1,785.7
+60,M,solteiro,ensino medio,0,51,1,75.65930739,6,0,0,1,1,565.2
+52,M,casado,graduacao,0,44,1,102.2401127,3,1,383,1,0,538
+46,M,solteiro,doutorado,0,38,1,94.69270894,3,0,0,1,1,441
+52,M,na,mestrado,3,42,1,194.6100284,2,1,260,1,2,572.68
+39,M,solteiro,ensino fundam,0,30,1,62.03560591,3,0,0,1,1,411.3
+46,F,casado,ensino fundam,3,37,0,0,3,1,470,1,1,472
+40,M,solteiro,mestrado,0,32,1,59.92836726,4,0,0,2,0,359.1
+47,F,solteiro,graduacao,0,36,1,70.3097967,6,0,0,1,1,543.6
+49,F,solteiro,mestrado,1,42,1,23.14118825,4,0,0,1,0,467.1
+52,F,casado,mestrado,3,44,1,22.90865129,6,0,0,1,1,564
+52,M,solteiro,ensino fundam,0,46,1,128.6032952,6,0,0,1,0,389.7
+39,M,solteiro,ensino medio,0,31,1,123.2303233,4,0,0,1,1,584.1
+39,F,casado,mestrado,2,38,1,35.80950818,2,1,1338,2,1,804
+49,F,solteiro,ensino fundam,0,42,1,23.13151816,4,0,0,1,0,499.5
+39,M,casado,ensino fundam,2,32,1,88.89874005,6,0,0,1,0,363
+36,M,casado,ensino medio,0,27,1,120.1627872,5,0,0,1,1,483
+60,M,casado,graduacao,1,57,1,46.12028518,1,1,1649,2,1,880
+58,M,casado,ensino medio,3,52,1,204.5076327,5,0,0,1,0,609
+45,F,solteiro,graduacao,1,33,1,22.85396843,3,0,0,1,0,377.1
+46,F,solteiro,ensino fundam,0,39,1,22.28014548,3,0,0,1,0,459.9
+55,M,casado,graduacao,0,46,1,197.1556944,5,0,0,1,1,448
+40,M,casado,mestrado,2,27,1,123.3849289,5,0,0,1,1,493
+50,M,solteiro,ensino medio,0,43,1,96.99867567,4,0,0,1,0,462.6
+41,M,solteiro,graduacao,0,34,1,125.352891,6,0,0,1,0,520.2
+45,M,casado,graduacao,3,35,1,95.92480247,3,1,261,1,2,566
+63,M,casado,graduacao,1,53,1,106.4229597,3,1,190,1,1,547
+35,F,casado,mestrado,1,28,1,16.94072443,3,1,197,1,1,274
+47,M,casado,ensino medio,1,40,1,69.08341015,3,1,485,1,1,479
+57,F,casado,ensino medio,1,57,1,42.59957041,4,0,0,1,0,791
+47,M,casado,ensino fundam,1,45,1,102.189845,5,0,0,2,2,751
+42,F,casado,ensino fundam,3,34,1,20.29385076,4,0,0,1,1,446
+43,F,divorciado,graduacao,3,35,1,18.7403342,3,1,229,1,1,456
+37,F,solteiro,ensino fundam,0,29,1,18.70693379,6,0,0,1,1,437.4
+44,F,casado,ensino medio,2,38,1,21.30535803,5,0,0,1,0,380
+56,F,casado,graduacao,2,50,0,0,4,0,0,1,0,428.8
+44,F,solteiro,ensino medio,1,32,1,16.9126475,6,0,0,1,1,361.8
+35,M,solteiro,ensino medio,0,23,1,114.4494878,3,0,0,1,0,308.7
+44,M,na,graduacao,2,44,1,104.6622431,1,1,749,2,1,769
+46,M,na,graduacao,4,40,1,65.60807869,6,0,0,1,0,421
+49,F,casado,ensino fundam,2,41,1,21.16613457,4,0,0,1,1,475
+42,M,casado,doutorado,3,26,1,64.65284246,3,1,344,1,0,482
+53,F,casado,ensino fundam,3,47,1,22.96563672,5,0,0,1,0,460
+50,M,solteiro,ensino medio,0,43,1,133.152555,3,0,0,1,0,465.3
+54,M,casado,graduacao,2,48,1,132.4005242,3,1,190,1,0,497
+26,F,solteiro,mestrado,0,18,1,14.3629256,4,0,0,1,0,208.8
+48,F,divorciado,mestrado,5,47,1,157.4876274,2,0,0,1,1,878
+49,M,casado,mestrado,5,41,1,65.28113496,2,1,187,1,0,465
+44,F,solteiro,mestrado,0,37,1,22.58748856,3,0,0,1,0,485.1
+38,M,divorciado,ensino fundam,2,30,1,119.8105901,6,0,0,1,1,490
+59,M,solteiro,graduacao,0,55,1,107.4754605,2,0,0,1,1,752.4
+49,M,solteiro,ensino fundam,0,41,1,127.374084,1,1,183,1,1,446.4
+45,M,casado,ensino fundam,2,34,1,95.97827056,4,0,0,1,2,683
+64,F,solteiro,ensino medio,0,54,1,77.10746887,6,0,0,1,0,471.6
+37,M,casado,ensino fundam,3,28,1,89.67221719,6,0,0,1,0,456
+46,M,na,mestrado,3,39,1,130.0044752,1,1,451,1,1,536
+36,F,casado,ensino fundam,4,29,0,0,5,0,0,1,1,301.6
+55,F,casado,ensino fundam,2,49,0,0,6,0,0,1,0,379.2
+35,F,casado,ensino fundam,4,27,1,18.47175602,6,0,0,1,0,441
+43,M,na,ensino medio,5,35,1,66.92887677,3,1,440,1,1,541
+52,F,casado,graduacao,3,45,1,68.75037108,2,1,241,1,1,456
+33,M,divorciado,graduacao,1,27,1,61.28792567,6,0,0,1,0,389
+39,F,solteiro,ensino medio,0,30,1,67.07233582,6,0,0,1,1,576.9
+47,F,divorciado,ensino medio,3,38,1,23.35784429,3,1,474,1,2,572
+45,F,casado,ensino medio,3,41,1,38.52374837,2,1,1435,1,0,695
+50,M,casado,ensino medio,1,51,1,141.6379096,1,1,776,2,0,760
+44,F,divorciado,ensino fundam,1,37,1,17.81759709,5,0,0,1,0,367
+52,F,divorciado,graduacao,3,44,1,20.48196925,3,1,260,1,1,485
+54,F,solteiro,ensino fundam,0,46,1,72.52723208,4,0,0,1,1,537.3
+52,M,casado,ensino medio,3,44,1,194.2105715,5,0,0,1,1,514
+65,F,solteiro,graduacao,0,53,1,25.95315759,3,0,0,1,1,594.9
+59,M,solteiro,graduacao,0,52,1,136.8213756,3,0,0,1,0,410.4
+61,M,casado,graduacao,1,54,1,69.45348916,2,1,284,1,1,436
+47,M,divorciado,doutorado,1,40,1,93.61096658,5,0,0,1,1,409
+39,M,solteiro,ensino medio,1,33,1,94.43163197,3,0,0,3,1,631.8
+63,F,solteiro,ensino fundam,0,53,1,77.91091831,5,0,0,1,1,546.3
+50,F,solteiro,mestrado,0,43,1,23.43608832,4,0,0,1,0,469.8
+52,M,na,ensino fundam,3,48,1,204.7746496,4,0,0,1,2,765
+37,M,na,graduacao,2,31,1,178.4958981,6,0,0,1,0,536
+54,F,casado,ensino medio,3,48,0,0,5,0,0,1,0,415.2
+39,M,divorciado,ensino medio,2,33,1,93.81723505,5,0,0,1,0,457
+57,F,casado,graduacao,2,49,1,21.46555953,6,0,0,1,1,519
+41,M,na,ensino medio,4,33,1,90.55943127,2,1,179,1,0,395
+52,F,solteiro,graduacao,0,45,1,21.46990759,5,0,0,1,0,481.5
+52,F,solteiro,graduacao,1,45,0,0,6,0,0,1,0,300.96
+54,F,solteiro,ensino fundam,0,47,0,0,6,0,0,1,0,349.2
+51,F,casado,doutorado,0,45,1,106.0952969,1,1,453,1,1,674
+60,F,solteiro,ensino medio,0,54,0,0,3,0,0,1,1,511.2
+40,F,solteiro,graduacao,0,34,1,71.62586994,2,1,801,1,0,448.2
+36,F,solteiro,graduacao,0,29,1,21.91859951,4,0,0,1,0,426.6
+47,M,casado,graduacao,4,42,1,61.82142842,6,0,0,1,0,246
+38,F,casado,ensino fundam,2,30,1,21.06448644,1,1,427,1,1,489
+58,M,casado,graduacao,1,51,1,101.831685,5,0,0,1,0,473
+44,M,casado,mestrado,3,39,1,128.059845,5,0,0,2,1,661
+47,F,na,graduacao,4,46,1,22.74490206,1,1,1398,1,1,853
+41,F,solteiro,graduacao,0,31,1,67.25681145,4,0,0,1,1,534.6
+48,F,casado,ensino medio,2,41,1,70.29865046,3,1,406,1,0,568
+44,F,casado,ensino fundam,4,38,1,28.10125535,1,1,827,1,0,473
+27,F,solteiro,ensino fundam,0,21,1,16.68420191,4,0,0,1,0,260.1
+45,M,casado,doutorado,2,38,1,194.1130765,4,0,0,1,2,733.95
+38,M,casado,mestrado,2,32,1,119.9598731,3,1,291,1,0,485
+34,F,solteiro,doutorado,0,28,1,87.99666382,3,0,0,1,0,293.4
+53,F,casado,graduacao,1,45,1,23.39384107,5,0,0,1,1,585
+46,F,casado,ensino fundam,2,39,1,21.79057286,5,0,0,1,1,495
+38,F,casado,ensino medio,4,30,1,61.3487936,4,0,0,1,1,344
+32,F,divorciado,ensino medio,2,31,1,22.2401904,1,1,1520,2,1,867
+40,M,casado,doutorado,4,31,1,91.33855188,3,1,174,1,2,568
+48,M,na,graduacao,3,41,1,69.41581845,2,1,459,1,1,519
+30,F,solteiro,graduacao,0,24,0,0,4,0,0,1,0,306.72
+49,F,casado,ensino medio,1,45,1,37.51017894,2,1,1309,1,0,688
+61,M,solteiro,doutorado,0,55,1,105.5390604,4,0,0,1,0,426.6
+31,F,divorciado,ensino medio,0,23,0,0,3,1,433,1,1,390.4
+51,M,solteiro,graduacao,1,45,1,195.2497957,6,0,0,1,1,616.5
+34,M,casado,graduacao,3,26,1,58.6340088,6,0,0,1,1,376
+58,F,casado,graduacao,2,53,1,20.68605423,3,1,241,1,0,341
+45,M,divorciado,graduacao,3,39,1,96.67112228,4,0,0,1,0,500
+34,M,casado,ensino medio,1,26,1,170.1513097,4,0,0,1,1,414
+48,F,casado,ensino fundam,5,42,1,23.35726325,1,1,475,1,0,488
+56,F,solteiro,mestrado,1,50,0,0,5,0,0,1,0,340.56
+26,M,solteiro,ensino fundam,0,17,1,16.61765031,6,0,0,1,1,299.7
+49,M,solteiro,doutorado,0,43,1,99.34194882,3,0,0,1,0,494.1
+56,F,casado,ensino fundam,0,49,1,25.98131014,4,0,0,1,1,591
+48,M,solteiro,graduacao,0,38,1,98.13773289,6,0,0,1,0,403.2
+48,M,solteiro,ensino fundam,0,42,1,63.63267671,6,0,0,1,0,324.9
+50,M,solteiro,mestrado,0,44,1,102.3563978,5,0,0,1,1,634.5
+65,F,casado,ensino fundam,0,55,1,21.56408976,6,0,0,1,0,431
+27,M,solteiro,doutorado,0,20,1,81.47305941,5,0,0,1,0,264.6
+36,M,divorciado,doutorado,4,30,1,177.73722,4,0,0,1,0,690.9
+52,M,casado,ensino fundam,3,45,1,199.3700386,3,1,401,1,0,577
+48,M,divorciado,ensino medio,3,40,1,66.02983995,2,1,256,1,1,482
+51,M,solteiro,doutorado,1,45,1,201.1863682,2,1,462,2,1,691.74
+37,M,solteiro,ensino fundam,0,31,1,89.47055454,4,0,0,1,0,290.7
+37,M,solteiro,ensino medio,0,31,0,0,4,0,0,1,0,232.56
+50,M,casado,mestrado,3,43,1,98.09599633,2,1,188,1,0,568
+56,F,casado,ensino fundam,2,47,1,20.74741442,4,0,0,1,2,662
+47,F,casado,ensino fundam,5,40,1,22.28065763,1,1,419,1,1,472
+41,F,solteiro,ensino fundam,0,34,1,62.40535158,3,0,0,1,0,330.3
+49,M,casado,mestrado,2,42,1,133.3698042,6,0,0,1,1,574
+44,F,divorciado,doutorado,2,37,1,102.1733113,6,0,0,1,2,635
+54,M,casado,ensino medio,3,48,1,139.8474892,2,1,504,1,1,678
+51,F,solteiro,ensino medio,0,43,1,24.04505727,3,0,0,1,1,576
+41,F,casado,ensino fundam,2,34,1,67.3039414,6,0,0,1,1,521
+44,F,solteiro,ensino medio,0,36,1,19.46081837,6,0,0,1,1,374.4
+41,M,casado,graduacao,4,34,1,89.91431299,4,0,0,1,1,372
+47,F,casado,ensino medio,3,47,1,86.96943245,1,1,1393,1,1,755
+39,F,solteiro,ensino medio,0,33,1,35.77800837,1,1,1367,1,1,660.6
+57,M,casado,ensino fundam,2,49,1,101.1115562,5,0,0,1,1,497
+44,M,divorciado,mestrado,1,37,1,186.5409689,3,1,320,1,1,515
+49,M,solteiro,mestrado,0,43,1,41.35576155,2,1,1586,1,1,732.6
+57,M,solteiro,mestrado,0,49,1,68.95936904,5,0,0,1,1,537.3
+39,M,solteiro,graduacao,0,30,1,89.86545697,3,0,0,1,1,418.5
+51,M,casado,ensino medio,3,45,1,144.0358657,1,1,891,1,1,728
+46,F,solteiro,ensino fundam,0,38,1,22.27633616,2,1,425,1,1,497.7
+62,F,casado,ensino fundam,1,56,1,20.37833389,6,0,0,1,0,319
+45,M,casado,ensino medio,5,40,1,137.6721788,1,1,842,1,1,738
+26,M,solteiro,ensino medio,0,18,1,16.19945234,6,0,0,1,0,247.5
+46,F,casado,ensino fundam,3,40,1,22.84484297,4,0,0,1,0,457
+52,F,casado,ensino medio,1,46,1,24.39594078,3,1,502,1,0,479
+61,M,solteiro,ensino medio,0,53,0,0,5,0,0,1,1,448.56
+57,M,casado,ensino medio,0,48,1,135.7673342,4,0,0,1,2,631
+43,M,na,ensino fundam,3,36,1,121.9642429,6,0,0,1,1,449
+48,M,casado,doutorado,3,40,1,190.2759995,5,0,0,1,1,466.2
+42,F,casado,graduacao,3,34,0,0,3,1,480,1,1,424
+50,M,casado,doutorado,2,44,1,197.5289689,6,0,0,2,1,743.4
+32,M,solteiro,doutorado,0,24,1,85.36780945,5,0,0,1,1,398.7
+52,M,divorciado,mestrado,2,47,1,201.9757225,5,0,0,1,1,706.58
+47,M,casado,ensino medio,3,41,1,131.0793417,6,0,0,1,1,638
+54,F,divorciado,ensino fundam,2,46,1,68.33847741,5,0,0,1,1,475
+42,F,na,ensino medio,5,34,1,21.34430654,2,1,404,1,1,494
+53,M,solteiro,ensino medio,0,47,1,135.275614,3,0,0,1,1,622.8
+54,F,casado,ensino medio,1,46,1,103.4301867,4,0,0,1,0,532
+61,M,casado,ensino fundam,0,53,1,19.34836243,6,0,0,1,0,497
+39,F,casado,ensino medio,2,29,1,21.60020615,4,0,0,1,2,573
+46,F,divorciado,ensino fundam,4,40,1,17.85779937,4,0,0,1,0,342
+48,F,casado,ensino fundam,4,42,1,23.7013104,1,1,507,1,0,419
+50,F,casado,mestrado,2,44,1,22.66291761,4,0,0,1,0,416
+40,F,casado,ensino medio,2,34,1,22.75931385,3,1,524,1,0,459
+60,F,solteiro,ensino medio,0,54,1,24.91823695,4,0,0,1,0,463.5
+36,F,casado,mestrado,4,29,1,65.7213524,5,0,0,1,1,479
+51,F,solteiro,doutorado,0,45,1,72.01853577,4,0,0,1,0,435.6
+43,F,casado,ensino medio,5,43,1,39.40481437,1,1,1506,3,1,781
+63,M,casado,ensino medio,1,55,1,70.15864929,2,1,295,1,0,384
+62,M,solteiro,ensino medio,0,55,1,117.5408675,2,1,773,1,1,712.8
+47,M,solteiro,ensino medio,1,41,1,130.2921188,1,1,468,1,0,467.1
+31,F,casado,ensino medio,0,25,1,16.30746082,4,1,191,1,0,245
+44,F,casado,ensino fundam,4,37,1,17.07447636,4,0,0,1,1,357
+46,M,solteiro,ensino fundam,0,39,1,123.3331057,4,0,0,1,0,388.8
+44,F,solteiro,graduacao,0,36,0,0,4,0,0,1,1,372.96
+40,M,solteiro,graduacao,0,34,1,95.69753256,6,0,0,2,1,609.3
+42,M,solteiro,graduacao,0,34,1,95.77368042,3,0,0,1,1,512.1
+26,M,solteiro,ensino medio,0,18,0,0,4,0,0,1,0,200.7
+38,M,solteiro,mestrado,0,31,1,121.6392084,6,0,0,1,0,554.4
+46,M,solteiro,ensino fundam,1,40,1,96.04911888,3,0,0,1,0,415.8
+49,F,casado,graduacao,3,43,1,70.08229397,5,0,0,1,0,438
+43,F,solteiro,mestrado,0,37,1,22.54400246,6,0,0,1,0,387
+45,F,divorciado,mestrado,2,40,1,76.10179424,5,0,0,2,1,698
+39,F,solteiro,graduacao,0,31,0,0,3,0,0,1,1,263.52
+38,F,solteiro,ensino medio,0,29,1,22.09367962,6,0,0,1,1,463.5
+37,F,casado,ensino medio,2,31,1,21.48257525,6,0,0,1,0,434
+43,F,solteiro,ensino medio,1,37,1,82.15697209,2,1,1334,1,0,559.8
+47,F,casado,graduacao,3,28,0,0,3,1,269,2,1,471.2
+49,M,solteiro,graduacao,0,42,1,193.2784503,6,0,0,1,0,451.8
+52,M,casado,graduacao,2,48,1,153.7157794,1,1,1433,1,0,721
+45,F,casado,ensino medio,3,35,0,0,3,1,253,1,2,435.2
+52,F,solteiro,ensino medio,0,44,1,20.49036433,3,0,0,1,1,447.3
+48,M,na,ensino fundam,2,41,1,68.92225539,5,0,0,1,1,486
+41,M,casado,doutorado,4,40,1,82.35233584,2,1,1397,2,1,822
+48,M,solteiro,mestrado,1,40,1,127.8201418,2,1,163,2,1,580.5
+49,F,solteiro,doutorado,1,41,1,97.93975838,6,0,0,1,1,488.7
+38,F,solteiro,graduacao,0,30,1,18.73707985,3,0,0,1,1,389.7
+35,F,solteiro,ensino fundam,0,27,0,0,3,0,0,1,1,316.8
+48,F,casado,graduacao,3,40,1,20.16032907,3,1,279,1,1,441
+42,M,na,doutorado,3,38,1,127.7772501,1,1,445,1,0,655
+42,M,solteiro,mestrado,0,34,1,125.4849848,3,0,0,1,1,567
+47,F,casado,ensino medio,5,41,1,22.79240433,5,0,0,1,0,433
+43,M,na,graduacao,5,35,1,122.7397314,3,1,253,1,1,400
+36,M,casado,mestrado,3,28,1,117.8948081,3,1,230,1,0,533
+53,F,casado,mestrado,3,47,1,18.02232205,6,0,0,1,0,352
+48,M,solteiro,doutorado,0,42,1,100.0086397,2,1,478,1,0,432
+42,F,casado,ensino fundam,1,34,1,21.45103108,3,1,415,1,1,463
+55,F,divorciado,ensino medio,2,46,1,21.35854958,2,1,272,1,2,621
+51,F,casado,ensino medio,2,44,1,18.07947074,5,0,0,1,1,352
+42,F,casado,ensino medio,3,34,1,67.66110948,4,0,0,1,1,525
+53,M,casado,ensino medio,1,47,1,129.0155102,4,0,0,1,0,362
+54,M,solteiro,ensino fundam,0,47,1,198.4495091,3,0,0,1,0,552.6
+49,M,casado,mestrado,2,43,1,102.3046697,6,0,0,1,0,527
+55,M,casado,ensino fundam,2,48,1,134.3173601,4,0,0,1,0,592
+48,F,solteiro,ensino medio,0,40,0,0,5,0,0,1,1,378
+48,F,casado,ensino medio,2,33,1,71.1578705,4,0,0,1,2,576
+34,F,divorciado,ensino medio,4,21,1,60.40326231,5,0,0,1,2,475
+49,M,casado,mestrado,2,41,1,95.25419583,6,0,0,1,1,381
+33,F,solteiro,graduacao,0,26,1,62.56375748,3,0,0,1,0,383.4
+37,M,solteiro,doutorado,0,31,1,179.1047989,3,0,0,1,1,652.05
+48,F,solteiro,ensino medio,0,41,1,18.86934796,6,0,0,1,0,383.4
+42,F,solteiro,graduacao,0,36,1,40.65686357,1,1,1622,1,1,705.6
+26,F,solteiro,ensino medio,0,14,1,56.69961973,5,0,0,1,1,322.2
+42,M,na,ensino medio,4,33,1,62.67195031,3,1,156,2,2,619
+44,M,solteiro,ensino medio,1,39,1,115.3647423,2,1,1499,1,0,683.1
+47,F,solteiro,ensino medio,0,37,1,98.62814109,1,1,216,1,1,581.4
+35,M,na,graduacao,3,27,1,115.1288744,5,0,0,1,1,413
+51,M,casado,doutorado,4,45,1,193.8092059,6,0,0,3,0,578.55
+64,M,casado,ensino fundam,0,55,1,19.07506199,6,0,0,1,0,320
+52,F,solteiro,mestrado,0,46,0,0,6,0,0,1,0,356.4
+47,F,casado,ensino fundam,2,39,0,0,3,1,423,1,1,421.6
+38,F,divorciado,ensino medio,3,33,0,0,6,0,0,1,1,506.4
+40,M,divorciado,graduacao,2,34,1,64.44834777,3,1,434,1,0,381
+38,F,solteiro,ensino fundam,0,31,1,21.38014602,4,0,0,1,0,412.2
+45,M,na,ensino fundam,4,38,1,184.631911,3,1,191,1,1,445
+39,M,casado,mestrado,3,33,1,61.11189208,5,0,0,1,0,373
+51,F,casado,ensino medio,3,42,1,20.2095002,1,1,247,1,2,519
+51,M,casado,graduacao,2,43,1,98.59529429,5,0,0,1,1,456
+45,F,solteiro,graduacao,0,36,0,0,5,0,0,1,1,403.92
+33,F,casado,ensino fundam,0,26,1,18.22431876,4,0,0,1,0,402
+41,M,casado,graduacao,2,33,1,182.828771,4,0,0,1,1,523
+47,M,divorciado,mestrado,3,40,1,191.9639654,2,1,164,2,2,735.42
+45,M,casado,ensino medio,3,38,1,69.35592518,1,1,506,1,2,616
+48,F,solteiro,mestrado,0,39,1,22.83007441,5,0,0,1,1,531.9
+48,F,casado,ensino medio,4,42,1,65.50023773,3,1,173,2,0,397
+56,M,casado,graduacao,2,47,1,101.8106675,5,0,0,1,2,619
+43,F,casado,graduacao,2,28,1,22.99132535,4,0,0,1,0,357
+51,F,casado,ensino fundam,3,43,1,19.28853585,5,0,0,1,1,496
+54,M,solteiro,ensino medio,0,41,1,133.8322736,3,0,0,1,0,434.7
+33,M,casado,ensino medio,2,26,1,114.8385752,4,0,0,1,1,480
+53,F,casado,ensino fundam,1,46,1,69.21298448,2,1,243,1,1,452
+65,F,solteiro,ensino fundam,0,52,1,21.84670514,3,0,0,2,1,560.7
+51,M,casado,ensino medio,4,43,1,70.50074636,3,1,363,2,2,700
+54,F,casado,ensino medio,3,47,1,19.61976817,5,0,0,1,0,458
+44,F,casado,graduacao,3,39,0,0,3,0,0,1,2,645.6
+26,F,solteiro,ensino fundam,0,11,0,0,4,0,0,1,0,219.6
+47,F,solteiro,ensino fundam,1,33,1,17.17628397,3,0,0,1,1,295.2
+50,F,casado,ensino fundam,4,44,1,23.14973004,4,0,0,1,0,470
+41,M,solteiro,ensino medio,0,35,1,97.17364007,2,1,482,3,1,631.8
+45,M,solteiro,ensino medio,0,36,1,98.04731339,6,0,0,1,1,549
+58,F,casado,graduacao,2,51,1,76.68364582,4,0,0,1,1,598
+62,M,casado,graduacao,1,53,1,71.73693149,5,0,0,1,1,538
+42,F,casado,ensino medio,2,35,1,22.54077464,4,0,0,1,1,439
+46,M,divorciado,ensino medio,4,39,1,99.60597127,4,0,0,1,1,539
+50,F,divorciado,ensino medio,3,51,1,25.03613332,1,1,1507,2,0,857
+43,M,casado,ensino medio,3,40,1,134.4945621,2,1,728,1,2,776
+40,F,divorciado,graduacao,3,34,1,16.63830681,3,1,283,1,0,280
+45,F,solteiro,mestrado,1,38,0,0,1,1,424,1,0,354.24
+52,F,casado,ensino medio,3,45,1,73.52888851,3,1,508,1,1,521
+36,M,casado,mestrado,3,29,1,59.82036187,6,0,0,1,1,342
+55,M,casado,graduacao,2,50,1,206.3251335,3,1,484,1,1,663
+46,F,solteiro,ensino fundam,1,40,1,78.6482774,2,1,941,1,1,689.4
+53,F,solteiro,ensino medio,0,45,1,22.15004174,4,0,0,1,1,520.2
+56,M,solteiro,ensino medio,0,48,1,74.17801629,1,1,511,1,1,540.9
+36,M,casado,ensino medio,0,30,1,86.00057773,5,0,0,1,0,282
+49,M,na,mestrado,4,43,1,101.2978499,6,0,0,2,1,706
+65,M,casado,mestrado,1,53,1,72.44927568,3,1,180,1,1,505
+41,M,solteiro,ensino fundam,2,34,1,124.3775061,1,1,443,1,0,448.2
+46,F,casado,ensino fundam,2,33,1,20.03723119,2,1,290,1,1,431
+54,F,solteiro,mestrado,0,47,0,0,6,0,0,1,1,499.68
+56,M,solteiro,ensino medio,0,50,1,211.0991642,1,1,804,1,0,568.8
+47,M,casado,ensino medio,2,41,1,76.07787229,2,1,844,1,1,683
+44,F,na,ensino medio,2,36,1,22.07878815,2,1,430,1,1,511
+51,F,casado,mestrado,3,41,1,21.60323672,5,0,0,1,2,561
+45,F,solteiro,ensino fundam,1,36,1,18.81547246,5,0,0,1,1,421.2
+39,M,na,doutorado,2,39,1,191.6624548,1,1,785,1,1,785.4
+49,F,solteiro,mestrado,0,41,1,20.06543354,3,0,0,1,1,403.2
+61,F,casado,ensino medio,0,53,1,18.77210184,3,1,245,1,1,440
+26,M,divorciado,ensino fundam,1,18,1,55.94583243,3,1,266,1,1,408
+57,M,solteiro,ensino medio,1,51,1,215.3179168,2,1,779,1,1,731.7
+54,F,solteiro,mestrado,0,47,1,24.43154456,2,1,487,1,0,459.9
+43,M,solteiro,graduacao,0,35,1,92.56278985,2,1,213,1,1,418.5
+42,M,casado,ensino medio,3,37,1,81.85536365,2,1,1369,1,1,736
+53,F,divorciado,doutorado,3,48,1,107.6735863,5,0,0,1,1,621
+44,F,na,ensino fundam,3,38,1,22.9201307,6,0,0,1,0,467
+44,F,solteiro,graduacao,0,36,1,68.54187345,4,0,0,1,0,346.5
+46,F,divorciado,ensino fundam,4,40,1,23.07059441,4,0,0,1,0,422
+40,F,casado,graduacao,3,34,1,73.86048521,2,1,844,2,1,677
+39,F,casado,graduacao,1,29,1,62.99927862,6,0,0,1,2,541
+47,M,divorciado,graduacao,2,47,0,0,1,1,777,2,1,628
+60,F,solteiro,ensino fundam,0,54,1,18.9431834,5,0,0,1,0,339.3
+55,F,solteiro,ensino fundam,0,47,1,74.80991919,3,0,0,1,1,578.7
+47,F,casado,doutorado,5,37,1,98.89408862,3,1,246,1,2,560
+42,M,casado,mestrado,4,34,1,21.32509844,4,0,0,1,1,479
+31,F,casado,ensino medio,0,20,1,16.77430377,4,0,0,1,0,285
+41,F,casado,ensino fundam,3,29,1,27.15687395,2,1,793,1,1,530
+55,F,casado,ensino medio,1,47,1,70.75087685,5,0,0,1,0,548
+37,F,solteiro,mestrado,0,28,1,121.7965458,3,0,0,1,1,552.6
+51,M,casado,ensino medio,3,43,1,132.6614713,6,0,0,1,1,533
+42,M,na,graduacao,3,35,1,64.2849856,6,0,0,1,0,468
+39,F,casado,ensino fundam,0,34,1,62.27467129,3,1,246,2,0,345
+53,M,solteiro,doutorado,1,47,1,201.2920159,3,0,0,1,1,693.63
+49,M,casado,ensino fundam,4,48,1,153.5139292,1,1,1457,1,1,895
+49,F,casado,graduacao,4,42,1,23.04792525,4,0,0,1,1,525
+63,M,casado,ensino medio,0,54,1,70.99545295,4,0,0,1,0,496
+53,F,solteiro,ensino fundam,0,45,1,22.46170437,4,0,0,1,1,498.6
+45,M,solteiro,ensino fundam,1,37,1,189.4037484,3,0,0,1,1,476.1
+45,F,casado,mestrado,3,39,1,21.43993035,4,0,0,1,0,432
+45,F,casado,graduacao,4,36,0,0,4,0,0,1,1,402.4
+38,M,casado,ensino medio,2,30,1,116.8874686,4,0,0,1,1,411
+52,F,casado,mestrado,1,44,1,70.9158532,6,0,0,1,1,528
+47,F,solteiro,ensino fundam,0,40,0,0,3,0,0,1,0,382.32
+64,F,solteiro,ensino medio,0,54,0,0,3,0,0,1,0,398.16
+45,F,solteiro,ensino medio,1,38,1,22.82783573,3,0,0,1,0,420.3
+49,F,solteiro,ensino medio,0,42,1,23.39257106,5,0,0,1,0,451.8
+61,M,casado,ensino medio,0,54,1,105.9130325,6,0,0,1,1,528
+40,F,casado,ensino fundam,5,34,1,16.53536992,3,1,277,1,0,275
+26,F,solteiro,ensino medio,0,17,1,55.77931208,6,0,0,1,1,292.5
+45,M,na,graduacao,5,37,1,93.31719779,3,1,213,1,1,358
+60,M,casado,graduacao,1,54,1,18.87438613,5,0,0,1,0,389
+43,F,solteiro,ensino medio,0,36,1,18.76832745,5,0,0,1,0,335.7
+60,M,solteiro,ensino medio,0,53,1,140.8240814,6,0,0,1,0,528.3
+39,M,casado,graduacao,3,40,1,143.2151741,1,1,1566,1,0,771
+41,F,solteiro,graduacao,0,33,1,66.59087957,4,0,0,1,1,428.4
+50,F,casado,graduacao,2,42,1,72.37151745,6,0,0,1,1,589
+50,M,casado,doutorado,3,41,1,99.14395526,6,0,0,1,2,541
+53,F,casado,graduacao,1,45,1,18.3437846,6,0,0,1,1,427
+44,F,na,mestrado,1,37,1,21.12261743,4,0,0,1,1,412
+49,F,solteiro,mestrado,0,40,1,135.5697639,6,0,0,1,1,541.8
+60,M,solteiro,graduacao,0,56,1,130.0946801,4,0,0,2,1,847.8
+57,F,solteiro,mestrado,0,49,1,23.17599797,4,0,0,1,1,536.4
+45,M,divorciado,ensino medio,2,37,1,62.28990951,3,1,289,1,1,378
+44,M,na,ensino medio,3,37,1,17.08456504,5,0,0,1,0,395
+30,M,solteiro,ensino fundam,0,23,1,111.0353476,5,0,0,1,0,357.3
+35,M,solteiro,ensino medio,0,29,1,59.37111856,3,0,0,1,0,331.2
+44,F,casado,ensino fundam,2,38,1,68.00410523,4,0,0,1,0,411
+43,M,casado,ensino fundam,4,37,1,124.1011218,5,0,0,1,0,378
+27,F,casado,graduacao,0,21,1,15.42312657,4,0,0,1,0,209
+36,M,casado,ensino fundam,3,29,1,58.65353741,6,0,0,1,0,346
+38,F,solteiro,ensino fundam,0,31,1,18.17094753,6,0,0,1,0,333.9
+49,F,na,ensino medio,3,42,0,0,5,0,0,1,1,364.8
+46,M,casado,ensino fundam,5,38,1,67.91390786,1,1,424,1,1,514
+55,M,divorciado,doutorado,2,48,1,202.8162277,5,0,0,1,2,711.9
+42,M,solteiro,ensino medio,0,36,1,95.13776906,4,0,0,1,0,364.5
+65,M,solteiro,doutorado,0,54,1,76.06807587,5,0,0,1,0,488.7
+54,F,casado,mestrado,3,46,1,67.93703305,5,0,0,1,1,438
+36,F,casado,mestrado,2,28,0,0,5,0,0,1,1,288
+42,F,solteiro,ensino medio,0,34,1,19.76795282,5,0,0,1,1,464.4
+42,M,divorciado,graduacao,3,34,1,122.3942484,6,0,0,1,1,571
+47,F,divorciado,ensino medio,4,39,1,18.60177495,1,1,186,1,1,460
+34,F,solteiro,ensino fundam,0,28,1,17.66336848,3,0,0,1,0,259.2
+60,M,casado,mestrado,0,54,1,102.8287359,6,0,0,1,0,430
+38,M,casado,ensino medio,2,30,1,117.6678055,5,0,0,1,1,432
+39,F,na,graduacao,3,31,0,0,4,0,0,1,1,453.6
+30,F,solteiro,ensino fundam,0,21,1,17.15002115,4,0,0,1,1,309.6
+43,F,divorciado,ensino fundam,2,35,0,0,4,0,0,1,1,419.2
+45,F,casado,ensino medio,2,39,1,83.80323965,1,1,1278,1,1,736
+58,M,solteiro,graduacao,0,52,1,198.5535489,4,0,0,1,0,345.6
+47,F,solteiro,mestrado,0,41,1,22.02360482,3,0,0,1,0,379.8
+50,M,casado,mestrado,1,42,1,67.01012546,5,0,0,1,1,508
+53,M,na,ensino medio,3,48,1,78.06021922,2,1,777,1,1,681
+44,F,solteiro,graduacao,1,36,1,66.08238471,4,0,0,1,1,469.8
+34,M,solteiro,ensino medio,0,28,1,114.8983237,3,0,0,1,0,374.4
+45,F,casado,ensino medio,1,37,1,22.54157272,5,0,0,1,1,530
+42,F,solteiro,ensino fundam,0,36,1,22.36880193,6,0,0,1,0,419.4
+56,M,casado,doutorado,2,48,1,101.488538,3,1,174,1,0,537
+44,M,casado,doutorado,4,36,1,184.2780789,4,0,0,1,1,455.7
+62,M,solteiro,ensino medio,0,53,1,142.9771432,4,0,0,1,1,553.5
+50,M,casado,ensino medio,1,43,1,128.1756691,3,1,298,1,1,487
+37,F,solteiro,ensino fundam,0,31,1,65.04465289,2,1,484,1,0,381.6
+45,F,na,ensino fundam,4,38,1,24.11895714,1,1,558,1,1,470
+58,F,casado,ensino medio,3,50,1,19.85258146,5,0,0,1,1,507
+48,M,solteiro,ensino fundam,0,40,1,21.09469669,3,0,0,1,1,481.5
+43,F,casado,ensino medio,4,36,1,21.33916447,4,0,0,1,1,431
+35,F,casado,graduacao,2,27,1,16.94155157,3,1,191,1,1,326
+50,F,casado,ensino medio,3,42,1,24.37638722,1,1,511,1,1,544
+42,F,casado,ensino medio,4,38,1,82.50835701,2,1,1336,1,0,675
+60,F,solteiro,graduacao,0,52,1,72.64583087,1,1,186,1,1,633.6
+28,F,divorciado,ensino medio,1,22,1,18.68400883,4,0,0,1,0,322
+48,F,casado,ensino fundam,3,42,1,23.2256047,3,1,471,1,0,462
+28,F,divorciado,ensino medio,0,22,1,17.51827286,5,0,0,1,0,363
+31,M,divorciado,graduacao,1,27,1,76.21628979,1,1,1418,2,0,738
+47,F,casado,mestrado,3,41,0,0,4,0,0,1,0,472
+46,F,divorciado,graduacao,2,39,1,22.0687885,1,1,414,1,1,477
+32,M,casado,ensino medio,0,24,1,58.04338164,3,1,250,1,1,346
+38,F,casado,ensino medio,2,31,1,18.03275794,5,0,0,1,1,386
+46,M,casado,ensino fundam,3,38,1,128.0615655,4,0,0,1,1,555
+48,F,casado,graduacao,4,41,1,66.66599732,4,0,0,1,1,386
+46,F,na,ensino fundam,3,38,1,19.73462127,5,0,0,1,1,442
+46,F,casado,graduacao,4,38,1,22.26019161,6,0,0,1,1,526
+44,M,divorciado,ensino fundam,1,38,1,125.0124842,2,1,185,2,1,606
+42,M,solteiro,graduacao,0,34,1,60.59932264,3,0,0,1,1,333
+57,M,solteiro,mestrado,0,38,1,101.6323667,6,0,0,1,1,475.2
+51,F,solteiro,ensino medio,0,44,1,77.3958357,3,0,0,1,0,547.2
+59,F,casado,mestrado,1,51,1,20.06959813,5,0,0,1,1,434
+48,F,solteiro,ensino medio,1,41,1,66.20913948,3,0,0,1,0,374.4
+36,M,solteiro,doutorado,0,29,1,60.58776418,3,0,0,1,0,463.5
+49,F,solteiro,ensino fundam,0,43,1,69.98368757,6,0,0,1,0,408.6
+55,M,casado,graduacao,3,51,1,122.4581354,2,1,1351,1,0,747
+46,F,na,graduacao,3,40,1,21.5717072,2,1,389,1,0,425
+54,M,solteiro,graduacao,1,46,1,132.4442902,1,1,270,2,1,591.3
+47,F,na,ensino medio,5,41,1,77.42416519,2,1,885,1,0,570
+50,M,casado,doutorado,2,42,1,132.8823175,6,0,0,1,1,534
+48,F,casado,mestrado,5,42,1,70.49637096,4,0,0,1,0,467
+48,M,casado,ensino medio,3,42,1,67.8971068,5,0,0,1,0,418
+49,M,casado,ensino medio,2,49,1,87.22823374,1,1,1428,2,1,786
+36,M,solteiro,graduacao,0,30,1,115.6975841,6,0,0,1,0,288.9
+54,F,solteiro,ensino medio,0,47,1,24.28681705,3,0,0,1,0,480.6
+46,F,casado,mestrado,3,40,1,133.6690062,6,0,0,2,1,721
+45,M,casado,ensino medio,0,37,1,99.01849526,4,0,0,1,1,527
+48,F,solteiro,ensino medio,0,40,1,69.99554354,6,0,0,1,1,523.8
+46,F,solteiro,ensino fundam,0,38,1,23.02408223,1,1,473,1,1,496.8
+47,M,solteiro,doutorado,0,39,1,194.2641945,5,0,0,1,1,566.055
+53,F,casado,ensino medio,2,52,1,125.6469769,1,1,1444,1,1,816
+53,F,solteiro,mestrado,0,46,1,23.22759423,6,0,0,1,0,441.9
+34,M,casado,ensino fundam,1,27,1,85.80125001,3,1,189,1,1,346
+51,F,casado,ensino medio,2,47,1,94.24282527,1,1,1606,1,2,915
+56,F,casado,graduacao,4,49,1,18.75864595,4,0,0,1,1,383
+52,M,solteiro,graduacao,0,46,1,193.0333785,6,0,0,1,0,432.9
+40,F,casado,mestrado,3,33,1,22.68489575,5,0,0,1,0,514
+47,F,solteiro,mestrado,1,38,0,0,3,0,0,1,1,390.24
+65,F,divorciado,ensino medio,0,52,1,20.98769199,3,1,171,1,2,647
+26,M,solteiro,graduacao,0,19,1,80.09756689,6,0,0,1,0,236.7
+53,F,solteiro,ensino fundam,0,46,1,29.68227241,2,1,796,1,0,591.3
+45,M,solteiro,ensino medio,0,36,1,97.64155639,3,0,0,1,1,519.3
+35,M,na,ensino medio,3,29,1,85.18739654,5,0,0,1,0,292
+42,M,solteiro,doutorado,0,35,1,185.4997109,5,0,0,3,0,598.185
+47,F,casado,ensino medio,2,39,1,70.59051432,1,1,462,1,1,550
+49,M,casado,doutorado,4,43,1,94.41755058,3,1,155,1,0,296
+37,F,solteiro,ensino fundam,0,30,1,64.55425572,4,0,0,1,0,398.7
+37,M,casado,graduacao,1,30,1,173.4046588,6,0,0,1,1,401
+34,F,solteiro,ensino fundam,0,26,1,21.17077348,2,1,484,1,1,439.2
+61,M,solteiro,ensino medio,0,51,1,71.17415451,2,1,182,1,1,570.6
+47,M,solteiro,ensino medio,0,30,1,126.1690417,4,0,0,1,0,370.8
+49,M,na,mestrado,4,48,1,120.1078614,1,1,1450,1,1,820
+52,F,casado,ensino fundam,3,44,1,69.23111737,6,0,0,1,1,544
+38,M,solteiro,graduacao,0,29,1,93.02425802,5,0,0,1,1,460.8
+52,F,solteiro,ensino medio,0,44,0,0,6,0,0,1,1,374.4
+39,F,casado,ensino medio,1,31,1,18.30138035,6,0,0,1,0,481
+60,F,casado,ensino medio,0,57,1,42.72428878,1,1,1426,1,0,789
+46,M,solteiro,mestrado,1,38,1,126.643247,6,0,0,3,1,579.6
+54,F,casado,mestrado,2,45,1,137.3389598,2,1,292,1,2,544
+54,M,casado,ensino medio,4,48,1,99.9382416,3,1,220,1,0,434
+38,F,casado,ensino fundam,2,37,1,37.52985587,3,0,0,1,1,786
+64,F,solteiro,graduacao,0,52,1,25.86649516,6,0,0,1,1,630
+50,M,casado,mestrado,1,45,1,129.7283624,5,0,0,1,1,603
+50,M,divorciado,graduacao,4,43,1,133.0552365,4,0,0,1,1,517
+58,F,casado,mestrado,2,51,1,71.06099801,6,0,0,1,1,497
+45,M,casado,doutorado,2,37,1,124.0370786,6,0,0,1,1,464
+56,M,casado,ensino fundam,0,49,1,132.337696,3,1,253,1,1,469
+57,M,solteiro,graduacao,0,51,1,141.5647208,6,0,0,1,1,706.5
+46,M,solteiro,ensino medio,0,39,1,126.1672632,4,0,0,1,0,440.1
+48,F,casado,ensino fundam,1,40,1,22.38786421,2,1,412,1,1,505
+47,F,casado,doutorado,2,41,1,74.84822769,2,1,708,1,1,604
+42,M,na,graduacao,2,35,1,65.71848774,6,0,0,1,1,493
+36,M,solteiro,ensino fundam,0,29,1,121.5710721,5,0,0,1,0,480.6
+38,M,solteiro,graduacao,0,32,1,94.03369926,6,0,0,2,0,558.9
+42,M,na,graduacao,4,36,1,121.3253691,5,0,0,3,0,479
+41,M,casado,ensino fundam,4,35,1,21.51199993,1,1,463,1,0,428
+44,M,casado,ensino fundam,2,37,1,121.2737674,6,0,0,1,1,334
+61,F,solteiro,graduacao,0,54,1,29.3649191,3,0,0,1,0,560.7
+34,F,solteiro,ensino medio,1,27,0,0,6,0,0,2,0,398.16
+58,F,casado,ensino fundam,3,52,1,25.45581847,4,0,0,1,1,624
+39,M,casado,graduacao,2,31,1,118.6199812,6,0,0,1,1,412
+33,M,casado,ensino fundam,2,26,1,85.80612874,6,0,0,1,0,331
+39,F,solteiro,mestrado,1,32,1,65.12873881,4,0,0,1,0,439.2
+35,M,solteiro,mestrado,0,27,1,88.44765264,6,0,0,1,1,522
+47,F,solteiro,doutorado,1,21,1,69.31512162,4,0,0,1,1,553.5
+31,M,solteiro,ensino medio,0,13,1,35.66416134,4,0,0,1,1,640.8
+55,F,casado,ensino medio,0,37,1,23.41357769,4,0,0,1,0,546
+56,F,casado,graduacao,3,39,0,0,3,1,452,1,1,427.2
+45,F,casado,graduacao,3,24,1,18.31871405,4,0,0,1,1,317
+44,M,casado,ensino fundam,2,26,1,96.98475682,3,1,441,1,0,456
+43,F,casado,ensino medio,5,20,1,23.26273976,5,0,0,1,1,511
+55,M,solteiro,ensino fundam,0,32,1,99.41351726,3,0,0,1,1,407.7
+35,M,casado,ensino medio,3,17,1,114.0583502,5,0,0,1,0,338
+32,F,solteiro,ensino medio,0,16,1,17.33047311,5,0,0,1,0,231.3
+57,M,divorciado,mestrado,0,35,1,140.6174809,4,0,0,1,2,577
+26,F,solteiro,mestrado,0,11,0,0,6,0,0,1,0,233.28
+42,M,casado,mestrado,3,23,1,95.10315854,6,0,0,1,1,474
+51,F,solteiro,ensino medio,0,33,1,24.21946223,4,0,0,1,1,467.1
+51,M,na,doutorado,2,31,1,192.5431655,6,0,0,1,1,453.6
+45,M,na,graduacao,3,25,1,97.38930061,6,0,0,1,1,525
+49,M,solteiro,ensino medio,1,28,1,128.3958325,5,0,0,1,1,544.5
+33,F,solteiro,ensino medio,0,17,1,22.36068908,3,0,0,1,0,393.3
+44,F,casado,ensino fundam,4,26,1,66.78578223,1,1,402,1,0,330
+63,M,solteiro,doutorado,0,43,1,106.9076262,6,0,0,1,1,503.1
+48,F,casado,ensino fundam,5,32,1,21.6992897,2,1,380,1,0,419
+47,F,solteiro,graduacao,0,30,1,23.21066417,5,0,0,1,0,393.3
+45,F,solteiro,mestrado,0,28,1,21.66189692,3,0,0,1,0,379.8
+44,F,na,graduacao,2,34,0,0,3,1,223,3,1,501.6
+55,F,na,ensino fundam,2,39,0,0,6,0,0,1,1,403.2
+60,F,casado,ensino medio,1,39,1,69.89500942,5,0,0,1,1,411
+26,F,solteiro,ensino fundam,0,13,1,16.92533197,5,0,0,1,0,243
+39,F,solteiro,mestrado,0,33,1,19.92883209,3,0,0,1,0,423
+61,F,solteiro,ensino medio,0,53,1,73.1657798,3,0,0,1,1,542.7
+35,F,solteiro,ensino fundam,0,29,1,19.86899109,5,0,0,1,0,301.5
+44,M,solteiro,doutorado,0,43,1,209.2576517,1,1,1424,2,1,824.985
+50,F,casado,mestrado,2,44,0,0,6,0,0,1,0,308
+58,F,casado,ensino medio,1,56,1,131.0744324,1,1,1468,2,1,891
+42,F,casado,mestrado,2,36,0,0,6,0,0,1,0,320
+41,M,casado,graduacao,4,33,1,96.07831618,5,0,0,1,1,525
+42,F,casado,ensino fundam,4,36,1,20.75437725,3,1,377,1,0,409
+51,F,solteiro,ensino medio,0,43,1,23.68904553,6,0,0,1,1,484.2
+45,M,divorciado,mestrado,1,37,1,22.10149599,4,0,0,1,1,511
+63,F,solteiro,ensino medio,0,52,1,21.66922132,5,0,0,1,1,605.7
+56,M,solteiro,graduacao,0,49,1,105.1668717,2,1,410,1,0,517.5
+49,F,casado,ensino fundam,3,42,1,71.71352013,6,0,0,1,1,560
+44,M,na,graduacao,2,36,1,94.7836153,5,0,0,1,1,559
+46,M,solteiro,ensino medio,1,38,1,63.29364453,5,0,0,1,1,400.5
+30,M,casado,ensino fundam,0,29,1,106.1910065,1,1,1563,1,1,800
+53,M,divorciado,mestrado,2,54,1,153.5292407,1,1,1302,1,0,788
+33,M,casado,doutorado,2,25,1,84.98328898,3,1,174,1,1,349
+64,F,solteiro,ensino medio,0,54,1,24.57899827,4,0,0,1,0,531.9
+43,F,solteiro,graduacao,1,37,1,26.98288874,1,1,771,1,0,442.8
+52,M,casado,ensino fundam,2,46,1,202.1735386,3,1,404,1,1,723
+41,F,casado,ensino medio,2,35,1,66.48812131,6,0,0,1,0,512
+47,M,casado,ensino fundam,5,39,1,20.13238207,4,0,0,1,1,405
+53,F,solteiro,mestrado,0,45,1,22.13302613,5,0,0,1,1,477.9
+43,F,casado,ensino medio,1,36,1,27.68530299,2,1,806,1,1,508
+41,F,casado,ensino medio,3,32,1,21.42763959,6,0,0,1,2,685
+54,F,casado,graduacao,3,48,1,73.2906271,5,0,0,1,0,512
+50,M,solteiro,doutorado,0,45,1,198.4697488,6,0,0,1,0,667.17
+51,F,casado,ensino fundam,2,45,1,66.41200404,3,1,154,1,0,379
+41,M,solteiro,doutorado,0,24,1,177.5089966,3,0,0,1,0,295.785
+50,M,na,doutorado,1,50,1,205.4997112,1,1,733,2,1,759.15
+54,F,casado,ensino medio,3,48,1,18.45616982,4,0,0,1,0,358
+51,F,solteiro,mestrado,0,43,1,72.82865689,5,0,0,1,1,534.6
+48,M,divorciado,ensino medio,2,42,1,132.5171606,5,0,0,1,1,601
+47,F,casado,doutorado,4,38,1,98.64424005,4,0,0,1,2,543
+37,M,casado,graduacao,3,30,1,87.12630773,6,0,0,1,1,317
+41,F,casado,ensino medio,2,34,1,66.77916234,6,0,0,1,1,462
+41,F,solteiro,ensino medio,0,37,1,40.48407312,3,0,0,1,1,784.8
+52,M,casado,ensino medio,3,46,1,104.2778386,3,1,453,1,1,632
+34,F,casado,ensino medio,3,28,1,63.49619192,6,0,0,1,0,371
+41,M,casado,ensino medio,3,35,1,191.6421948,2,1,773,1,1,641
+49,F,solteiro,ensino medio,2,43,1,17.6920424,6,0,0,1,0,309.6
+42,F,casado,ensino medio,3,35,1,22.3274573,4,0,0,1,1,451
+58,F,solteiro,ensino medio,0,50,1,107.1855032,3,0,0,1,1,538.2
+55,M,casado,ensino medio,2,48,1,196.1761346,3,1,159,1,1,409
+41,F,divorciado,ensino fundam,4,35,0,0,3,1,454,1,0,332.8
+44,M,divorciado,mestrado,5,37,1,95.97670146,5,0,0,1,1,475
+32,M,na,graduacao,0,25,1,84.84534332,2,1,154,2,1,445
+46,M,casado,ensino medio,3,39,1,63.6713319,5,0,0,1,1,374
+55,M,casado,ensino medio,2,48,1,98.91821639,5,0,0,1,0,415
+34,F,casado,ensino fundam,3,28,1,58.8205543,4,0,0,1,0,260
+36,M,solteiro,doutorado,0,28,1,59.72530811,3,0,0,1,1,401.4
+36,F,casado,mestrado,2,29,1,20.08355698,3,1,394,1,1,388
+54,F,divorciado,ensino fundam,4,48,1,18.82399012,6,0,0,1,0,364
+58,M,casado,graduacao,4,56,1,124.7384691,1,1,1312,1,1,797
+43,M,na,ensino medio,4,39,1,83.90507522,5,0,0,1,0,734
+52,F,casado,ensino medio,3,45,1,24.74708114,4,0,0,1,2,626
+31,M,solteiro,ensino fundam,0,25,1,57.24340821,4,0,0,1,0,266.4
+47,F,casado,ensino medio,4,48,1,26.27905352,3,0,0,1,0,814
+62,M,divorciado,ensino medio,0,55,1,118.5627829,1,1,808,1,1,750
+34,F,casado,ensino fundam,3,27,1,59.64263952,3,1,217,1,0,348
+46,F,solteiro,ensino medio,0,38,1,17.70401938,5,0,0,1,1,320.4
+46,M,solteiro,graduacao,2,38,1,98.62626595,3,0,0,1,1,548.1
+42,M,casado,mestrado,3,36,1,72.87262121,2,1,822,1,1,643
+34,M,casado,ensino fundam,2,27,1,57.91983064,3,1,197,1,1,298
+63,M,solteiro,ensino fundam,0,54,1,145.5816225,6,0,0,1,0,575.1
+49,F,solteiro,ensino medio,0,44,1,89.72007592,5,0,0,1,0,730.8
+44,M,na,ensino medio,3,35,1,98.36967393,5,0,0,1,2,567
+57,M,casado,doutorado,1,50,1,133.613075,3,1,281,1,1,467
+43,F,casado,ensino medio,3,36,1,23.17204789,2,1,514,1,1,494
+47,F,solteiro,ensino medio,2,40,1,18.17229042,4,0,0,1,0,360
+42,F,casado,ensino fundam,3,33,1,23.54445271,5,0,0,1,2,597
+49,M,na,doutorado,3,42,1,189.8657326,5,0,0,1,1,505.05
+43,M,solteiro,doutorado,0,36,1,95.15806226,4,0,0,1,0,412.2
+54,M,solteiro,mestrado,0,53,1,158.3404127,1,1,1513,1,1,808.2
+39,F,casado,ensino medio,2,31,1,16.90144181,4,0,0,1,0,404
+48,M,casado,graduacao,4,40,1,99.75490931,5,0,0,1,1,552
+38,M,solteiro,mestrado,0,29,1,118.1363158,1,1,264,1,1,550.8
+52,M,solteiro,ensino medio,0,46,1,138.5360146,1,1,547,1,1,663.3
+40,F,divorciado,mestrado,3,39,1,38.11908071,1,1,1475,1,1,786
+42,M,solteiro,ensino medio,0,36,1,113.6754294,2,1,1454,1,1,738.9
+54,F,casado,ensino fundam,4,48,1,26.60836132,3,1,592,1,1,637
+46,F,na,ensino medio,2,38,1,17.75201649,5,0,0,1,1,359
+38,M,solteiro,ensino fundam,0,30,1,89.77467484,2,1,241,1,1,423
+46,F,solteiro,ensino medio,0,36,1,67.44584028,4,0,0,1,1,522
+44,F,na,ensino medio,5,36,1,19.31605392,6,0,0,1,1,399
+56,M,solteiro,ensino medio,0,50,1,139.0406253,2,1,406,1,1,603
+50,M,solteiro,graduacao,0,43,1,188.6089622,5,0,0,2,0,396
+44,F,casado,ensino medio,2,36,0,0,6,0,0,1,1,353.6
+41,M,divorciado,graduacao,2,34,1,124.7822446,6,0,0,1,1,449
+57,M,solteiro,ensino medio,0,50,1,203.8204297,6,0,0,1,1,660.6
+32,M,solteiro,ensino medio,0,24,0,0,6,0,0,1,1,335.52
+43,F,solteiro,graduacao,0,36,1,67.14152017,4,0,0,1,0,415.8
+44,F,solteiro,ensino fundam,1,38,1,73.37385917,2,1,739,2,0,540.9
+46,M,solteiro,graduacao,0,38,1,66.32224934,3,0,0,1,1,459
+35,F,casado,ensino fundam,3,28,1,20.70878386,5,0,0,1,1,430
+53,M,casado,ensino fundam,5,47,1,128.6744936,6,0,0,1,0,325
+55,F,solteiro,graduacao,0,43,1,68.98206492,5,0,0,1,1,443.7
+50,M,casado,mestrado,4,51,1,140.7390266,1,1,722,1,0,757
+39,M,divorciado,ensino fundam,3,31,1,64.12241773,3,1,416,1,1,447
+44,F,na,ensino medio,4,35,1,18.60554232,1,1,210,1,2,472
+50,F,solteiro,ensino fundam,0,43,1,21.85187462,4,0,0,1,0,461.7
+26,M,solteiro,ensino medio,0,18,1,15.9391471,4,0,0,1,1,285.3
+54,F,casado,ensino medio,3,48,1,24.26456139,1,1,469,1,0,514
+49,M,casado,mestrado,4,48,1,153.1950703,1,1,1474,1,1,852
+48,F,na,ensino fundam,4,42,1,22.97080141,4,0,0,1,0,469
+46,M,divorciado,ensino medio,2,46,1,115.8262503,1,1,1379,1,1,751
+42,F,casado,ensino fundam,4,34,1,63.51272285,3,1,223,1,1,383
+45,F,casado,ensino medio,2,37,1,18.50415732,6,0,0,1,1,426
+26,F,solteiro,mestrado,0,17,1,16.85378554,4,0,0,1,1,300.6
+46,M,casado,graduacao,5,48,1,201.6146918,1,1,823,1,0,769
+59,F,solteiro,mestrado,0,53,1,24.03172263,5,0,0,1,0,468.9
+41,F,casado,graduacao,3,35,1,61.58201279,4,0,0,1,0,317
+43,M,solteiro,ensino fundam,0,37,1,60.61835659,6,0,0,1,0,240.3
+45,M,casado,graduacao,4,38,1,126.3380893,6,0,0,1,1,465
+52,M,casado,ensino fundam,0,48,1,208.5099081,2,1,769,3,0,743
+42,M,casado,mestrado,5,35,1,120.8394598,6,0,0,1,1,455
+49,F,solteiro,ensino medio,0,41,1,17.97239269,3,0,0,1,1,379.8
+45,F,casado,ensino medio,4,42,1,29.68984258,1,1,864,2,2,771
+43,F,solteiro,ensino medio,0,38,1,67.89916297,3,0,0,2,0,461.7
+58,M,casado,ensino fundam,2,52,1,205.0988299,2,1,231,1,1,613
+43,F,solteiro,ensino medio,2,36,1,22.02340208,6,0,0,1,0,434.7
+39,M,casado,graduacao,1,32,1,175.8127941,4,0,0,1,1,367
+64,F,solteiro,ensino medio,0,54,1,77.81545304,5,0,0,1,0,554.4
+45,F,casado,graduacao,3,38,1,21.73087653,5,0,0,1,1,464
+48,F,casado,graduacao,4,42,0,0,1,1,438,1,1,396.8
+46,F,casado,ensino fundam,2,40,1,22.04842126,3,1,415,1,0,461
+46,F,solteiro,ensino medio,0,39,1,67.2331764,5,0,0,1,0,459.9
+53,M,solteiro,ensino fundam,1,49,1,136.0467742,5,0,0,2,0,608.4
+41,M,solteiro,ensino medio,0,36,1,194.2556585,5,0,0,1,1,709.2
+60,F,casado,graduacao,0,54,0,0,4,0,0,1,0,349.6
+52,F,divorciado,mestrado,4,45,0,0,5,0,0,1,2,532.8
+47,M,casado,ensino fundam,2,41,1,70.53187395,3,1,519,1,2,617
+45,M,casado,ensino medio,2,39,1,65.69237098,5,0,0,1,1,477
+53,F,solteiro,ensino medio,0,46,1,22.83107987,3,0,0,1,0,440.1
+43,M,casado,ensino medio,2,44,1,146.1214364,1,1,1416,1,0,852
+50,F,solteiro,ensino fundam,0,42,1,23.72503128,2,1,475,1,1,512.1
+47,M,na,ensino medio,3,42,1,30.37874333,1,1,933,1,1,690
+44,F,divorciado,graduacao,4,38,1,17.90954852,5,0,0,1,0,387
+52,M,solteiro,ensino medio,0,46,1,131.4201252,6,0,0,1,0,587.7
+52,M,solteiro,ensino medio,2,46,1,131.5280425,3,0,0,1,0,369
+42,F,casado,ensino medio,5,35,1,68.089088,5,0,0,1,1,517
+41,M,casado,mestrado,3,34,1,124.3961305,5,0,0,1,1,577
+38,M,casado,ensino medio,3,31,1,88.56078226,6,0,0,1,1,387
+50,F,solteiro,doutorado,0,43,1,66.14165856,1,1,155,1,1,403.2
+47,M,na,mestrado,4,40,1,139.1308367,1,1,867,1,2,674
+34,F,casado,ensino fundam,1,27,1,17.03193525,3,1,200,1,1,381
+50,F,solteiro,graduacao,0,43,1,22.38764349,5,0,0,1,1,505.8
+45,F,casado,ensino medio,3,37,0,0,5,0,0,1,2,446.4
+40,F,casado,ensino fundam,4,35,1,19.64369563,6,0,0,1,0,336
+54,F,casado,mestrado,3,48,1,74.17333713,3,1,483,1,0,533
+39,M,casado,ensino medio,1,32,1,60.52925409,5,0,0,1,0,434
+51,F,solteiro,graduacao,0,44,1,22.9740531,4,0,0,1,1,473.4
+51,F,solteiro,graduacao,0,45,0,0,4,0,0,1,0,385.2
+38,F,solteiro,mestrado,0,30,1,17.03912279,5,0,0,1,1,311.4
+48,M,solteiro,ensino fundam,1,40,1,63.87169791,2,1,296,1,1,410.4
+41,M,solteiro,ensino medio,0,34,1,121.208919,3,0,0,1,1,491.4
+53,M,solteiro,graduacao,0,48,1,123.3991774,2,1,1508,1,1,742.5
+40,F,casado,mestrado,2,25,1,126.387562,5,0,0,1,2,607
+41,F,divorciado,graduacao,4,35,1,62.8659703,3,1,201,1,1,404
+52,M,solteiro,doutorado,0,45,1,198.5104232,4,0,0,1,1,663.39
+32,M,casado,graduacao,0,27,1,56.7491112,5,0,0,1,0,251
+49,M,casado,ensino fundam,5,43,1,62.85180012,2,1,232,1,1,335
+42,M,divorciado,graduacao,1,36,1,126.8438678,4,0,0,1,1,526
+48,M,solteiro,graduacao,0,43,1,98.16969527,5,0,0,1,0,462.6
+57,M,solteiro,mestrado,0,51,1,134.9177357,5,0,0,1,0,578.7
+43,M,na,ensino fundam,3,36,1,121.7638883,3,1,273,1,1,483
+65,M,solteiro,graduacao,0,54,1,21.04522897,4,0,0,2,0,522
+50,F,solteiro,doutorado,0,42,1,100.080978,6,0,0,1,1,467.1
+26,F,solteiro,ensino medio,0,21,1,19.28475444,3,0,0,1,0,323.1
+44,F,solteiro,ensino medio,1,35,1,69.9866976,6,0,0,1,1,589.5
+38,M,solteiro,ensino medio,0,33,1,93.9363992,5,0,0,1,1,618.3
+43,M,casado,ensino fundam,4,38,1,60.54417241,5,0,0,1,0,271
+48,F,solteiro,mestrado,1,41,0,0,4,0,0,1,1,314.64
+51,M,casado,graduacao,3,45,1,142.8419038,2,1,822,1,2,723
+52,M,casado,ensino fundam,3,47,1,101.3200443,5,0,0,1,0,453
+46,M,na,graduacao,2,39,1,100.1276553,3,1,476,1,1,590
+49,M,casado,mestrado,3,44,1,137.1916045,2,1,759,1,0,512
+50,F,casado,doutorado,1,46,1,104.5424542,2,1,435,1,1,618
+61,M,casado,ensino medio,0,54,1,137.0980279,4,0,0,1,0,498
+41,M,casado,mestrado,4,35,1,121.6014861,1,1,221,1,1,491
+61,F,solteiro,ensino medio,0,55,1,76.59745209,4,0,0,1,1,609.3
+45,F,solteiro,ensino fundam,1,38,1,19.09410482,6,0,0,1,1,410.4
+31,M,casado,graduacao,1,25,1,104.3491044,2,1,1473,1,0,659
+56,F,divorciado,mestrado,1,51,0,0,6,0,0,1,0,365.6
+44,F,casado,ensino fundam,5,37,1,20.49253674,3,1,324,1,0,538
+41,F,solteiro,ensino fundam,0,34,1,66.5338419,3,0,0,1,1,510.3
+29,F,casado,ensino medio,2,22,1,20.25245629,6,0,0,1,1,469
+42,F,divorciado,mestrado,3,36,1,19.77848963,5,0,0,1,1,417
+53,F,casado,ensino medio,2,47,1,23.4877814,4,0,0,1,0,557
+63,M,solteiro,ensino medio,0,53,1,106.7373005,3,0,0,1,1,513
+32,F,casado,doutorado,3,23,1,62.86237615,4,0,0,1,1,490
+65,F,divorciado,ensino fundam,0,56,0,0,5,0,0,1,1,517.6
+51,F,solteiro,ensino medio,0,44,1,23.25019061,6,0,0,1,1,518.4
+61,F,casado,ensino medio,0,55,0,0,4,0,0,1,0,332.8
+34,F,solteiro,graduacao,1,29,1,17.37986824,4,0,0,1,0,312.3
+52,F,solteiro,doutorado,0,45,1,73.47698165,1,1,464,1,1,615.6
+44,M,solteiro,graduacao,1,37,1,98.0700335,4,0,0,1,1,557.1
+44,F,casado,ensino medio,3,39,1,26.58904375,1,1,712,1,0,572
+50,F,solteiro,ensino fundam,0,44,1,17.92326624,4,0,0,1,0,333
+45,M,na,mestrado,2,39,1,123.6876788,6,0,0,1,1,479
+39,F,solteiro,mestrado,0,35,0,0,2,1,836,2,0,555.84
+53,F,casado,ensino medio,4,46,0,0,5,0,0,1,2,536
+44,F,solteiro,ensino fundam,0,39,0,0,2,1,502,1,0,352.8
+43,F,na,mestrado,2,36,1,22.28715311,5,0,0,1,1,569
+44,F,casado,ensino medio,3,38,1,22.5472071,2,1,463,1,1,496
+44,F,solteiro,graduacao,1,39,1,22.0145797,2,1,443,1,0,387
+62,F,divorciado,ensino medio,0,55,1,24.32626479,3,1,403,1,0,495
+39,M,casado,ensino fundam,2,32,1,90.26399981,4,0,0,1,1,407
+43,F,na,ensino fundam,4,38,1,67.91739073,4,0,0,1,0,457
+54,M,solteiro,mestrado,0,49,1,66.2991448,2,1,164,1,0,338.4
+46,M,casado,ensino medio,3,41,1,192.0577359,3,1,395,1,0,613
+53,F,solteiro,doutorado,0,47,1,105.8163918,3,0,0,1,0,499.5
+42,M,casado,mestrado,4,34,1,65.81377113,1,1,422,1,2,481
+49,F,casado,graduacao,2,45,1,22.92355658,6,0,0,1,0,622
+58,M,solteiro,mestrado,0,53,1,148.2209221,1,1,796,1,1,665.1
+41,M,solteiro,ensino medio,0,34,1,71.35652664,3,0,0,1,1,564.3
+44,M,solteiro,ensino medio,0,39,1,85.57053211,1,1,1537,1,1,732.6
+47,F,casado,graduacao,1,41,0,0,4,0,0,1,1,408
+53,M,casado,doutorado,2,47,1,193.6660407,6,0,0,1,1,433.65
+39,F,solteiro,ensino medio,0,35,1,72.82324482,1,1,844,4,0,603.9
+52,M,casado,mestrado,2,49,1,138.8366515,5,0,0,2,2,841
+39,M,casado,ensino medio,4,33,1,123.117851,6,0,0,1,1,442
+53,F,solteiro,ensino fundam,0,47,0,0,2,1,249,1,0,389.52
+51,M,casado,mestrado,4,44,1,135.7321554,4,0,0,1,1,598
+38,F,casado,ensino medio,3,33,1,16.949743,5,0,0,1,0,233
+49,M,solteiro,graduacao,0,44,1,105.4666924,1,1,740,1,0,501.3
+52,F,casado,mestrado,2,46,1,23.83340498,3,1,451,1,0,595
+48,M,na,doutorado,4,42,1,64.43746582,6,0,0,1,0,434
+52,M,solteiro,mestrado,0,45,1,194.0838309,5,0,0,1,1,531.171
+43,M,casado,graduacao,2,45,1,149.636786,1,1,1618,2,0,880
+48,M,casado,graduacao,2,43,1,131.7469467,5,0,0,1,0,513
+58,M,casado,ensino medio,3,53,1,136.6783522,4,0,0,1,1,611
+56,M,na,graduacao,2,56,1,229.7890622,4,0,0,1,1,879
+43,F,solteiro,mestrado,2,37,1,21.79930024,3,0,0,1,0,445.5
+38,M,casado,ensino fundam,2,33,1,116.4490059,4,0,0,1,0,368
+31,F,divorciado,ensino fundam,1,21,0,0,4,0,0,1,2,439.2
+34,F,divorciado,ensino fundam,2,29,1,20.58965136,3,1,450,1,0,392
+53,F,solteiro,graduacao,0,49,1,29.30344761,1,1,768,1,0,619.2
+58,F,solteiro,ensino fundam,0,52,1,24.08891754,4,0,0,1,0,564.3
+35,F,solteiro,ensino medio,0,28,1,17.85907117,1,1,248,1,1,396
+32,F,solteiro,ensino medio,0,25,1,18.25454554,6,0,0,1,1,423
+54,M,casado,graduacao,2,48,1,133.9064576,4,0,0,1,1,541
+59,F,solteiro,ensino fundam,0,53,1,24.33280084,2,1,425,1,0,527.4
+51,F,divorciado,ensino medio,0,45,1,72.09760655,6,0,0,1,2,632
+42,M,na,graduacao,3,37,1,89.63999745,5,0,0,1,0,310
+36,M,solteiro,graduacao,0,27,1,60.40331647,3,0,0,1,1,481.5
+49,F,casado,graduacao,3,42,1,22.56574167,3,1,415,1,1,493
+46,F,casado,graduacao,3,42,1,75.11261568,2,1,750,1,1,619
+39,F,solteiro,mestrado,0,32,1,17.02226119,5,0,0,1,1,405.9
+45,M,casado,ensino medio,3,38,1,92.73073686,6,0,0,1,1,443
+42,M,solteiro,ensino fundam,0,37,1,94.77360718,5,0,0,1,0,401.4
+36,F,solteiro,mestrado,0,31,1,35.94676295,2,1,1425,1,1,684.9
+44,F,casado,doutorado,3,39,1,100.2478247,2,1,517,1,0,473
+40,F,solteiro,graduacao,1,31,1,22.35114837,5,0,0,1,1,578.7
+39,F,solteiro,ensino medio,0,39,1,21.11721603,1,1,1380,2,1,795.6
+47,M,casado,mestrado,4,40,1,100.1932372,4,0,0,1,1,568
+55,F,casado,mestrado,0,48,1,20.04616166,4,0,0,1,1,463
+49,M,solteiro,ensino medio,0,44,1,108.0813125,2,1,771,3,1,712.8
+49,M,solteiro,graduacao,0,43,1,195.7335714,3,0,0,1,0,518.4
+51,F,solteiro,graduacao,0,45,1,23.48705525,5,0,0,1,0,507.6
+52,F,casado,graduacao,3,46,1,23.75555373,4,0,0,1,1,546
+39,F,solteiro,mestrado,0,30,1,22.21598551,1,1,485,1,1,554.4
+53,F,solteiro,ensino medio,0,47,0,0,4,0,0,1,0,416.88
+39,M,solteiro,doutorado,0,34,1,63.28756373,5,0,0,1,0,329.4
+49,F,na,mestrado,4,49,1,37.74872557,1,1,1309,1,1,757
+35,F,divorciado,mestrado,2,36,1,142.8707446,1,1,1603,1,1,804
+36,M,casado,ensino medio,1,28,1,119.0138443,4,0,0,1,2,554
+46,F,solteiro,ensino medio,1,42,0,0,4,0,0,1,0,334.08
+46,F,casado,ensino fundam,2,42,1,19.08987139,1,1,242,1,0,318
+48,M,na,graduacao,2,41,1,99.65341957,4,0,0,1,1,578
+58,M,casado,ensino medio,2,54,1,203.3522918,6,0,0,1,0,626
+38,F,casado,graduacao,3,31,1,21.15040415,3,1,435,1,1,469
+45,M,casado,ensino medio,2,45,1,211.4281646,3,0,0,1,1,820
+44,M,na,mestrado,4,41,1,73.97400277,1,1,820,2,0,658
+49,F,divorciado,ensino medio,4,42,1,71.88920596,3,1,475,1,1,570
+50,M,solteiro,ensino medio,0,43,1,141.6457261,2,0,0,2,1,772.2
+48,F,na,ensino medio,3,41,1,18.98371428,3,1,205,1,1,432
+39,F,solteiro,ensino fundam,0,33,0,0,6,0,0,1,0,376.56
+36,F,divorciado,mestrado,0,30,1,17.95436619,3,1,245,1,1,397
+40,M,casado,graduacao,4,36,1,97.40241006,3,1,555,1,1,613
+47,F,casado,ensino medio,4,42,1,102.1260383,4,0,0,1,0,605
+35,F,casado,ensino fundam,4,28,1,21.86071545,3,1,509,1,0,521
+46,F,casado,graduacao,1,38,1,18.41285456,5,0,0,1,2,440
+42,M,solteiro,ensino medio,1,39,1,134.4059253,2,1,850,2,0,694.8
+57,M,solteiro,graduacao,0,52,1,138.6159575,4,0,0,1,0,500.4
+42,M,casado,ensino medio,3,35,1,17.66247613,2,1,192,1,1,435
+44,M,solteiro,ensino fundam,0,39,1,66.95726731,6,0,0,1,0,374.4
+48,F,casado,ensino fundam,2,43,1,17.99021813,5,0,0,1,0,344
+52,M,casado,ensino fundam,1,45,1,129.6913021,4,0,0,1,1,459
+53,M,na,ensino medio,3,47,1,137.9272672,5,0,0,1,1,545
+42,F,divorciado,mestrado,4,35,0,0,6,0,0,1,1,460
+54,F,casado,ensino fundam,3,48,1,19.81926889,6,0,0,1,1,454
+50,M,solteiro,ensino medio,0,43,1,134.0979827,2,1,464,1,1,562.5
+55,M,solteiro,ensino medio,0,49,1,137.6171549,6,0,0,1,0,564.3
+45,F,divorciado,ensino medio,3,38,1,65.12592689,1,1,221,1,1,431
+42,M,na,ensino medio,3,37,1,126.1862822,6,0,0,1,0,500
+58,M,casado,ensino fundam,3,53,1,198.3433267,5,0,0,1,0,374
+52,M,na,graduacao,3,46,1,130.0036968,3,1,209,1,1,419
+43,F,casado,mestrado,3,38,1,17.3130767,4,0,0,1,0,303
+40,M,casado,ensino medio,3,34,1,94.50696287,6,0,0,1,1,557
+57,F,solteiro,graduacao,0,50,1,24.98556973,1,1,475,1,1,577.8
+60,F,solteiro,graduacao,0,53,1,76.8067102,3,0,0,1,1,645.3
+47,M,na,ensino medio,2,41,1,130.6270276,3,1,442,1,1,526
+44,F,casado,ensino fundam,0,36,1,19.25439179,5,0,0,1,2,505
+43,M,solteiro,ensino medio,0,36,1,62.73653887,5,0,0,1,1,441.9
+58,M,solteiro,graduacao,0,53,1,141.5722987,6,0,0,1,1,642.6
+42,F,solteiro,mestrado,0,37,1,22.91999268,4,0,0,1,0,391.5
+49,F,casado,graduacao,3,44,1,24.51026275,3,1,521,1,1,604
+55,M,solteiro,graduacao,0,50,1,197.3506231,3,0,0,1,0,508.5
+45,M,solteiro,ensino medio,0,39,1,123.15522,2,1,261,1,0,471.6
+46,M,casado,doutorado,4,40,1,99.09850115,6,0,0,1,1,532
+45,M,solteiro,ensino medio,0,38,1,91.99106218,2,1,265,1,1,374.4
+53,M,solteiro,graduacao,1,48,1,103.3744894,5,0,0,1,0,479.7
+49,F,solteiro,ensino medio,1,44,1,88.38996732,5,0,0,1,1,718.2
+46,M,solteiro,graduacao,0,40,1,124.7337707,3,0,0,3,0,500.4
+38,M,solteiro,ensino medio,0,31,1,19.61366785,5,0,0,1,1,444.6
+47,F,casado,graduacao,3,40,0,0,4,0,0,1,1,401.6
+44,F,casado,ensino medio,3,38,1,21.18567685,6,0,0,1,1,449
+41,F,divorciado,ensino medio,4,36,1,20.55252248,5,0,0,1,0,455
+48,M,casado,ensino medio,1,43,1,130.6593174,6,0,0,1,0,468
+48,M,casado,ensino fundam,4,43,1,137.766503,2,1,753,1,1,635
+56,M,divorciado,graduacao,3,49,1,138.2956624,2,1,372,1,1,589
+54,F,casado,mestrado,2,46,1,21.05467039,3,1,262,1,2,625
+56,F,solteiro,ensino fundam,0,47,1,19.82827238,3,0,0,1,1,502.2
+48,M,solteiro,mestrado,0,43,1,67.42820239,3,0,0,1,0,463.5
+40,M,casado,ensino medio,4,33,1,122.5537449,3,1,367,1,1,462
+57,M,casado,graduacao,1,53,1,137.2998107,3,1,205,1,0,658
+59,F,na,ensino medio,0,54,0,0,4,0,0,1,1,497.6
+45,F,solteiro,ensino fundam,0,39,1,20.34727216,6,0,0,1,0,412.2
+48,F,divorciado,mestrado,3,49,1,42.29691672,2,1,1603,1,1,765
+46,F,solteiro,ensino fundam,0,40,1,18.63292493,3,0,0,1,0,421.2
+40,M,solteiro,mestrado,0,36,1,185.0478235,4,0,0,1,0,667.44
+42,M,casado,graduacao,4,36,1,96.67743226,2,1,467,1,1,527
+42,F,casado,ensino medio,5,37,1,21.76355066,5,0,0,1,0,411
+43,M,solteiro,mestrado,1,37,1,62.4849515,5,0,0,1,0,381.6
+39,F,solteiro,mestrado,0,32,1,20.27554664,5,0,0,1,1,373.5
+54,F,casado,mestrado,1,50,0,0,4,0,0,1,0,304.8
+51,F,casado,ensino medio,2,52,1,40.75459728,1,1,1459,1,1,759
+40,M,casado,mestrado,4,36,1,191.2421464,2,1,810,1,1,663.32
+47,F,solteiro,ensino medio,0,41,1,22.85419875,4,0,0,1,0,486
+41,M,casado,ensino medio,2,35,1,96.47499675,1,1,537,1,1,467
+58,F,divorciado,mestrado,1,51,0,0,3,1,215,1,2,496
+43,F,na,graduacao,3,36,1,21.5897681,5,0,0,1,1,509
+46,F,casado,ensino medio,4,40,1,22.46295742,4,0,0,1,1,446
+49,M,casado,doutorado,3,45,1,127.7554758,3,1,189,1,0,471
+55,F,na,ensino medio,2,46,1,19.56644897,4,0,0,1,2,501
+50,M,solteiro,graduacao,0,44,1,102.7414956,6,0,0,1,0,544.5
+49,M,casado,ensino medio,2,43,1,69.65562236,4,0,0,1,1,560
+43,M,casado,doutorado,4,36,1,181.8541524,3,1,291,1,1,474.6
+41,F,casado,ensino fundam,3,36,1,20.97797777,3,1,405,1,0,379
+50,M,casado,mestrado,0,45,1,100.1289708,4,0,0,1,0,470
+38,M,solteiro,ensino fundam,0,31,1,89.80599575,6,0,0,1,1,432
+49,F,casado,graduacao,3,43,1,19.79930571,3,1,252,1,1,406
+54,M,casado,ensino medio,4,48,1,194.7831764,4,0,0,1,1,387
+43,F,na,graduacao,4,36,1,20.92579303,3,1,365,1,1,513
